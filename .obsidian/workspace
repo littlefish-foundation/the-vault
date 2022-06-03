@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Project Catalyst Primer.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -40,9 +40,9 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#ca",
                 "matchingCase": false,
-                "explainSearch": false,
+                "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Catalyst Primer.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,9 +97,11 @@
   },
   "active": "511ba0ef823be603",
   "lastOpenFiles": [
-    "Project Catalyst Primer.md",
-    "Community Advisors.md",
-    "Pasted image 20220601142528.png",
-    "Pasted image 20220601142241.png"
+    "README.md",
+    "Project Catalyst/Project Catalyst Primer.md",
+    "Project Catalyst/Community Advisors.md",
+    "Project Catalyst/Pasted image 20220602133654.png",
+    "Project Catalyst/Pasted image 20220601142528.png",
+    "Project Catalyst/Pasted image 20220601142241.png"
   ]
 }

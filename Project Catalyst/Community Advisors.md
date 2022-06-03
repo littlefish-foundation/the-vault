@@ -32,3 +32,6 @@ In it
 These guys also have a tool to assist in the CA process. We will use this to find and write our assessments: https://cardanocataly.st/ca-tool/#/
 
 
+
+
+#CA #catalyst 
