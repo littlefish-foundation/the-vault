@@ -1,5 +1,6 @@
 # to exclude workspace cache
 .obsidian/workspace/*
+.obsidian/workspace
 
 # Exclude specific files - we may use this at some point
 # 05*-*Personal/
