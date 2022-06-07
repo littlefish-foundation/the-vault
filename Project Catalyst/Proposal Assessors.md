@@ -7,7 +7,7 @@ This is a good resource on the general process: [CA Onboarding FAQ](https://docs
 The main communication channel for PAs if you have any questions: 
 https://t.me/CatalystCommunityAdvisors
 
-These community links are also very helpful: [[Project Catalyst Primer#Community Links]]
+These community links are also very helpful: [[Project Catalyst#Community Links]]
 
 The amount of information may seem overwhelming but the process is pretty straightforward. 
 

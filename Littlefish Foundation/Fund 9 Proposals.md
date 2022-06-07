@@ -1,0 +1,3 @@
+Welcome **littlefish**. You're freed from the shackles of Ideascale with its linear, scroll down, nightmarishly boring web2 UI. Here, you are free to explore the depths of the Littlefish Foundation, jump through hoops, dive into rabbitholes, and find connections. Whether you're a reviewer, a voter, a community member, or just a curious member of the Catalyst family, you are welcome here. All littlefish have a place in the Littlefish Foundation!
+
+This page is the entry point for all Littlefish Foundation proposals in Fund 9. 
