@@ -11,7 +11,7 @@ Colonies perform real-world activities. 
 
 These activities are documented in whatever way colony members choose - video, image, recordings, tweets, Instagram, … Collected multimedia is then published as NFTs called **Actions**.
 
-Actions are the [[The Attributes of Action#Proof of Activity PoA|**Proof of Activity**]] (PoA). They contain information showing that something has been done to impact the world. [[Why Purchase Actions?|Actions can be sold]] to generate funding. 
+Actions are the [[The Attributes of Action#Proof of Activity PoA|**Proof of Activity**]] (PoA). They contain information showing that something has been done to impact the world. [[Why Purchase Actions|Actions can be sold]] to generate funding. 
 
 The rewards from the sale of Actions are shared between the colony and littlefish. **Everyone earns.**
 

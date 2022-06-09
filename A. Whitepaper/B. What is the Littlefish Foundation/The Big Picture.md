@@ -1,6 +1,6 @@
 Littlefish Foundation is a decentralized organization, building technologies which align individual actions towards common goals.
 
-We use [[Why Blockchain?|blockchain technology]] to redefine earning relationships between people, work, and organizations, enabling a new model of operation that grants more freedom to participants, while making sure that freedom results in progress towards the goals of the whole.
+We use [[Why Blockchain|blockchain technology]] to redefine earning relationships between people, work, and organizations, enabling a new model of operation that grants more freedom to participants, while making sure that freedom results in progress towards the goals of the whole.
 
 This model enables:
 -   collective initiatives of local or global scale to get worldwide support

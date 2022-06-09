@@ -14,15 +14,15 @@ Enjoy the rabbitholes but bookmark this page, just in case you get lost!
 - [[The Big Picture]]
 - [[The Basics - littlefish, colonies and Action]]
 - [[Littlefish Action Model]]
-- [[Why Purchase Actions?]]
+- [[Why Purchase Actions]]
 
 ### Littlefish Foundation, the Organization
 - [[The First Colony]]
 - [[A Radical Method of Organization]]
 
 ### Technology, Philosophy, and More
-- [[Why Blockchain?]]
-- [[Why Cardano?]]
+- [[Why Blockchain]]
+- [[Why Cardano]]
 - [[The Littlefish Way]]
 - [[The Attributes of Action]]
 - [[Glossary of Terms]]
