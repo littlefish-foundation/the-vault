@@ -4,7 +4,7 @@ Littlefish Action Model describes how individual Actions are aligned towards com
 
 1 - Everything starts with **colonies**. Littlefish gather around an idea/project/cause/… and start a colony. Colony members have shared goals and undertake activities towards achieving them.
 
-2 - They record these activities using pictures, videos, documents, and other forms of multimedia. These records are recorded on the blockchain as NFTs called Actions. These records will live forever on the blockchain. 
+2 - They record these activities using pictures, videos, documents, and other forms of multimedia. These records are recorded on the blockchain as [[The Attributes of Action#Proof of Activity PoA|NFTs called Actions]]. These records will live forever on the blockchain. 
 
 3 - Littlefish sell their Actions. These can be bought internally by the colony or externally by others.
 

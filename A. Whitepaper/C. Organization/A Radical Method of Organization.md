@@ -7,7 +7,7 @@ Littlefish Foundation takes inspiration from Teal Organization principles:
 
 Teal organizations are radically different. Gone are the pyramids of structural oppression, replaced by decentralized networks of self-managing teams:
 
-![[Pasted image 20220607192502.png]]
+![[tealvsnotealhiearchy.png]]
 
 > All organizations prior to Teal were structured as pyramids for a simple reason: it is a natural consequence of the boss-subordinate relationship. In self-managed organizations, peer commitments replace the boss-subordinate relationship, and the pyramid disappears. Authority is distributed, and work is conducted by decentralized, [self-managing teams or networks](https://docs.google.com/document/d/1U_RIQxkM4DW2_J8mF8_spJzs8HbJH1PusJNK4b_ix8k/edit#heading=h.k6jpf3ic859m). 
 

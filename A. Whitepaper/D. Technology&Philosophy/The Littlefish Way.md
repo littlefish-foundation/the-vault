@@ -1,5 +1,3 @@
-# The Littlefish Way
-
 ## Towards Decentralized Civilization
 ![[oannes.jpg]]
 

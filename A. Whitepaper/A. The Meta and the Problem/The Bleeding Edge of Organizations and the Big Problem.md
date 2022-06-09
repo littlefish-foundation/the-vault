@@ -6,7 +6,7 @@ This is just a taste of a brand new model for organizing human efforts. The clas
 -   **Remote**: Interactions happen through digital communications 
 -   **Self-managing**: Participants take an active role in deciding what to do
 
-Today, blockchains and smart contract technologies enable individuals to participate in global networks, trade assets without middlemen, and take action towards common goals. We are at the beginnings of a global shift and decentralized communities are the pioneers. 
+Today, blockchains and smart contract technologies enable individuals to participate in global networks, trade assets without middlemen, and take action towards common goals. We are at the beginning of a global shift and decentralized communities are the pioneers. 
 
 These communities remove the need to start businesses to solve problems while allowing greater autonomy for individual participants. Each participant’s value is based on their own skills and abilities. Each interaction is peer to peer. The qualities of this model of operation are:
 

@@ -8,4 +8,4 @@ While Big Tech was emerging, some saw the negative effects of centralized power 
 
 > The Times 03/Jan/2009 Chancellor on brink of second bailout for banks
 
-With it the modern decentralization movement began. Today, blockchain decentralization expands from the domain of money to other domains. With blockchain information is retained, unmediated, uncensored, and unalterable. Big Tech’s hold on attention is being disrupted and a [[Bleeding Edge of Organizations and the Big Problem|new model of operation]] for human affairs emerges.
+With it the modern decentralization movement began. Today, blockchain decentralization expands from the domain of money to other domains. With blockchain information is retained, unmediated, uncensored, and unalterable. Big Tech’s hold on attention is being disrupted and a [[The Bleeding Edge of Organizations and the Big Problem|new model of operation]] for human affairs emerges.

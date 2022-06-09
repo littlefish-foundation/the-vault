@@ -1,18 +1,46 @@
-Welcome to  Littlefish Foundation Vault! 
+Welcome **littlefish** to The Vault, we're glad you've found us. You've discovered a passionate community of builders, creators, and dreamers.
 
-## What is the Littlefish Foundation?
-Littlefish Foundation is a decentralized organization, building technologies that align inidividual actions towards common goals. 
+We value freedom and reward the curious. Feel free to explore whatever grabs your attention. 
 
-We use blockchain technology to redefine earning relationships between people, work, and organizations, enabling a new model of operation that grants more freedom to participants, while making sure that freedom results in progress towards the goals of the whole.
+Enjoy the rabbitholes but bookmark this page, just in case you get lost!
 
-## What is the Littlefish Vault?
-This is an experiment to pool and share the collective knowledge of littlefish who make up the Littlefish Foundation. 
+## Choose your own adventure: The Whitepaper
+### The Meta and the Big Problem
+- [[The Meta]]
+- [[The Digital and Beyond]]
+- [[The Bleeding Edge of Organizations and the Big Problem]]
 
-Here you will find information about:
-- Blockchains
-	- [[Blockchain 101]]
-- Cardano
-	- [[Cardano Links]]
-	- [[Project Catalyst]]
- 
-... and of course, the [[The Linklist]]
+### What is this thing we're building?
+- [[The Big Picture]]
+- [[The Basics - littlefish, colonies and Action]]
+- [[Littlefish Action Model]]
+- [[Why Purchase Actions?]]
+
+### Littlefish Foundation, the Organization
+- [[The First Colony]]
+- [[A Radical Method of Organization]]
+
+### Technology, Philosophy, and More
+- [[Why Blockchain?]]
+- [[Why Cardano?]]
+- [[The Littlefish Way]]
+- [[The Attributes of Action]]
+- [[Glossary of Terms]]
+
+## Learning Web3
+- [[Blockchain 101]]
+- [[Cardano 101]]
+
+## Cardano Community
+- [[Cardano Links]]
+- [[Project Catalyst]]
+
+## Sub-Colonies (LFF Work Groups)
+Littlefish Foundation is made up of, currently, five different work groups. These are loose groups with large overlaps between each group. They are all subject to change as the Littlefish Foundation grows. 
+- [[Tech Help Collective]]
+- [[Love House]]
+- [[Dream Engine]]
+- [[Organization Labs]]
+- [[The Forge]]
+
+
