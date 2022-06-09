@@ -4,8 +4,8 @@
 ## Availability
 [Website availability from different regions](https://www.site24x7.com/check-website-availability.html)
 ## Features
-asdasdasd
+asdasdasdasdasdasdasd
 ## Compatibility
 ### Hardware Wallets (Cold Wallets)
-scasddasdas
+scasddasdasASasAS
 ### Software Wallets (Hot Wallets)
