@@ -6,8 +6,8 @@ This model enables:
 -   collective initiatives of local or global scale to get worldwide support
 -   peer to peer earning relationships without intermediaries
 -   greater freedom for all participants
-Littlefish Way#
-It begins with littlefish. For each greater freedom lies within the journey. The search for [[The Littlefish Way#It Starts within the Individual|**Ikigai**]].
+
+It begins with littlefish. For each greater freedom lies within the journey. The search for [[The Littlefish Way#It Starts within the Individual|Ikigai]].
 ![[ikigai.png]]
 
 Ikigai: a reason for being. A single-player journey in a multiplayer world. Each littlefish brings their skills, needs, desires, and passion. 

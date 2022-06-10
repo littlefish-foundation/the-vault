@@ -2,6 +2,8 @@
 .obsidian/workspace/*
 .obsidian/workspace
 
+.obsidian/graph.json
+
 # Exclude specific files - we may use this at some point
 # 05*-*Personal/
 
