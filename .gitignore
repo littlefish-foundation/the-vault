@@ -3,6 +3,7 @@
 .obsidian/workspace
 
 .obsidian/graph.json
+.obsidian/hotkeys.json
 
 # Exclude specific files - we may use this at some point
 # 05*-*Personal/
