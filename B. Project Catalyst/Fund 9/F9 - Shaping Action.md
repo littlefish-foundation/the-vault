@@ -14,6 +14,7 @@ To make it concrete, the first step is to define the metadata. There are many wa
 In classical software systems, definitions of data evolve over time according to changing business demands. New data fields can be added, old ones changed or deleted. With NFTs (if not accounted for) data can't be updated. Actions will stay the same. Newer versions may have new information but this introduces an interoperability constraint. All clients that use this type of NFT would have to extend their support for it. This may become an untenable problem for 3rd party applications that want to use Actions.
 
 Hence the design process must account for this dichotomy. Our approach to solve this problem is to define Action incrementally with experimental steps. On the way, we'll be working with other Catalyst communities (other colonies), discussing their use cases for Actions, generalizing to the needs of decentralized communities. The pioneers of crypto-native organizations. They will be the first users of Actions, along with LFF, [the first colony](https://publish.obsidian.md/littlefish-foundation/A.+Whitepaper/C.+Organization/The+First+Colony).
+
 ### Please describe how your proposed solution will address the challenge?*
 Littlefish Foundation is an original crypto native idea. It is an attempt to redefine existing earning relationships and replace it with a model that serves the people. Actions are at the heart of that.
 
@@ -106,7 +107,7 @@ We create such systems with the aim of turning them into software. First we prac
 
 Some other experiments relating to publishing Actions by:
 -   Financial tracking of [rewards](https://docs.google.com/spreadsheets/d/11rj_nNfQg98ePy3_2pp7YkiZc0WV47Dd-AgUf20fNZI/edit?usp=sharing)
--   Actions published on [#action](https://discord.gg/K4ZzcAPM) Discord channel,
+-   Actions published on [action](https://discord.gg/K4ZzcAPM) Discord channel,
 -   Older Actions published on the [Adventures of Littlefish](https://miro.com/app/board/uXjVOPNZgXQ=/?share_link_id=407306684536)
 
 Success means these experiments turn into learning which turn into applications loved by the community.
