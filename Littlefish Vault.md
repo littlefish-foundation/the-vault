@@ -19,6 +19,7 @@ Enjoy the rabbitholes but bookmark this page, just in case you get lost!
 ### Littlefish Foundation, the Organization
 - [[The First Colony]]
 - [[A Radical Method of Organization]]
+- [[Work Groups]]
 
 ### Technology, Philosophy, and More
 - [[Why Blockchain]]
@@ -34,13 +35,5 @@ Enjoy the rabbitholes but bookmark this page, just in case you get lost!
 ## Cardano Community
 - [[Cardano Links]]
 - [[Project Catalyst]]
-
-## Sub-Colonies (LFF Work Groups)
-Littlefish Foundation is made up of, currently, five different work groups. These are loose groups with large overlaps between each group. They are all subject to change as the Littlefish Foundation grows. 
-- [[Tech Help Collective]]
-- [[Love House]]
-- [[Dream Engine]]
-- [[Organization Labs]]
-- [[The Forge]]
 
 

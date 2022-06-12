@@ -49,3 +49,4 @@ The key is to begin small and build by taking experimental steps.
 		-   Decays are based on the last time each party has interacted with the colony. 
 		-   Each interaction (buying or producing Action) will reset the decay coefficient to base. 
 		-   Decay may be by time elapsed, or number of Actions since.``
+

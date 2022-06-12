@@ -23,8 +23,7 @@ In Littlefish Foundation, this is a journey, the search for **Ikigai**. 
 
 Let your love guide you. Your weaknesses show you what you need. Your skills are your assets. Use them to help yourself, and others. 
 
-"Your goal in life is to find out the people who need you the most, to find out the business that needs you the most, to find the project and the art that needs you the most. There is something out there just for you." 
-
+> "Your goal in life is to find out the people who need you the most, to find out the business that needs you the most, to find the project and the art that needs you the most. There is something out there just for you." 
             [Naval](https://open.spotify.com/episode/5W0RQCDr28VSxVZOYJn3f5?si=t2PhcpLnRpGJo6uMv_fM0g&utm_source=copy-link&nd=1)
 
 ## Self-Actualization Through Community 
