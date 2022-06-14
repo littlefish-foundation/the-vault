@@ -1,3 +1,5 @@
+#whitepaper
+
 The economic paradigm of the day influences all decision-making. It determines the outcomes for everyone who participates in the economy. The results are clear to: Wide income gaps between the richest and the poorest, economic crises that destroy generational wealth, increased productivity while compensation stagnates … 
 
 These outcomes are the result of the thinking behind how we structure our economies. John Maynard Keynes probably understood and exemplified this better than any other:  

@@ -1,3 +1,5 @@
+#THC #LFF-tools
+
 As you know you control Obsidian from your GitHub repository. Both of these platforms have Windows Programs you can use from the comfort of your desk(top).
 
 This guide will explain how you can get your GitHub repo as a folder to your computer, download and setup Obsidian, connect Obsidian to your downloaded GitHub folder and finally push the changes to GitHub and consequently update Obsidian page.

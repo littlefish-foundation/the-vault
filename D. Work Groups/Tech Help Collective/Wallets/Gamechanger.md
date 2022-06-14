@@ -1,4 +1,4 @@
-
+#THC #wallet
 # Gamechanger Wallet
 ==THIS WALLET WILL BE TESTED WHEN A HEALTHY CONNECTION IS ESTABLISED==
 Contrary to the availability check conducted below, website of this wallet is not reachable from the regions we have checked. (Turkey, the Netherlands) Please let us know if you can use this wallet with the region information so we can test and document it.

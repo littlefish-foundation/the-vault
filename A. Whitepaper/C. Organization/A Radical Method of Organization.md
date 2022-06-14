@@ -1,3 +1,5 @@
+#whitepaper
+
 This section is heavily sourced from: [https://reinventingorganizationswiki.com/theory/organizational-structure/](https://reinventingorganizationswiki.com/theory/organizational-structure/)
 
 Littlefish Foundation takes inspiration from Teal Organization principles:

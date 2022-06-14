@@ -1,3 +1,5 @@
+#whitepaper
+
 **Littlefish** are the actors of the system. They are individuals who want to enable and enact change in the world. They come together on the Littlefish Platform to form colonies.
 
 **Colonies** are groups of littlefish. A group of friends, a digital community, a DAO, a business, a charity organization, … They have common goals to work towards. 

@@ -1,3 +1,5 @@
+#whitepaper 
+
 ## Proof of Activity (PoA)
 Littlefish perform activities and document them through video, image, recordings, tweets, instagram, … This record is then published as NFTs called **Actions**.
 

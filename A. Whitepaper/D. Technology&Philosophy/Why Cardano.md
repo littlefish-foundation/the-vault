@@ -1,3 +1,5 @@
+#whitepaper
+
 Cardano’s Project Catalyst is central to the Cardano vision. It is a global innovation funding machine focusing on funding the community and increasing the number of projects working on Cardano. It funds millions of dollars worth of innovation.
 
 > Project Catalyst is a series of experiments which seeks to generate the highest levels of community innovation… It also lets participants deploy funding to proposals which tackle challenges and capitalize on opportunities … [1]

@@ -1,3 +1,5 @@
+#whitepaper
+
 > Everything you can imagine is real.<div style="text-align: right"> Pablo Picasso</div>
 
 The past two centuries have brought us incredible advances. Powered by the values of The Enlightenment, we’ve made scientific breakthroughs and started to understand our place in the universe. We’ve broken the shackles of our ignorance and gained newfound freedoms. We’ve leveraged our mastery over technology to lift the majority of humanity from abject poverty.

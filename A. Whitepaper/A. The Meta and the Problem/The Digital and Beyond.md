@@ -1,3 +1,5 @@
+#whitepaper 
+
 We live in an age of exponential change. Technological progress is disrupting every facet of society, displacing and democratizing power.
 
 With web2, large corporations in many industries have lost their influence. The power of old special interest groups over technology, art, and commerce is now considerably less. Before web2, recording companies produced the music, publishers published the books, and Hollywood made the movies. Technological know-how was exclusive to organizations and kept hidden from the public. Web2 enabled the proliferation of content, displacing old industries, and allowing everyone to become publishers. Today, knowledge is available to all, for free.

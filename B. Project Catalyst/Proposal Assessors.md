@@ -1,3 +1,4 @@
+#project-catalyst #PA
 
 # The Process 
 Proposal Assessors (PAs), formerly known as Community Advisors (CAs), review proposals according to this guideline: [https://bit.ly/CA-Guide](https://bit.ly/CA-Guide)
@@ -39,4 +40,3 @@ In there you will find all Valid and Excluded assessments. Start by going throug
 These guys also have a tool to assist in the CA process. We will use this to find and write our assessments: https://cardanocataly.st/ca-tool/#/
 
 
-#PA #catalyst 

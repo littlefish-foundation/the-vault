@@ -1,3 +1,5 @@
+#cardano 
+
 ## **Official Links**
 Proposals: [ideascale](https://cardano.ideascale.com)
 All Announcements: [TG announcements channel](https://t.me/cardanocatalyst)  

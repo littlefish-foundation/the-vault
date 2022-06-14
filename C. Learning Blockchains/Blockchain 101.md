@@ -1,3 +1,5 @@
+#learning
+
 This is a list of resources to learn about Blockchains, in a fun and easy way. 
 
 ## Decentralization

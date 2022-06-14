@@ -1,3 +1,5 @@
+#whitepaper
+
 The future of organization is here. The pioneers of this future are crypto-native organizations, digital communities and decentralized projects. Littlefish Foundation is one such organization: a decentralized project with a digital community built on the Cardano blockchain.   
 
 We have been building the Littlefish Foundation, experimenting in digital community building since December 2021. We have seen the difficulties of driving community to action. Coordination is difficult. There is information overload. There is no visibility to action. These are the practical problems of coordination all digital communities face. First, we will solve these problems for ourselves. Then we will provide the solutions to everyone else. 

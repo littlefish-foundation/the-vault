@@ -1,3 +1,5 @@
+#project-catalyst 
+
 ## What is Project Catalyst?  
 The aim of Project Catalyst is to "create, fund and deliver the future of Cardano. Project Catalyst is an experiment in community innovation, providing a framework to turn ideas into impactful real world projects." 
 

@@ -1,3 +1,5 @@
+#THC #wallet
+
 ![[typhon.svg]] 
 # Typhon Wallet
 * It has both web-ui and extensions for several browsers

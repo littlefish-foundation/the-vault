@@ -1,3 +1,5 @@
+#whitepaper
+
 ## Towards Decentralized Civilization
 ![[oannes.jpg]]
 

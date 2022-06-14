@@ -1,3 +1,5 @@
+#proposal #project-catalyst
+
 ## General
 ### Problem statement
 In decentralized work, visibility to contributions is low, information doesn’t spread effectively. Action doesn’t align with common goals.

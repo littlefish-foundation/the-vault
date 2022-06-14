@@ -1,3 +1,5 @@
+#whitepaper
+
 Through COVID the world experienced a shift to a digital model of operation. Remote work and education became the norm. Business trips made way for video conferences, homes became offices, parents and children met at home during work hours, workers realized a significant part of their time was spent on the road. With their newly gained freedoms, some opted to work late into the nights or have breakfast with their families before starting their days. Individuals started to experience self-management. They gained control of their time. 
 
 This is just a taste of a brand new model for organizing human efforts. The classical model of 9-to-5 is no more. In its place is a new model that values personal freedom. 

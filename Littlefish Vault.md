@@ -19,7 +19,7 @@ Enjoy the rabbitholes but bookmark this page, just in case you get lost!
 ### Littlefish Foundation, the Organization
 - [[The First Colony]]
 - [[A Radical Method of Organization]]
-- [[Work Groups]]
+- [[Colonies]]
 
 ### Technology, Philosophy, and More
 - [[Why Blockchain]]

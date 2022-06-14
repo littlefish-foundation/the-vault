@@ -1,3 +1,5 @@
+#whitepaper
+
 What Actions will be valuable will be determined by the behavior of littlefish, determined through the mechanism of the free market and the values of littlefish. 
 
 There are multiple reasons to purchase Actions:

@@ -1,3 +1,5 @@
+#whitepaper 
+
 Littlefish Action Model describes how individual Actions are aligned towards common goals with littlefish, colonies and Actions. 
 
 ![[littlefishactionmodel.png]]
