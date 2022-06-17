@@ -1,9 +1,9 @@
 {
-  "commitMessage": "change an expired link: {{date}}",
+  "commitMessage": "vault backup: {{date}}",
   "autoCommitMessage": "vault backup: {{date}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
-  "autoSaveInterval": 0,
-  "autoPullInterval": 5,
+  "autoSaveInterval": 5,
+  "autoPullInterval": 0,
   "autoPullOnBoot": true,
   "disablePush": false,
   "pullBeforePush": true,
