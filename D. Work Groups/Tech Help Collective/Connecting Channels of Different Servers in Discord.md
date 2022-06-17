@@ -1,10 +1,8 @@
-#THC #LFF-tools
-
 In Discord you can connect several channels to each other. You can do this with a bot called Connecty. When you set up this bot in two different server’s different channels, the bot will automatically send the messages from one channel to the other instantly. You can add multiple channels with the help of this bot.
 
 Necessary steps to setup the bot are given below;
 
--   For this sync process, you have to add the bot to your server. Link is; [](https://discord.com/channels/683051973385519155/954234590694883398/966523205865062430)[https://discord.com/channels/683051973385519155/954234590694883398/966523205865062430](https://discord.com/channels/683051973385519155/954234590694883398/966523205865062430)
+-   For this sync process, you have to add the bot to your server. Link is; [https://discord.com/api/oauth2/authorize?client_id=876260192327716916&permissions=805691489&scope=bot](https://discord.com/api/oauth2/authorize?client_id=876260192327716916&permissions=805691489&scope=bot "https://discord.com/api/oauth2/authorize?client_id=876260192327716916&permissions=805691489&scope=bot")
 -   After you have added the bot, you have to get through a verification process. For this verification;
     -   Go to the bot’s support server; [](https://discord.gg/ttbfWSAb)[https://discord.gg/ttbfWSAb](https://discord.gg/ttbfWSAb)
     -   In the server’s ‘spam’ channel, send `b/get_code` as message.
