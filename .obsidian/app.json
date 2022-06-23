@@ -2,5 +2,8 @@
   "legacyEditor": false,
   "livePreview": true,
   "alwaysUpdateLinks": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "tabSize": 4,
+  "spellcheck": true,
+  "showFrontmatter": true
 }

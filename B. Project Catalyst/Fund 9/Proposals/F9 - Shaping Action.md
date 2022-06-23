@@ -1,4 +1,6 @@
-#proposal #project-catalyst
+#proposal #project-catalyst #fund9
+
+[Up-to-date version](https://docs.google.com/document/d/1aJN3C7WFXCVbnQaV2xIUOBx8YkCeYhOh5Jynibe_s2A/edit?usp=sharing)
 
 ## General
 ### Problem statement
@@ -7,7 +9,7 @@ In decentralized work, visibility to contributions is low, information doesn’t
 ### Summarize your solution to the problem.
 A complete platform that enables decentralized communities, starting with specifying, testing, and implementing the basic building block of decentralized work: the Action NFT.
 
-## Impact
+## IMPACT
 ### Please describe your proposed solution.*
 Actions are the basic blocks in Littlefish Foundation. They are the NFTs, Proofs of Activity, that can be made to represent any activity in the real world. This is a rather broad definition that must be specified, designed, tested, and implemented.
 
@@ -29,7 +31,7 @@ Littlefish Foundation is a complex organization driven by individual efforts. It
 
 Funding is the number one challenge we face. With funding we can pay the team to work on Littlefish Foundation and make their financial burden lighter. This all puts us closer to achieving the LFF vision. We are a global community with contributors from all over the world. Without funding, we will still build the LFF, but it will be more challenging and slower.
 
-## Feasibility
+## FEASIBILITY
 ### Please provide a detailed plan and timeline for delivering the solution.*
 To start we have created an [informal specification](https://publish.obsidian.md/littlefish-foundation/Action+Technical+Specification). This is an evolving document, bound to change with new findings and experimentation. It is to give a general, long term vision of Actions, designed both to spark discussion and to prioritize functional experimentation.
 
@@ -86,7 +88,7 @@ We are an evolving decentralized organization. We expect solid community and con
 
 Meanwhile, we will be providing Catalyst and the broader community with ongoing services. We will be publishing all our research (DAOs, governance, economic, technology, tools, ...) on the [Littlefish Vault](https://publish.obsidian.md/littlefish-foundation/B.+Project+Catalyst/Fund+9/Fund+9+Start+Here). These will be made sustainable through experiments in Action, in due time.
 
-## Auditability
+## AUDITABILITY
 ### Please describe how you will measure the progress and the development of the project?*
 At Littlefish Foundation, everything we do is public, and we like documentation. We will publish major progress updates on Obsidian, sharing our learning with the broader community. Our Miro boards are open to the community, there they can see our progress, comment, and contribute. We also share our Actions on Discord, that will be the best place to find daily updates.
 
