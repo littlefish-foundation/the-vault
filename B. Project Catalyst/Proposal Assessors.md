@@ -1,18 +1,30 @@
 #project-catalyst #PA
 
-# The Process 
-Proposal Assessors (PAs), formerly known as Community Advisors (CAs), review proposals according to this guideline: [https://bit.ly/CA-Guide](https://bit.ly/CA-Guide)
+Proposal Assessors (PAs), formerly known as Community Advisors (CAs), review proposals according to this guideline: https://bit.ly/Catalyst-PA-Guide
 
-This is a good resource on the general process: [CA Onboarding FAQ](https://docs.google.com/document/d/16aq9dNudJ5S3TEVQhBgRznTCoaF8SQezyActtVhec8E/edit)
+## Fund 9
+🏁 Deadline to register: Jul 13, 11AM UTC
+🏁 Deadline to submit: Jul 14, 11AM UTC
+
+![](https://lh3.googleusercontent.com/SaivnlqaDXyyRE05dVimXG0Mw4usuuUFkcf5ydxfsFExsLX_OMsxlsPmyEf_vtwNQ2eQnHep3YWKcxrKoEZFUK8JK8kIHcHuHsc1VRQgHgm7VzhmrAmVbsioEd2t9RPKc8BkVDaBr_4mMLjoteiAhg)
+
+## Resources
+👉 Rewatch latest town hall segment [Town Hall on Youtube](https://youtu.be/UnxKxhemez4?t=2692)
+👉 Be aware of upcoming timeline [Town Hall](https://docs.google.com/presentation/d/1G5tPByMpQmLw8wDL1h9qDsAWreD8d2D3c1KUUma4zcc/edit#slide=id.g130a93bb4b3_0_22)
+👉 Utilize PA tool [PA Tool](https://cardanocataly.st/pa-tool/#/) to spread out work load
+👉 Join PA / vPA hub in [Discord](https://discord.gg/7ejhSbrbUB)
+👉 [Catalyst School](https://linktr.ee/CatalystSchool)
 
 The main communication channel for PAs if you have any questions: 
 https://t.me/CatalystCommunityAdvisors
 
 These community links are also very helpful: [[Project Catalyst#Community Links]]
 
+## The Process 
+
 The amount of information may seem overwhelming but the process is pretty straightforward. 
 
-1 - You review proposals when it is time accoring to the CA-guide.
+1 - You review proposals when it is time accoring to the PA-guide.
 2 - vPAs review your proposals and categorize them into 3 bins: Excellent, Good, Filtered Out
 3 - Rewards are calculated according to vPA reviews and you get rewards at the end of the Funding Round (September/October)
 
@@ -28,7 +40,7 @@ Once you get a good grasp of the fundamentals, you can delve into what PA work m
 ## How to Write Excellent Reviews
 Once PA work starts, it's all about writing excellent reviews. Excellent reviews are rewarded **much more** so the better your review, the more money you make.
 
-First thing is to read the Guide: [https://bit.ly/CA-Guide](https://bit.ly/CA-Guide)
+First thing is to read the Guide: https://bit.ly/Catalyst-PA-Guide
 
 After that, you can browse through reviews from Fund 8 here: [Fund 8 Reviews](https://docs.google.com/spreadsheets/d/1miayV-_dl8RJiRsMCovgb3m4hURrQOg7MREgBYGvjsU/edit?usp=sharing). You can copy this to your own drive to play with the data. 
 
