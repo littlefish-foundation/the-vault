@@ -6,9 +6,6 @@ Proposal Assessors (PAs), formerly known as Community Advisors (CAs), review pro
 🏁 Deadline to register: Jul 13, 11AM UTC
 🏁 Deadline to submit: Jul 14, 11AM UTC
 
-![](https://lh3.googleusercontent.com/SaivnlqaDXyyRE05dVimXG0Mw4usuuUFkcf5ydxfsFExsLX_OMsxlsPmyEf_vtwNQ2eQnHep3YWKcxrKoEZFUK8JK8kIHcHuHsc1VRQgHgm7VzhmrAmVbsioEd2t9RPKc8BkVDaBr_4mMLjoteiAhg)
-
-## Resources
 👉 Rewatch latest town hall segment [Town Hall on Youtube](https://youtu.be/UnxKxhemez4?t=2692)
 👉 Be aware of upcoming timeline [Town Hall](https://docs.google.com/presentation/d/1G5tPByMpQmLw8wDL1h9qDsAWreD8d2D3c1KUUma4zcc/edit#slide=id.g130a93bb4b3_0_22)
 👉 Utilize PA tool [PA Tool](https://cardanocataly.st/pa-tool/#/) to spread out work load
@@ -19,6 +16,8 @@ The main communication channel for PAs if you have any questions:
 https://t.me/CatalystCommunityAdvisors
 
 These community links are also very helpful: [[Project Catalyst#Community Links]]
+
+![](https://lh3.googleusercontent.com/SaivnlqaDXyyRE05dVimXG0Mw4usuuUFkcf5ydxfsFExsLX_OMsxlsPmyEf_vtwNQ2eQnHep3YWKcxrKoEZFUK8JK8kIHcHuHsc1VRQgHgm7VzhmrAmVbsioEd2t9RPKc8BkVDaBr_4mMLjoteiAhg)
 
 ## The Process 
 
