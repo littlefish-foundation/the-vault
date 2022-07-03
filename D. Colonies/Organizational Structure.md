@@ -2,7 +2,7 @@
 
 LFF is a decentralized organization with a community. As of June 15th the team is currently made up of 17 people. The organization is growing day by day, as new community members show willingness to contribute on a consistent basis. 
 
-![[Pasted image 20220615155616.png]]
+![[lff-colonies.png]]
 
 LFF is built on Teal organization principles:
 -   Distributed decision-making     

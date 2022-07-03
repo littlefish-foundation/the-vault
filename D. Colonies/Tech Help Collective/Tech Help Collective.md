@@ -7,9 +7,9 @@ How do we make sure everyone can use the tools?
 
 ## Aims
 1. Technology Research
-![[Pasted image 20220615155937.png]]
+![[thc-research.png]]
 2. Broadcasting knowledge
-   ![[Pasted image 20220615160046.png]]
+   ![[thc-broadcast.png]]
 
 ## Cardano
 [[Wallets]]

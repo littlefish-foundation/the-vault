@@ -1,7 +1,7 @@
 #module
 
 ## Proposal
-[[F9 - Tools of Decentralized Work]]
+[[DAOWork - Index]]
 
 #### Module 1: Wallets
 Stakeholders: LFF, Catalyst and Cardano community

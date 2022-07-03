@@ -16,7 +16,7 @@ In here you will choose the ‘Clone a repository from the Internet’. This wil
 Before we are done with the GitHub part of the guide, there is one more thing we have to install from the following link; [https://git-scm.com/download/win](https://git-scm.com/download/win)
 
 During the installation of this software, you can leave all the options in their default state. Make sure the following option is selected for path environment. Again, it is like this by default, but no harm in being cautious.
-![[Pasted image 20220614173120.png]]
+![[git-setup.png]]
 
 Now we can go to the next step.
 
@@ -31,12 +31,12 @@ You can download Obsidian from the following link; [https://obsidian.md/download
 ## 3.      Obsidian-GitHub Connection
 
 When you open Obsidian for the first time you will see the following screen;
-![[Pasted image 20220614173142.png]]
+![[obsidian-startup.png]]
 
 Here you have to select ‘Open folder as vault’ and select the folder you have downloaded from GitHub in the first step.
 
 After this go to Settings from the bottom left corner and select Community Plugins. Safe Mode is enabled by default here, turn it off. Now, you can search for Obsidian Git plugin.
-![[Pasted image 20220614173155.png]]
+![[obsidian-git.png]]
 
 Make sure the plugin is enabled after the installation. With the help of this plugin you can add, delete or edit the pages and then publish them to your GitHub. In the plugin’s Options page make sure ‘Pull updates on startup’ option is enabled and ‘Disable push’ option is disabled. You can tweak the other setting however you like.
 

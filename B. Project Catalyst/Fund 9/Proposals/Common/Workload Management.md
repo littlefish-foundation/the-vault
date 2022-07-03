@@ -3,7 +3,7 @@
 ## LFF Organization
 LFF is a decentralized organization with a community. Our team mid June 2022 is made up of 17 people. The organization is growing day by day, as new community members show willingness to contribute, new connections are made, community members bring others onboard...  
 
-As of June 15th 2022, we have 5 work groups, which are LFF [colonies](https://publish.obsidian.md/littlefish-foundation/A.+Whitepaper/B.+What+is+the+Littlefish+Foundation/The+Basics+-+littlefish%2C+colonies+and+Action). Each working group is responsible for different activities. You can learn about them [here](https://publish.obsidian.md/littlefish-foundation/D.+Work+Groups/Work+Groups).
+As of June 15th 2022, we have 5 work groups, which are LFF [[The Basics - littlefish, colonies and Action|colonies]]. Each working group is responsible for different activities. You can learn about them [[Organizational Structure#LFF Sub-Colonies|here]].
 
 ## Load Management Through Commitments
 Workload management in LFF is based on [[Modules]]. 
@@ -28,7 +28,7 @@ This amount of work per individual is akin to a part time job. Taking into accou
 The numbers provided will be updated with concrete numbers to reflect full the workload once submissions close.
 
 ## Individual Loads
-For individuals, the picture may be different. Some individuals may be overloaded, others not. Individuals will self manage their commitments through the module system, selecting modules to commit to. This information will be available here as proposals close.
+For individuals, the picture may be different. Some individuals may be overloaded, others not. Individuals will self manage their commitments through the module system, selecting modules to commit to. This information will be available here as proposals we adopt the module system across the LFF community.
 
 We plan to display all total work commitments by each individual in the LFF team on our knowledge base in the coming months, as the module & commitment systems are adopted as organizational processes.
 
