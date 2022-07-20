@@ -11,6 +11,8 @@ Decentralization is the organizing principle behind blockchains. It is important
 ## Blockhain Basics
 Start with this free, 30 minute course, prepared by our friends at the Blockchain Learning Center: [Blockchain Basics Course](https://blockchainlearning.center/courses/blockchain-basics/)
 
+[What is Bitcoin and Blockchain by Charles Hoskinson](https://www.youtube.com/watch?v=EDyQEUZ0PlY&index=1)
+
 If you have 50 minutes, this [video by Balaji](https://www.youtube.com/watch?v=3jPYk7ucrjo), might be the best way to get started learning about blockchains.
 
 If you're looking for something shorter, check these explainers. They get progressively more detailed.
@@ -28,6 +30,7 @@ If you're looking for something shorter, check these explainers. They get progre
 
 ## NFTs
 [What is an NFT? (Non-Fungible Tokens Explained)](https://www.youtube.com/watch?v=4dkl5O9LOKg)
+[NFT Bible by Opensea](https://opensea.io/blog/guides/non-fungible-tokens/#Non-fungible_token_metadata)
 
 ## DAOs - Decentralized Autonomous Organizations
 [What is a DAO in Crypto? (Decentralized Autonomous Organization)](https://www.youtube.com/watch?v=KHm0uUPqmVE)
