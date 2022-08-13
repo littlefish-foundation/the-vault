@@ -14,7 +14,7 @@
 ![[otter.png]]
 
 
-Trying to take notes in our meetings takes a lot of time and on the other hand, it causes us to follow the meeting inefficiently. Otter.ai is a speech-to-text transcription and translation application using artificial intelligence and machine learning. You can use it to take notes at your meetings and interviews, capture your thoughts and ideas, and transcribe your existing recordings.
+Trying to take notes in  meetings takes a lot of time and on the other hand, it causes  to follow the meeting inefficiently. Otter.ai is a speech-to-text transcription and translation application using artificial intelligence and machine learning. You can use it to take notes at your meetings and interviews, capture your thoughts and ideas, and transcribe your existing recordings.
 
 ![Topluluk Tarafından Doğrulandı simgesi](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAQAAAAngNWGAAABDUlEQVR4AYXRgUZDYRjH4TegFTKgpEqiFJgoWAoMEQGBgBboChaaAKxLKAhAhQqAdAmpBIQolkCFqp2nITvNKXuA7+/Hhzey5OWjE4Nq3rzY1f9/NGHPB549492+8Ww060iCS2XdctZdI3GsECmb+HJoIX6x6EgDm+lURTH+YB7V9nAqE5WNme4YKuOiY6iMe6PaQxUUIuTbswgFVNJwA8sO3Bn6yR6bWZMSNtJwDtuWfHpQxaPx9C9zadil7jrCigbq6UXceNIVKTWUIqypm2ytJdTiNyNeXclF6GttOVfeDEc7qzjR23r3OMFqZKng1kw0mXGLrfibHTScOZWgGv9TdC6ROFeMTgwYiIxvJzMRWQbeGZUAAAAASUVORK5CYII=)
 
