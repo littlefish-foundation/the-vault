@@ -1,19 +1,15 @@
 #THC 
 
-test
+This guide explains how ComBot can be set and used.
 
-In Discord you can connect several channels to each other. You can do this with a bot called Connecty. When you set up this bot in two different server’s different channels, the bot will automatically send the messages from one channel to the other instantly. You can add multiple channels with the help of this bot.
+1- You can invite the bot to your server from [this link](https://discord.com/oauth2/authorize?client_id=652938911642943498&permissions=537259088&scope=bot%20applications.commands). You can also see the bot'S support page from [this link](https://discord.gg/VdT64GM)
 
-Necessary steps to setup the bot are given below;
+2- After adding the bot you can use the command __/create__ and give a specific name to the connection. This will create the connection for you. This connection name should be unique and maximum 16 characters with only alpha-numerical ones.
 
--   For this sync process, you have to add the bot to your server. Link is; [https://discord.com/api/oauth2/authorize?client_id=876260192327716916&permissions=805691489&scope=bot](https://discord.com/api/oauth2/authorize?client_id=876260192327716916&permissions=805691489&scope=bot "https://discord.com/api/oauth2/authorize?client_id=876260192327716916&permissions=805691489&scope=bot")
--   After you have added the bot, you have to get through a verification process. For this verification;
-    -   Go to the bot’s support server; [](https://discord.gg/ttbfWSAb)[https://discord.gg/ttbfWSAb](https://discord.gg/ttbfWSAb)
-    -   In the server’s ‘spam’ channel, send `b/get_code` as message.
-    -   This command will give you a 4 digit code.
-    -   Send this 4 digit number message to a channel in your server. Make sure that bot has ‘read messages’ permission in that page.
-    -   If you do not complete this verification process in a certain amount of time, bot will leave your server and you will have to add the bot again.
--   After verification you can choose the channel you want to sync with other channels. Make sure that the bot has the necessary read and write permissions on the channel you have chosen.
--   In the channel you have chosen, send command `b/new`. This command will send you a DM, containing an ID. This will setup your channel as the main channel.
--   Now, you can go to other server you want to sync with that main channel. After adding the bot with above steps, go to the channel you want to sync and write `b/sub $ID`. The $ID here is the ID you have created in the previous step. You can repeat this process any channel you want to sync with these channels.
--   Now any message you send to one channel will also be sent to the other channels you synced with.
+3- After creating the connection you have to select it by __/select connection-name__
+
+4- Now that you have created and selected the connection you can add a channel to this connection. For this you have to use __/connect__ command. When you write this command it will prompt you to choose a channel from your server. This will connect your channel to the connection.
+
+You can connect to this channel from any other server simply by repeating the steps above except the second one. Any channel you connect to the same connection will send the messages to each other.
+    
+Please note that there is 10 minute cooldown between connection creations and one person can only create two connections. For more freedom with the bot you can visit the bot's [patreon page](https://www.patreon.com/join/soupcreations)
