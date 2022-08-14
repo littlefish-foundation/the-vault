@@ -1,5 +1,7 @@
 #THC 
 
+test
+
 In Discord you can connect several channels to each other. You can do this with a bot called Connecty. When you set up this bot in two different server’s different channels, the bot will automatically send the messages from one channel to the other instantly. You can add multiple channels with the help of this bot.
 
 Necessary steps to setup the bot are given below;
