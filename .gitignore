@@ -4,8 +4,10 @@
 
 .obsidian/graph.json
 .obsidian/hotkeys.json
+.obsidian/themes
 
 # Exclude specific files - we may use this at some point
+
 # 05*-*Personal/
 
 # Exclude Day Planner directory placed in vault root
