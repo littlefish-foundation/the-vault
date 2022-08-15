@@ -1,3 +1,5 @@
+#THC #Discord
+
 **Setting up Discord Notifications**
 
 This document is created to guide you through the following actions:
