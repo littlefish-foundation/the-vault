@@ -48,8 +48,7 @@ Image-view of all server Insights provided:
 
 **How to set up ‘Enable Community’ tool?**
 
-The below is a comprehensive set-up tutorial.
-
+Link to a comprehensive set-up tutorial.
 [https://youtube.com/clip/UgkxLWybjZnJFNsHDQbYvk2Q-xqevfAXKtM0](https://youtube.com/clip/UgkxLWybjZnJFNsHDQbYvk2Q-xqevfAXKtM0)
 
 
