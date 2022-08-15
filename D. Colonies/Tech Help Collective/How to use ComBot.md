@@ -2,7 +2,7 @@
  
 This guide explains how ComBot can be set and used.
 
-1- You can invite the bot to your server from [this link](https://discord.com/oauth2/authorize?client_id=652938911642943498&permissions=537259088&scope=bot%20applications.commands). You can also see the bot'S support page from [this link](https://discord.gg/VdT64GM)
+1- You can invite the bot to your server from [this link](https://discord.com/oauth2/authorize?client_id=652938911642943498&permissions=537259088&scope=bot%20applications.commands). You can also see the bot's support page from [this link](https://discord.gg/VdT64GM)
 
 2- After adding the bot you can use the command __/create__ and give a specific name to the connection. This will create the connection for you. This connection name should be unique and maximum 16 characters with only alpha-numerical ones.
 
