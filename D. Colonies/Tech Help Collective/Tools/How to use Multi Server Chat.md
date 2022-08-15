@@ -1,4 +1,4 @@
-#THC
+#THC #Discord 
 
 This guide explains how Multi Server Chat can be set and used.
 
