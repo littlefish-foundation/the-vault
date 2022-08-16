@@ -5,6 +5,7 @@
 .obsidian/graph.json
 .obsidian/hotkeys.json
 .obsidian/themes
+.obsidian/appearance.json
 
 # Exclude specific files - we may use this at some point
 
