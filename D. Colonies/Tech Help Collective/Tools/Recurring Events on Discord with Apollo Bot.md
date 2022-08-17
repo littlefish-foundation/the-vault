@@ -1,3 +1,5 @@
+#THC #Discord
+
 **Recommended Bots:**
 
 1.  Apollo
