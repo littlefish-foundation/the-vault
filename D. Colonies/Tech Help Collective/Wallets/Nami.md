@@ -35,9 +35,17 @@ There is a "Delegate" button on the extension's front page (not available in Tes
 ![[nami_stake_2.png]]
 After confirming on this page, you will be paying a refundable fee to be able to delegate your assets. Afterwards, you can set the amount of assets you want to stake. 
 * https://berrypool.io/
+
 ## Voting 
-Nami does not have voting feature.
+Nami does not have voting feature. But there is a Catalyst proposal for FUND9 to enable voting. Details here: https://cardano.ideascale.com/c/idea/366752
+
 ## Collateral
+
 It is kind of an insurance for smart contract execution scenarios, which don't run successfully. Unlike regular transactions that are validated in phase 1, smart contracts (Plutus validators) are validated in phase 2. Here, in the event of  failure of transaction, a "collateral" is taken to cover the resources used by the validator node.
 Therefore, there is a fixed 5 ADA collateral fee to prevent bad actors from spamming the network,  poorly constructed dApps and such.
+
 ![[nami_collateral_1.png]]
+
+Please note that, you have to enable Collateral for each account separately in your Nami Wallet.
+
+Most of the DeFi dApps require Collateral to be set to some value, otherwise you may get errors while swapping your tokens. Up to 10 ADA is enough for most of the dApps. Smart contracts will consume the required collateral amount and will return the remaining collateral regardless of the amount you set in Collateral settings.
