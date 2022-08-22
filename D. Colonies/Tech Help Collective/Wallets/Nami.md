@@ -11,12 +11,14 @@ It is explicitly available for below browsers as denoted in the front page of th
 They have also noted that it is available on any other chrome-based browser.
 Here, **no support** for **Firefox** seems to be a weak point.
 ## Features
-* It can be injected to the browser context like Metamask. Thus, can be connected to dApps in websites. 
+To be able to test the features, we have used below faucet and changed network to "Testnet"
+> https://testnets.cardano.org/en/testnets/cardano/tools/faucet/
 
+* Can be connected to hardware wallets. (Trezor and Ledger)![[nami_hardwarewallet_connectionpage.png]]
+* It can be injected to the browser context such as Metamask. Therefore, can be connected to dApps in websites. 
 *Sends and stores multiple assets
 Mint tokens
 Multi signature*
-
 * According to their website, support for "Smart Contracts" will be added when **available**? 
 ## Compatibility
 ### Hardware Wallets (Cold Wallets)
