@@ -32,6 +32,8 @@ It has an easy-to-use interface, and transactions can be done with ease through 
 
 3. NFT support.
 
+5. Delegation
+
 
 
 ## 2.Compatibility
