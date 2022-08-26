@@ -25,5 +25,6 @@ It has an easy-to-use interface, and transactions can be done with ease through 
 
 ## 1.Features
 
-1. Flint supports managing assets on Cardano blockchain and the Milkomeda C1 sidechain for Cardano.  
+1. Flint supports managing assets on Cardano blockchain and the Milkomeda C1 sidechain for Cardano. Solana, Ethereum, Algorand supports will be added in the future.
+2. It supports integration with major dApps 
 
