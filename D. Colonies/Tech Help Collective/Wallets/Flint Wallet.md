@@ -23,7 +23,7 @@ It has an easy-to-use interface, and transactions can be done with ease through 
 ![[Pasted image 20220826114304.png]]
 
 
-## 1.Features
+## 1. Features
 
 1. Flint supports managing assets on Cardano blockchain and the Milkomeda C1 sidechain for Cardano. Solana, Ethereum, Algorand supports will be added in the future.
 2. It supports integration with major dApps, also it has dApp browser for iOS and Android version coming soon. 
@@ -36,7 +36,7 @@ It has an easy-to-use interface, and transactions can be done with ease through 
 
 
 
-## 2.Compatibility
+## 2. Compatibility
 
 ### Hardware Wallets ( Cold Wallets )
 * Flint supports Ledger nano S and Trezor model T hardware wallets.
@@ -74,3 +74,11 @@ It has an easy-to-use interface, and transactions can be done with ease through 
 
 
 
+
+3.
+## 3. Useful resources 
+
+1.   Review on what can be done with Flint wallet in general
+https://www.youtube.com/watch?v=iOxbkNUKFdg
+
+2.
