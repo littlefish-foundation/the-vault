@@ -36,24 +36,37 @@ It has an easy-to-use interface, and transactions can be done with ease through 
 
 ## 2.Compatibility
 
-## Hardware Wallets ( Cold Wallets )
+### Hardware Wallets ( Cold Wallets )
 * Flint supports Ledger nano S and Trezor model T hardware wallets.
 
-## Software Wallets ( Hot Wallets )
+### Software Wallets ( Hot Wallets )
 * Flint supports 15 word seed phrase and App Passcode method on top of provided password and  is fully compatible with other Cardano wallets.
 
-## Connected Apps
+### Connected Apps
 * Compability mode allows Flint to inject itself to dApps acting like another wallet even if it is not listed on supported list.
 ![[Pasted image 20220826125523.png]]
 
 #### Example integration with " Minswap "
 
 1. Go to https://minswap.org/ and click Launch App button
+
  ![[Pasted image 20220826125715.png]]
 
-2. Cli
+2. Click Connect wallet button
 
+![[Pasted image 20220826125802.png]]
 
+3. Choose your desired wallet on list
+
+![[Pasted image 20220826125852.png]]
+
+4. Choose wallet you wish to proceed
+
+![[Pasted image 20220826125938.png]]
+
+5. Connected app will appear on Connected Apps page
+
+![[Pasted image 20220826130053.png]]
 
 
 
