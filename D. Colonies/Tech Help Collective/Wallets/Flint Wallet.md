@@ -49,6 +49,7 @@ It has an easy-to-use interface, and transactions can be done with ease through 
 
 ![[Pasted image 20220826125523.png]]
 
+
 #### Example integration with " Minswap "
 
 1. Go to https://minswap.org/ and click Launch App button
@@ -75,5 +76,8 @@ It has an easy-to-use interface, and transactions can be done with ease through 
 
 ## 3. Useful resources 
 
-1.   Review on what can be done with Flint wallet in general
+1. Creating a new wallet
+https://www.youtube.com/watch?v=BicVVL-uRAc
+
+2.   Review on what can be done with Flint wallet in general
 https://www.youtube.com/watch?v=iOxbkNUKFdg
