@@ -4,7 +4,7 @@
 ![[flint.jpg]]
 
 
-Flint comes with 3 download options: Browser, iOS and Anroid. Download links can be found in Official website.
+Flint comes with 3 download options: Browser ( Chrome and Brave ), iOS and Anroid. Download links can be found in Official website.
 
 iOS: https://apps.apple.com/app/dcspark-flint-wallet/id1619660885
 
