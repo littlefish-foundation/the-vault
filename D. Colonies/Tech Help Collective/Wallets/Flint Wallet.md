@@ -81,3 +81,6 @@ https://www.youtube.com/watch?v=BicVVL-uRAc
 
 2.   Review on what can be done with Flint wallet in general
 https://www.youtube.com/watch?v=iOxbkNUKFdg
+
+3. Delegation
+https://www.youtube.com/watch?v=RbWlUYQqk2M
