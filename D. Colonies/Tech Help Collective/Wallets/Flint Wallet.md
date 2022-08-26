@@ -18,4 +18,12 @@ It has an easy-to-use interface, and transactions can be done with ease through 
 * **Important notice for beginners**
 *If you want to create your wallet and make real transactions, make sure you select the Mainnet when setting up.*
 
+*Testnet is for testing purposes.*
+
 ![[Pasted image 20220826114304.png]]
+
+
+## 1.Features
+
+1. Flint supports managing assets on Cardano blockchain and the Milkomeda C1 sidechain for Cardano.  
+
