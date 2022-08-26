@@ -30,7 +30,7 @@ It has an easy-to-use interface, and transactions can be done with ease through 
 
 ![[Pasted image 20220826122454.png]]
 
-3. NFT support for minting or viewing your collection.
+3. NFT support.
 
 
 
