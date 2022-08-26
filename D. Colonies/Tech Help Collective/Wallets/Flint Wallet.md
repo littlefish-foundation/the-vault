@@ -30,7 +30,7 @@ It has an easy-to-use interface, and transactions can be done with ease through 
 
 ![[Pasted image 20220826122454.png]]
 
-3. NFT support.
+3. NFT support. Can be used to mint NFTs or viewing your collection.
 
 5. Delegation
 
@@ -72,10 +72,6 @@ It has an easy-to-use interface, and transactions can be done with ease through 
 
 
 
-
-
-
-3.
 ## 3. Useful resources 
 
 1.   Review on what can be done with Flint wallet in general
