@@ -46,6 +46,7 @@ It has an easy-to-use interface, and transactions can be done with ease through 
 
 ### Connected Apps
 * Compability mode allows Flint to inject itself to dApps acting like another wallet even if it is not listed on supported list.
+
 ![[Pasted image 20220826125523.png]]
 
 #### Example integration with " Minswap "
@@ -76,5 +77,3 @@ It has an easy-to-use interface, and transactions can be done with ease through 
 
 1.   Review on what can be done with Flint wallet in general
 https://www.youtube.com/watch?v=iOxbkNUKFdg
-
-2.
