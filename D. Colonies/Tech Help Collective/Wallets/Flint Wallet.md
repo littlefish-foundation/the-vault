@@ -43,6 +43,16 @@ It has an easy-to-use interface, and transactions can be done with ease through 
 * Flint supports 15 word seed phrase and App Passcode method on top of provided password and  is fully compatible with other Cardano wallets.
 
 ## Connected Apps
+* Compability mode allows Flint to inject itself to dApps acting like another wallet even if it is not listed on supported list.
+![[Pasted image 20220826125523.png]]
+
+#### Example integration with " Minswap "
+
+1. Go to https://minswap.org/ and click Launch App button
+ ![[Pasted image 20220826125715.png]]
+
+2. Cli
+
 
 
 
