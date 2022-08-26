@@ -36,3 +36,12 @@ It has an easy-to-use interface, and transactions can be done with ease through 
 
 ## 2.Compatibility
 
+## Hardware Wallets ( Cold Wallets )
+* Flint supports Ledger nano S and Trezor model T hardware wallets.
+
+## Software Wallets ( Hot Wallets )
+* Flint supports 15 word seed phrase and is fully compatible with other Cardano wallets including single address wallets. Also note that Byron era wallets are not supported.*
+
+
+
+
