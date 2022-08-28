@@ -1,6 +1,6 @@
 #THC #wallet
 
-![[typhon.svg]] 
+![[typhon.svg|center|200]] 
 # Typhon Wallet
 * It has both web-ui and extensions for several browsers
 	* Typhon wallet can be downloaded from https://typhonwallet.io/#/download
@@ -12,7 +12,7 @@
 
 ## Compatibility
 ### Hardware Wallets (Cold Wallets)
-* Typhon supports Ledger nano S, X and Trezor model T hardware wallets on both web and extension version.
+* Typhon supports Ledger Nano S, X and Trezor model T hardware wallets on both web and extension version.
 ### Software Wallets (Hot Wallets)
 * Typhon supports 12, 15, 24 word seed phrases and is fully compatible with other Cardano wallets including single address wallets. Also note that Byron era wallets are not supported.
 
