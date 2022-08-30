@@ -3,7 +3,8 @@
 # Wallet Name
 
 ## Availability
-
+### Web Browser
+### Mobile
 ## Features
 
 ## Compatibility

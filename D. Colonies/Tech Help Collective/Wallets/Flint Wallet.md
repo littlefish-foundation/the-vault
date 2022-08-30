@@ -1,3 +1,4 @@
+#THC #wallet
 # Flint Wallet
 
 
