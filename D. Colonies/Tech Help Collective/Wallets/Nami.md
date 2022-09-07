@@ -1,6 +1,7 @@
+#THC #wallet
 ![[nami.svg|center|200]]
 # Nami Wallet
-Nami is an open-source browser based multi-functional, non-custodial wallet extension.
+Nami is an open-source browser based multi-functional, non-custodial* wallet extension.
 Browser extensions are available on their main page https://namiwallet.io/.
 * https://github.com/Berry-Pool/nami-wallet
 ## Availability
@@ -49,3 +50,7 @@ Therefore, there is a fixed 5 ADA collateral fee to prevent bad actors from spam
 Please note that, you have to enable Collateral for each account separately in your Nami Wallet.
 
 Most of the DeFi dApps require Collateral to be set to some value, otherwise you may get errors while swapping your tokens. Up to 10 ADA is enough for most of the dApps. Smart contracts will consume the required collateral amount and will return the remaining collateral regardless of the amount you set in Collateral settings.
+## Known Issues
+>Please let us know if you encounter any issues.
+
+*This means that they **do not** keep a copy of your password or your recovery seed. No one besides you, or anyone you give your password or recovery seed to, will have a copy of these. This means that only you can recover your wallet. If you lose your password and/or your recovery seed then your wallet and funds will be irrecoverable. AFTER COMPLETING THESE STEPS YOU WILL BE WHOLLY, 100% RESPONSIBLE FOR YOUR FUNDS. YOU ASSUME ALL THE RISKS.
