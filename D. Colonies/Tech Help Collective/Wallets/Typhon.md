@@ -45,3 +45,5 @@ Think before you act, because every time you change your pool, register or de-re
 In order to participate in voting, first you need to delegate your ADA to a pool. **500** ADA is the minimum amount required to be able to register and participate in voting.![[typhon_webui_voting_fund8.png]]
 In above screenshot, name of the funding round is mistyped as Fund8 instead of Fund9 ^^
 
+## Known Issues
+>Please let us know if you encounter any issues.
