@@ -1,8 +1,13 @@
 #THC #wallet 
 
+## General Info
 [[Seed Phrase Security]]
 
-[[Gamechanger]]
+## Cardano Wallet Deep Dives
 [[Nami]]
 [[Typhon]]
 [[Yoroi]]
+[[Gamechanger]] 
+[[Eternl]]
+[[Flint Wallet]]
+[[NuFi Wallet]]
