@@ -44,7 +44,7 @@ Swap ADA with $GERO token, available on SundaeSwap, Minswap and MuesliSwap.
 
 
 
-## Compability
+## Compatibility
 
 ### Hardware Wallets
 
