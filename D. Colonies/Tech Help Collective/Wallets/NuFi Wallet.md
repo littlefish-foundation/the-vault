@@ -43,7 +43,7 @@ Available on extension application.
 
 
 
-## Compability
+## Compatibility
 
 ### Hardware Wallets
 
