@@ -8,7 +8,7 @@ If you're in need of guidance on any of these or other tools we use at littlefis
 [[Obsidian-Github Integration in Windows]]
 
 ## Discord
-[[Discord Notification Settings]]
+[[Guide - littlefish Discord Notifications]]
 [[Building Bridges Between Communities]]
 [[Recurring Events on Discord with Apollo Bot]]
 [[Discord Server Analytics]]
