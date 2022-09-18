@@ -1,6 +1,6 @@
 #THC #wallet
 
-![[typhon.svg]] 
+![[typhon.svg|center|200]] 
 # Typhon Wallet
 * It has both web-ui and extensions for several browsers
 	* Typhon wallet can be downloaded from https://typhonwallet.io/#/download
@@ -12,7 +12,7 @@
 
 ## Compatibility
 ### Hardware Wallets (Cold Wallets)
-* Typhon supports Ledger nano S, X and Trezor model T hardware wallets on both web and extension version.
+* Typhon supports Ledger Nano S, X and Trezor model T hardware wallets on both web and extension version.
 ### Software Wallets (Hot Wallets)
 * Typhon supports 12, 15, 24 word seed phrases and is fully compatible with other Cardano wallets including single address wallets. Also note that Byron era wallets are not supported.
 
@@ -39,9 +39,11 @@ If you only want to change the pool you are staking, you can click the "Change" 
 ![[typhon_stake_pool_change.png]]
 Staking process links (delegation) your wallet address to the selected pool and creates a unique staking address. To be able to stake to multiple pools, you have to use different wallet addresses.
 
-Think before you act, because everytime you change your pool, register or de-register, you will be paying the transaction amount.
+Think before you act, because every time you change your pool, register or de-register, you will be paying the transaction amount.
 
 ## Voting
 In order to participate in voting, first you need to delegate your ADA to a pool. **500** ADA is the minimum amount required to be able to register and participate in voting.![[typhon_webui_voting_fund8.png]]
 In above screenshot, name of the funding round is mistyped as Fund8 instead of Fund9 ^^
 
+## Known Issues
+>Please let us know if you encounter any issues.
