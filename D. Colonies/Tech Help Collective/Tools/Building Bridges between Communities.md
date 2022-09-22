@@ -7,4 +7,5 @@ We started to look for a tool inside Discord to sync channels but apparently Dis
 We have tested two more bots that were a better fit to our needs.
 - [ComBot](https://combot.xyz)
 - [Multi Server Chat](https://top.gg/bot/968959239219466300)
+
 You can simply click them and it will take you to their respective 'How to' pages.
