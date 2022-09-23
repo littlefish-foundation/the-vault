@@ -15,3 +15,5 @@ Which experiments can we run to learn?
 
 ## Work
 [[Organizational Structure]]
+[[Contributor Guideline]]
+[[Issues in Decentralized Organization]]

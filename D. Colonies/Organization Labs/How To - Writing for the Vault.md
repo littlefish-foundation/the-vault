@@ -1,9 +1,9 @@
 ## Table of Contents
-1. [[Writing for the Vault#Give Guidance to the Reader|Give Guidance to the Reader]]
-2. [[Writing for the Vault#No Unfinished Work No Drafts|No Unfinished Work No Drafts]]
-3. [[Writing for the Vault#Don't do big blocks of writing nobody will read them|Don't do big blocks of writing nobody will read them]]
-4. [[Writing for the Vault#If your doc is long add Headers and Link to them at the beginning of the doc|If your doc is long add Headers and Links]]
-5. [[Writing for the Vault#Be careful with writing between texts|Be careful with writing between texts]]
+1. [[How To - Writing for the Vault#Give Guidance to the Reader|Give Guidance to the Reader]]
+2. [[How To - Writing for the Vault#No Unfinished Work No Drafts|No Unfinished Work No Drafts]]
+3. [[How To - Writing for the Vault#Don't do big blocks of writing nobody will read them|Don't do big blocks of writing nobody will read them]]
+4. [[How To - Writing for the Vault#If your doc is long add Headers and Link to them at the beginning of the doc|If your doc is long add Headers and Links]]
+5. [[How To - Writing for the Vault#Be careful with writing between texts|Be careful with writing between texts]]
 
 
 ## Give Guidance to the Reader

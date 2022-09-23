@@ -22,3 +22,7 @@ no matter who you are, most of the smartest people work for someone else -- Bill
 
 In a decaying society, art, if it is truthful, must also reflect decay. And unless it wants to break faith with its social function, art must show the world as changeable. And help to change it. -- Ernst Fisher
 
+## Elsewhere
+Action without vision is only passing time. Vision without action is merely daydreaming. But vision with action can change the world. – _Nelson Mandela_
+
+Those who build the house are built by the house -- Maori proverb

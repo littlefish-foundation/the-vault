@@ -3,7 +3,6 @@ Oh wow, you've found us dear contributor. Welcome to a small pond of littlefish 
 And you are a curious one aren't you? Finding this page among a sea of others. That's good. You will need your curiosity. littlefish Foundation is full of opportunity for those who look for it. This page will give you some guidance but you've got to grab it. 
 
 ## What can I do to get started?
-
 ### Explore, explore, explore
 If you don't know much about littlefish, the first and best thing you can do is explore. 
 
@@ -34,6 +33,7 @@ The Roles of Fish Miro board will show you how: https://miro.com/app/board/uXjVO
 
 Though you have to find the edit link somewhere in our Discord :D 
 
-
+## Need Help on the Tools?
+To become an effective contributor, littlefish must learn the tools of work. Don't be afraid, we've got you covered with the [[littlefish Tools of Work]]. Check it out for information about the tools we use to become awesomefish. If you feel some information is missing, drop by Discord and ask in the `ask-tech`  channel. [[Tech Help Collective]] is there to help.
 
 

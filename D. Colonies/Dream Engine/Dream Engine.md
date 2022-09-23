@@ -9,6 +9,8 @@ What do we want to achieve?
 ![[dreamengine.png]]
 
 ## Work
+[[Ikigai in littlefish Foundation]]
+
 ![[Action Fund]]
 
 
