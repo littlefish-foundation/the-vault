@@ -31,6 +31,7 @@ One-on-ones: https://calendly.com/
 
 ## Miro
 [[Basics of Miro]]
+[[Miro Tips and Tricks]]
 
 ## AI Art
 DAll-E 2: https://openai.com/dall-e-2/

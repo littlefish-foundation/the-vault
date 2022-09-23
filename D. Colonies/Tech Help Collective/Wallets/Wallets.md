@@ -11,3 +11,5 @@
 [[Eternl]]
 [[Flint Wallet]]
 [[NuFi Wallet]]
+[[GeroWallet]]
+[[RayWallet]]
