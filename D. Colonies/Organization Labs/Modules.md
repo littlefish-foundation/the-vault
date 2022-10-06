@@ -6,7 +6,7 @@ Each module has a primary LFF work group. The primary work group is responsible 
 
 The delivery of module outputs are the primary responsibility of the module leader. The leader is expected to deliver based on the spirit of the module. 
 
-Others working on the module can come and go, allowing them explore without extended commitment while they [[The Littlefish Way#It Starts within the Individual|search for their Ikigai]]. They can also commit to a module if they wish to become a team member.
+Others working on the module can come and go, allowing them explore without extended commitment while they [[3- The Littlefish Way#It Starts within the Individual|search for their Ikigai]]. They can also commit to a module if they wish to become a team member.
 
 Modules are in the creation phase. They are an experiment in organizational design. 
 

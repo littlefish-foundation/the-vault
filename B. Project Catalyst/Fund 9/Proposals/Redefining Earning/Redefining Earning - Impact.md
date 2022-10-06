@@ -42,7 +42,7 @@ Now imagine we remove the employer. In its place are peers. Other members of the
 
   
 
-Let’s make that more concrete with an example. Remember, this all needs the [[Littlefish Action Model]] to make it work.
+Let’s make that more concrete with an example. Remember, this all needs the [[3- Littlefish Action Model]] to make it work.
 
   
 
@@ -219,7 +219,7 @@ Through this proposal, we will understand what features can be embedded into fis
 
 **Who will benefit?**
 
-The beneficiary of our work is all users of the Littlefish Foundation platform, starting with the builders of LFF, and expanding into the Catalyst community. All users of Actions will benefit from a reward sharing mechanism that is tested and true. They will enjoy the benefit of liberating earning relationships, allowing them to freely explore their interests while [[The Littlefish Way#It Starts within the Individual|searching for their Ikigai]].
+The beneficiary of our work is all users of the Littlefish Foundation platform, starting with the builders of LFF, and expanding into the Catalyst community. All users of Actions will benefit from a reward sharing mechanism that is tested and true. They will enjoy the benefit of liberating earning relationships, allowing them to freely explore their interests while [[3- The Littlefish Way#It Starts within the Individual|searching for their Ikigai]].
 
   
 
@@ -228,14 +228,14 @@ The beneficiary of our work is all users of the Littlefish Foundation platform, 
 This work will create a brand new paradigm for earning designed to create public good outcomes. A paradigm where:
 
 -   individuals are empowered with greater autonomy,
--   work represents [[The Attributes of Action|values]],
+-   work represents [[4- The Attributes of Action|values]],
 -   previously unpaid (public good) works can be valued, 
 -   everyone who contributes earns,
 -   collective, global intelligences can form and solve problems at a never before seen rate.
 
   
 
-In the short term, this means a new work paradigm for DAOs and digital communities that makes them more effective in what they do. In the long term, it means a [[The Littlefish Way#Towards Decentralized Civilization|decentralized civilization]].
+In the short term, this means a new work paradigm for DAOs and digital communities that makes them more effective in what they do. In the long term, it means a [[3- The Littlefish Way#Towards Decentralized Civilization|decentralized civilization]].
 ## Please describe how your proposed solution will address the Challenge that you have submitted it in.
 **Alignment with the Challenge**
 

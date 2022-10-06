@@ -65,7 +65,7 @@ This module is concerned with documenting the processes of LFF, and conducting r
 
   
 
-We will also explore the possibilities of organizing around Actions. Actions are LFF NFTs that are [[Littlefish Action Model|redefining earning relationships]]. We will conduct original research into using Actions as the payment mechanism for LFF, with the overarching goal of creating a blueprint for organizations who want to use Actions.
+We will also explore the possibilities of organizing around Actions. Actions are LFF NFTs that are [[3- Littlefish Action Model|redefining earning relationships]]. We will conduct original research into using Actions as the payment mechanism for LFF, with the overarching goal of creating a blueprint for organizations who want to use Actions.
 
   
 

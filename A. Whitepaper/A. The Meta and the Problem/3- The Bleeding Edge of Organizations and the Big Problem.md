@@ -24,3 +24,4 @@ There are unsolved problems in this model of operation. Without constant interac
 ![[alignment.jpg]]
 
 **Question**: How do we incentivize action towards common goals?
+
