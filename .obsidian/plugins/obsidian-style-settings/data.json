@@ -24,5 +24,9 @@
   "obsidian-prism-theme@@pt-disable-blur": false,
   "obsidian-prism-theme@@pt-disable-animations": false,
   "obsidian-prism-theme@@pt-disable-custom-icons": false,
-  "obsidian-prism-theme@@pt-hide-view-header": false
+  "obsidian-prism-theme@@pt-hide-view-header": false,
+  "bubble-space-1@@bs-bubble-presets": "red-velvet",
+  "bubble-space-1@@bs-space-presets": "eclipse",
+  "bubble-space-1@@hd-img": true,
+  "bubble-space-1@@hover-fm": false
 }
