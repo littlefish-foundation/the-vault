@@ -17,18 +17,18 @@ Each proposal plays a part in the overarching vision of the Littlefish Foundatio
 
 ### Recommended Reading
 - [[3- The Bleeding Edge of Organizations and the Big Problem]]
-- [[2- The Basics - littlefish, colonies and Action]]
-- [[1- The Big Picture]]
-- [[3- Littlefish Action Model]] 
+- [[5- The Basics - littlefish, colonies and Action]]
+- [[4- The Big Picture]]
+- [[6- Littlefish Action Model]] 
 
 ### For Explorers
 If you just want to explore Littlefish Foundation, [[Littlefish Vault|begin your journey here]].
 
 And here are some extras for the curious:
-- [[1- The First Colony]]
-- [[2- A Radical Method of Organization]]
-- [[4- The Attributes of Action]]
-- [[3- The Littlefish Way]]
+- [[8- The First Colony]]
+- [[9- A Radical Method of Organization]]
+- [[13- The Attributes of Action]]
+- [[12- The Littlefish Way]]
 
 ### Just show me the proposals already
 ![[Proposals Index]]

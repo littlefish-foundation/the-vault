@@ -18,11 +18,11 @@ PS: Drop alternative definitions and sources in littlefish Discord.
 
 
 ## The background
-In March 2022, littlefish Foundation was just beginning. It started with the [Catalyst proposal](https://cardano.ideascale.com/c/idea/404668), in which we laid out the [[2- The Basics - littlefish, colonies and Action|basic idea]] of littlefish in communities taking Action to achieve common goals. We shut ourselves in for a week in a magical place called Zeytinlikuyu, disconnected from the world, and dreamt about what littlefish Foundation could be. Ideas were flowing and philosophy was at the fore. [3]
+In March 2022, littlefish Foundation was just beginning. It started with the [Catalyst proposal](https://cardano.ideascale.com/c/idea/404668), in which we laid out the [[5- The Basics - littlefish, colonies and Action|basic idea]] of littlefish in communities taking Action to achieve common goals. We shut ourselves in for a week in a magical place called Zeytinlikuyu, disconnected from the world, and dreamt about what littlefish Foundation could be. Ideas were flowing and philosophy was at the fore. [3]
 
 One question we asked ourselves was: Who are we building for? Maslow's Hiearachy of Needs showed us the way. Taking Action and being part of a community is great, but it means nothing if your physiological and security needs are not met. 
 
-That realization opened the way for another. littlefish are social animals. We can only reach the top of the pyramid [[3- The Littlefish Way#Self-Actualization Through Community|through community]]. Self actualization through community actualization. That's the promise of littlefish Foundation. 
+That realization opened the way for another. littlefish are social animals. We can only reach the top of the pyramid [[12- The Littlefish Way#Self-Actualization Through Community|through community]]. Self actualization through community actualization. That's the promise of littlefish Foundation. 
 
 ![[maslow-littlefish.png]]
 
