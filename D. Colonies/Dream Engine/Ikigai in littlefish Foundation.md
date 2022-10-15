@@ -53,6 +53,8 @@ The final version can be found on the [Action board](https://miro.com/app/board/
 
 And why do these bubbles matter? Because **Ikigai + Bubbles is awesomeness**.
 
+
+
 ![[Ikigai as Onboarding]]
 
 ## Sources
