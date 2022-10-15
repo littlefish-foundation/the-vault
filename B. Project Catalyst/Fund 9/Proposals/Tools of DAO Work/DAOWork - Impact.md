@@ -21,7 +21,7 @@ At LFF we are a digital community of 100+ with 15+ core team members from around
 
 **Tech Help Collective** 
 
-THC is a [[The Basics - littlefish, colonies and Action|LFF colony]] a work group of the LFF. It is a community for individuals who want to provide these types of services to the LFF and Catalyst communities. THC will grow over time. This growth will allow it to improve the quantity and quality of the work done, enabling others to stay on top of technological developments. The long term aim of THC is becoming **the community** in Catalyst to find the most up-to-date information on all things blockchain.
+THC is a [[2- The Basics - littlefish, colonies and Action|LFF colony]] a work group of the LFF. It is a community for individuals who want to provide these types of services to the LFF and Catalyst communities. THC will grow over time. This growth will allow it to improve the quantity and quality of the work done, enabling others to stay on top of technological developments. The long term aim of THC is becoming **the community** in Catalyst to find the most up-to-date information on all things blockchain.
 
 **Our Solution**
 

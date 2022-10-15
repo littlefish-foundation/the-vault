@@ -25,7 +25,7 @@ In classical software systems, definitions of data evolve over time according to
 
 **Our Approach** 
 
-Hence the design process must account for this dichotomy. Our approach to solve this problem is to define Action incrementally with experimental steps. On the way, we'll be working with gimbalabs, c4c, Sustainable ADA, and other Catalyst colonies, discussing their use cases for Actions, generalizing to the needs of decentralized communities. These are the pioneers of crypto-native organizations. They will be the first users of Actions, along with LFF, [[The First Colony]]
+Hence the design process must account for this dichotomy. Our approach to solve this problem is to define Action incrementally with experimental steps. On the way, we'll be working with gimbalabs, c4c, Sustainable ADA, and other Catalyst colonies, discussing their use cases for Actions, generalizing to the needs of decentralized communities. These are the pioneers of crypto-native organizations. They will be the first users of Actions, along with LFF, [[1- The First Colony]]
 
   
 
@@ -76,7 +76,7 @@ The proposal improves the challenge Key Metrics:
 
 -   Increasing the number of dapps and products available for the community to use that help to enrich the ecosystem with new use cases.
 -   Actions are an entirely new use case for NFTs. 
--   Actions will create new [[The Attributes of Action#New Ways To Earn|use cases for earning]]
+-   Actions will create new [[4- The Attributes of Action#New Ways To Earn|use cases for earning]]
 -   Increased quality of existing products & integrations through suggested improvements that is supported by customer feedback or increased usage by the community.
 -   Actions will be built through use and feedback by LFF, c4c, Sustainable ADA, Gimbalabs and others.
 

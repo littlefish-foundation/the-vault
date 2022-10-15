@@ -31,3 +31,7 @@ These are the symptoms of the same fundamental problem. The way we organize our 
 Although many individuals are passionate about fighting climate change, income inequality, censorship and poverty while maintaining peace, they can’t coordinate effective solutions to these problems. What hope do individuals have to affect change when powerful institutions act against them? Is there any chance each can take meaningful small steps and have a grand total effect? 
 
 A decade ago, this was a dream. With blockchains, it’s a hopeful future that is just around the corner. With blockchains we rewrite the transactional layer. How does value exchange hands? What gets paid? How? We can embed incentives directly at the point of payment to incentivize certain actions while disincentivizing others. We have the tools to experiment in new models of organization emerging from the transactions we design. We can take a holistic approach using token networks to align individual goals with public good. We can build better functioning organizations, communities, and societies.
+
+Next: [[2- The Digital and Beyond]]
+
+

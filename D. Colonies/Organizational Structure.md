@@ -9,7 +9,7 @@ LFF is built on Teal organization principles:
 -   Natural, fluid hierarchies 
 -   Self-management of participants
 
-Read more here: [[A Radical Method of Organization]]
+Read more here: [[2- A Radical Method of Organization]]
 
 ## LFF Sub-Colonies  
 Littlefish Foundation is made up of five colonies, work groups of the LFF. Each has their own objectives and responsibilities. Collectively they make up the LFF. here

@@ -5,5 +5,10 @@
   "promptDelete": false,
   "tabSize": 4,
   "spellcheck": true,
-  "showFrontmatter": true
+  "showFrontmatter": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "autoPairBrackets": true,
+  "autoPairMarkdown": true,
+  "smartIndentList": true
 }

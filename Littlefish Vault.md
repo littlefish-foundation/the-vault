@@ -6,26 +6,26 @@ Enjoy the rabbitholes but bookmark this page, just in case you get lost!
 
 ## Choose your own adventure: The Whitepaper
 ### The Meta and the Big Problem
-- [[The Meta]]
-- [[The Digital and Beyond]]
-- [[The Bleeding Edge of Organizations and the Big Problem]]
+- [[1- The Meta]]
+- [[2- The Digital and Beyond]]
+- [[3- The Bleeding Edge of Organizations and the Big Problem]]
 
 ### What is this thing we're building?
-- [[The Big Picture]]
-- [[The Basics - littlefish, colonies and Action]]
-- [[Littlefish Action Model]]
-- [[Why Purchase Actions]]
+- [[1- The Big Picture]]
+- [[2- The Basics - littlefish, colonies and Action]]
+- [[3- Littlefish Action Model]]
+- [[4- Why Purchase Actions]]
 
 ### Littlefish Foundation, the Organization
-- [[The First Colony]]
-- [[A Radical Method of Organization]]
+- [[1- The First Colony]]
+- [[2- A Radical Method of Organization]]
 - [[Organizational Structure]]
 
 ### Technology, Philosophy, and More
-- [[Why Blockchain]]
-- [[Why Cardano]]
-- [[The Littlefish Way]]
-- [[The Attributes of Action]]
+- [[1- Why Blockchain]]
+- [[2- Why Cardano]]
+- [[3- The Littlefish Way]]
+- [[4- The Attributes of Action]]
 - [[Glossary of Terms]]
 
 ## Learning Web3

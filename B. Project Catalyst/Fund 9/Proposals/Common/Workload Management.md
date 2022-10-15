@@ -3,7 +3,7 @@
 ## LFF Organization
 LFF is a decentralized organization with a community. Our team mid June 2022 is made up of 17 people. The organization is growing day by day, as new community members show willingness to contribute, new connections are made, community members bring others onboard...  
 
-As of June 15th 2022, we have 5 work groups, which are LFF [[The Basics - littlefish, colonies and Action|colonies]]. Each working group is responsible for different activities. You can learn about them [[Organizational Structure#LFF Sub-Colonies|here]].
+As of June 15th 2022, we have 5 work groups, which are LFF [[2- The Basics - littlefish, colonies and Action|colonies]]. Each working group is responsible for different activities. You can learn about them [[Organizational Structure#LFF Sub-Colonies|here]].
 
 ## Load Management Through Commitments
 Workload management in LFF is based on [[Modules]]. 

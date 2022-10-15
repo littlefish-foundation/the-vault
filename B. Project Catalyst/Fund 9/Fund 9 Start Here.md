@@ -16,19 +16,19 @@ Littlefish Foundation has multiple proposals in Fund 9.
 Each proposal plays a part in the overarching vision of the Littlefish Foundation. We suggest starting with the recommended reading before going into proposals.
 
 ### Recommended Reading
-- [[The Bleeding Edge of Organizations and the Big Problem]]
-- [[The Basics - littlefish, colonies and Action]]
-- [[The Big Picture]]
-- [[Littlefish Action Model]] 
+- [[3- The Bleeding Edge of Organizations and the Big Problem]]
+- [[2- The Basics - littlefish, colonies and Action]]
+- [[1- The Big Picture]]
+- [[3- Littlefish Action Model]] 
 
 ### For Explorers
 If you just want to explore Littlefish Foundation, [[Littlefish Vault|begin your journey here]].
 
 And here are some extras for the curious:
-- [[The First Colony]]
-- [[A Radical Method of Organization]]
-- [[The Attributes of Action]]
-- [[The Littlefish Way]]
+- [[1- The First Colony]]
+- [[2- A Radical Method of Organization]]
+- [[4- The Attributes of Action]]
+- [[3- The Littlefish Way]]
 
 ### Just show me the proposals already
 ![[Proposals Index]]

@@ -39,7 +39,7 @@ June 14th, 2021 - [Evolution of the FWB DAO](https://zhang.mirror.xyz/9sRa2kNDU
 ## Resources
 ### Books
 #### Reinventing Organizations
-Start here if you want to learn about [[A Radical Method of Organization|Teal Organizations]]
+Start here if you want to learn about [[2- A Radical Method of Organization|Teal Organizations]]
 
 This is the book that got us thinking about self-management, distributed decision making, and natural hierarchies. If you want to topple some pyramids, this is the way.
 https://www.goodreads.com/book/show/20787425-reinventing-organizations

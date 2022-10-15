@@ -35,7 +35,7 @@ We have been feeling the problem of visibility while building our organization. 
 
   
 
-This is a general problem in the blockchain space. Finding places that aggregate good, in-depth research is difficult. This is why we’re building our knowledge base with a holistic vision, solving problems we face while building this decentralized organization, and [[The Littlefish Way#Creating Common Knowledge|creating common knowledge]] so others may have an easier time solving similar problems. 
+This is a general problem in the blockchain space. Finding places that aggregate good, in-depth research is difficult. This is why we’re building our knowledge base with a holistic vision, solving problems we face while building this decentralized organization, and [[3- The Littlefish Way#Creating Common Knowledge|creating common knowledge]] so others may have an easier time solving similar problems. 
 
 
   

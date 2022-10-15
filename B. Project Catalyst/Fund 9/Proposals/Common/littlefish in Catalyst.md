@@ -35,8 +35,8 @@ During this time we have completed many important steps:
 -   Finished the [whitepaper](https://docs.google.com/document/d/1U_RIQxkM4DW2_J8mF8_spJzs8HbJH1PusJNK4b_ix8k/edit?usp=sharing)
 -   Built a strong core of contributors from our community
 -   Created an organizational model to fit our needs
-	-   [[A Radical Method of Organization]]
-	-   [[Why Cardano#Proposals Experiments and Teams]]
+	-   [[2- A Radical Method of Organization]]
+	-   [[2- Why Cardano#Proposals Experiments and Teams]]
 -   Formed work groups and started to produce on all of them. See these on the [Action Board](https://miro.com/app/board/uXjVO7oL1M4=/?share_link_id=790505909394)
 	-   [[Tech Help Collective]] - Working on wallet research&documentation, preliminary DAO tools research on Ethereum and Cardano, reworking Littlefish Discord
 	-   [[Love House ]]- the littlefish AI art collection
