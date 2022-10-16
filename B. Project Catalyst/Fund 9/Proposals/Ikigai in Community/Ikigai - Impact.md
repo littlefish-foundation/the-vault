@@ -17,7 +17,7 @@ Ikigai is a Japanese concept meaning “a reason for being”. We first came acr
 
   
 
-At the time, we have been experiencing an immense joy for work, ideating and developing the foundations of LFF. Ikigai captured this feeling immediately. We put it in the whitepaper to explain the journey each littlefish(individual) takes. It has become a [[3- The Littlefish Way#It Starts within the Individual|guiding philosophy]] for us, to build technology that enables individuals to find their Ikigai.
+At the time, we have been experiencing an immense joy for work, ideating and developing the foundations of LFF. Ikigai captured this feeling immediately. We put it in the whitepaper to explain the journey each littlefish(individual) takes. It has become a [[12- The Littlefish Way#It Starts within the Individual|guiding philosophy]] for us, to build technology that enables individuals to find their Ikigai.
 
   
 
