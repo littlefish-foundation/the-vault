@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "a8752b9653769c35",
+    "type": "split",
+    "children": [
+      {
+        "id": "17cf19f6fd4c54bd",
+        "type": "split",
+        "children": [
+          {
+            "id": "087e715a4e6897be",
+            "type": "tabs",
+            "dimension": 77.44082840236686,
+            "children": [
+              {
+                "id": "a061b2c25cc8538f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "A. Whitepaper/A. The Meta and the Problem/1- The Meta.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "99232f1f25fdaad8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "A. Whitepaper/B. What is the Littlefish Foundation/5- The Basics - littlefish, colonies and Action.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 1,
+            "stacked": true
+          },
+          {
+            "id": "f0e77a39e70656e5",
+            "type": "tabs",
+            "dimension": 22.559171597633135,
+            "children": [
+              {
+                "id": "518c47b76a71b851",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  },
+                  "pinned": true
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "86689323e1422942",
+    "type": "split",
+    "children": [
+      {
+        "id": "88d46b334bfdd96e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba49f7567df3e1e7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c289ec6edfc3fc62",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#whitepaper",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "91fc8c8c2aab9b4c",
+    "type": "split",
+    "children": [
+      {
+        "id": "33ecaf6f1d3c8c64",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97e66968a4bffc79",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "A. Whitepaper/B. What is the Littlefish Foundation/5- The Basics - littlefish, colonies and Action.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "34a456fed972aebd",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "99232f1f25fdaad8",
+  "lastOpenFiles": [
+    "A. Whitepaper/B. What is the Littlefish Foundation/4- The Big Picture.md",
+    "A. Whitepaper/A. The Meta and the Problem/3- The Bleeding Edge of Organizations and the Big Problem.md",
+    "A. Whitepaper/A. The Meta and the Problem/2- The Digital and Beyond.md",
+    "A. Whitepaper/A. The Meta and the Problem/1- The Meta.md",
+    "Littlefish Vault.md",
+    "A. Whitepaper/D. Technology&Philosophy/13- The Attributes of Action.md",
+    "A. Whitepaper/D. Technology&Philosophy/12- The Littlefish Way.md",
+    "A. Whitepaper/D. Technology&Philosophy/11- Why Cardano.md",
+    "A. Whitepaper/D. Technology&Philosophy/10- Why Blockchain.md",
+    "A. Whitepaper/C. Organization/9- A Radical Method of Organization.md"
+  ]
+}
