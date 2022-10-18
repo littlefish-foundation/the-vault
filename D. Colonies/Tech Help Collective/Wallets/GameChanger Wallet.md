@@ -1,6 +1,7 @@
 #THC #GameChanger #Wallets #Guides #how-to #cardano #NFT
 
 
+
 ## GameChanger Wallet
 
 
@@ -19,7 +20,7 @@ Only available as Web-UI
 **- Multi-Asset, Multi-Output Sending**
 Make single or bulk payments
 
-**- Use and Create DAPPs**
+**- Use and Create dAPPs**
 Built in dAPP code editor is available on Web-UI
 
 **- NFT Minting**
@@ -28,7 +29,7 @@ Simple NFT minting with drag and drop
 ![[Pasted image 20221013174014.png]]
 
 **- Send and Receive ADA**
-Only supports Cardano mainnet
+Only supports Cardano mainnet and testnet
 
 **-Gamified Interface**
 Main purpose is lowering the barrier of entry adoption

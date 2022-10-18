@@ -26,7 +26,7 @@ This is a new method of doing business, of getting paid. Fundamentally, it is no
 
 We will be using this method of payment internally at LFF. What that means in legal terms, is the question. 
 
-Actions are NFTs, they can serve as a [[4- The Attributes of Action#Notarizing Action|digital notary]]. How can this be utilized?
+Actions are NFTs, they can serve as a [[13- The Attributes of Action#Notarizing Action|digital notary]]. How can this be utilized?
 
   
 

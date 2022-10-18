@@ -1,17 +1,18 @@
 #THC #Discord
 
-**Setting up Discord Notifications**
+## Short video on setting up your Discord Notifications
+https://www.youtube.com/watch?v=vjKdpU80hDs
+
+## Setting up Discord Notifications
 
 This document is created to guide you through the following actions:
-
-
 
 1. Settings for optimal notifications 
 2. Never miss anything from a specific channel
 3. Audio Notifications
 
 
-**Setting up for Optimal Notifications:**
+## Setting up for Optimal Notifications
 
 These are the settings used if you are in too many Discord servers and **don’t want to be overwhelmed with notifications**.
 
@@ -86,7 +87,7 @@ The End.
 
 
 
-**Never miss anything from a specific channel:**
+## Never miss anything from a specific channel
 
 These settings must be used if the **activity in a specific channel is significant to you**.
 
@@ -142,7 +143,7 @@ The End.
 
 
 
-**Audio Notifications:**
+## Audio Notifications
 
 These settings work best when only a few important channels are chosen among all your servers.
 
@@ -170,7 +171,7 @@ Enabled Message notification sounds. You will hear a sound everytime there is a 
 
 The End.
 
-**Bonus Function:**
+## Bonus Function
 
 Check and adjust notification settings for multiple channels in the same server.
 
