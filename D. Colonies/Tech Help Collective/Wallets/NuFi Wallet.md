@@ -1,4 +1,4 @@
-#THC #Nufi #Wallets #Guides #how-to #cardano #Solana #Ethereum #Voting #Staking #DEX
+#THC #Nufi #Wallets #Guides #how-to #Cardano #Solana #Ethereum #Voting #Staking #DEX #Multi-Chain #NFT
 
 
 
@@ -14,7 +14,9 @@
 
 ## Availability
 
-Chrome extension and Web-UI, user friendly UI.
+NuFi is an easy-to-use wallet that can appeal to any user. In addition to its easy use, it has a very large How-to-Use database. 
+
+NuFi is available on Chrome, Brave, Opera and Edge extensions and Web-UI.
 
 Web UI link : https://wallet.nu.fi/auth
 
@@ -24,17 +26,22 @@ Web UI link : https://wallet.nu.fi/auth
 
 - **Multichain Support**
 Supports Cardano and Solana ( Ethereum coming soon)
+- **Shows the value of Crypto against other currencies in both Assets and TX view
+( USD, EUR, etc...)**
+![[Pasted image 20221016161432.png]]
+![[Pasted image 20221016161501.png]]
 - **Staking**
 Supports Cardano and Solana
 - **NFT Gallery**
-Store NFT's, send NFT's from Hot and Cold Wallets
+Store NFT's, send NFT's from Hot and Cold Wallets. ( Supports Cardano and Solana )
 - **Cross-chain Trading**
 Integrated exchange
 - **Buy and Sell Crypto**
 Buy crypto with credit card or bank transfer. Sell crypto and deposit into your bank. 
-- **dApp Connector**
+- **dAPP Connector**
 Available on extension application.
-
+- **Wing Riders**
+Decentralized Exchange Tool( Swap Request) (Liquidity Request) (Yield Farming)
 - **Non-Custodial Wallet**
 
 
@@ -47,12 +54,13 @@ Available on extension application.
 
 ### Hardware Wallets
 
-NuFi supports Ledger and Trezor model hardware wallets.
+NuFi supports Ledger Nano and Trezor T model hardware wallets.
 
 
 ### Software Wallets
 
 NuFi supports 12-15-24 word seed phrases and it supports Solana and Cardano wallets.
+NuFi Wallet supports recovery of the seed phrase. If you lose your seed phrase, you can recover your seed phrase with the password you set before.
 Ethereum integration will be available soon.
 
 
@@ -64,6 +72,7 @@ Ethereum integration will be available soon.
 Staking option is available for Cardano and Solana. Guides for use are available in detail on their website.
 
 ![[Pasted image 20220912134524.png]]
+
 
 ![[Pasted image 20220912134547.png]]
 
@@ -79,10 +88,17 @@ Voting mechanism is not ready for use at the moment. It will be available for us
 
 ## Additional Notes
 
-NuFi wallet allows the use of DEX. It is reachable via Web-UI, Wingriders tab.
+**NuFi’s exchange feature uses Changelly to allow users to exchange between cryptocurrencies**
 
-**Video Guide for How-to-Use**
+![[Pasted image 20221016161643.png]]
 
+https://support.nu.fi/support/solutions/articles/80001011444-exchange-from-my-account
+
+
+
+**NuFi wallet allows the use of DEX. It is reachable via Web-UI, Wingriders tab.**
+
+Video Guide for How-to-Use
 https://www.youtube.com/watch?v=fh4cx93OW6A
 
 ![[Pasted image 20220912135912.png]]
@@ -90,9 +106,9 @@ https://www.youtube.com/watch?v=fh4cx93OW6A
 
 
 
-- **Another nice video on the general features of NuFi wallet and how useful it is.**
+- **Another nice video on the general features of NuFi Wallet.**
 
-https://www.youtube.com/watch?v=YkfplPYd8jQ
+https://www.youtube.com/watch?v=4IVEGLPaNkA
 
 
   

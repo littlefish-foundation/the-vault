@@ -1,0 +1,123 @@
+{
+  "main": {
+    "id": "adbb0ded69d49d62",
+    "type": "split",
+    "children": [
+      {
+        "id": "4273794a165813a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92d3527ce43cd46f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D. Colonies/Tech Help Collective/Wallets/NuFi Wallet.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a6a45b498621d702",
+    "type": "split",
+    "children": [
+      {
+        "id": "45ec0aecda5cce75",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67b24f6b2b63fec7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "63b4d32ab7291111",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1ab7028e967b0e8c",
+    "type": "split",
+    "children": [
+      {
+        "id": "894e9c61a34a6e3d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba09ad7f6c610066",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "D. Colonies/Tech Help Collective/Wallets/NuFi Wallet.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "45c454dfe80b20be",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "92d3527ce43cd46f",
+  "lastOpenFiles": [
+    "D. Colonies/Tech Help Collective/Wallets/Typhon.md",
+    "D. Colonies/Tech Help Collective/Wallets/NuFi Wallet.md",
+    "D. Colonies/Tech Help Collective/Wallets/GeroWallet.md",
+    "D. Colonies/Tech Help Collective/Wallets/Comparison of Reviewed Wallets.md",
+    "D. Colonies/Tech Help Collective/Wallets/GameChanger Wallet.md",
+    "D. Colonies/Tech Help Collective/Wallets/Gamechanger.md",
+    "D. Colonies/Tech Help Collective/Wallets/Flint Wallet.md",
+    "D. Colonies/Tech Help Collective/Wallets/Yoroi.md",
+    "D. Colonies/Tech Help Collective/Wallets/CardWallet.md",
+    "D. Colonies/Tech Help Collective/Wallets/RayWallet.md"
+  ]
+}
