@@ -2,5 +2,8 @@
   "obsidian-git",
   "obsidian-style-settings",
   "obsidian-minimal-settings",
-  "obsidian-mind-map"
+  "obsidian-mind-map",
+  "sliding-panes-obsidian",
+  "dataview",
+  "templater-obsidian"
 ]

@@ -1,4 +1,4 @@
-#THC #Ray #Wallets #Guides #how-to #cardano #Staking 
+#THC #Ray #wallet  #Guides #how-to #cardano #Staking 
 
 
 ## RayWallet

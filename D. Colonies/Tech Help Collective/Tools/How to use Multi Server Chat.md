@@ -1,4 +1,7 @@
-#THC #Discord 
+---
+tool: Discord
+---
+#THC #Discord #work-tools 
 
 This guide explains how Multi Server Chat can be set and used.
 

@@ -1,4 +1,4 @@
-#THC #CardWallet #Wallets #Guides #how-to #cardano #Ethereum #Bitcoin
+#THC #CardWallet #wallet  #Guides #how-to #cardano #Ethereum #Bitcoin
 
 ## CardWallet
 

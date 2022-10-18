@@ -1,3 +1,8 @@
+---
+tool: Miro
+---
+#work-tools #miro 
+
 This post will talk about some tips and tricks you may need while using Miro. If you are new to Miro or trying to expand your knowledge, you might want to check here. If there is anything we are missing from this post please let us know from Discord so we can edit this page. Alternatively, you can always edit yourself as an action.
 
 Let's get started.

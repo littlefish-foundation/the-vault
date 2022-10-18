@@ -1,3 +1,8 @@
+---
+tool: Discord
+---
+#work-tools #Discord 
+
 **Tools to Analyze Discord Channels**
 
 **(Aug 15th, 2022; Draft 1)**

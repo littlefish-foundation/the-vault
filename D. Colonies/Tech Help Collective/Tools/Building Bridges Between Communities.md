@@ -1,3 +1,8 @@
+---
+tool: Discord
+---
+#work-tools #Discord 
+
 In Discord everyone's first thought is to make sure their server is running smoothly. Doing so they miss out some important updates from other communities. In Littlefish we have tried to tackle this challenge by trying to find a way to connect these different servers with similar agendas.
 
 We have noticed that even though we are joining other servers for cooperation we are losing track of what is happening there since there is generally more than enough notifications in your account.

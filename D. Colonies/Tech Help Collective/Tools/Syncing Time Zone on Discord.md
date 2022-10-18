@@ -1,3 +1,8 @@
+---
+tool: Discord
+---
+#work-tools #Discord 
+
 Whenever there is an online meeting with people from all over the world, there is almost someone who is missing the meeting due to the confusion on meeting's time. You can find this problem almost every international community. This is problem for admins as well. Here in Littlefish we are using a Discord bot called [Friend Time](https://discord.com/oauth2/authorize?client_id=471091072546766849&scope=bot%20applications.commands&permissions=85056) that is helping us to minimize this problem.
 
 This bot is there whenever a time is mentioned in chat. When the bot sees a message with time it reacts to it with clock emoji. When you click that clock it sends you a message. For this process to work without an error the bot has to know about your time zone as well. 

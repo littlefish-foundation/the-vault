@@ -1,4 +1,7 @@
-#THC 
+---
+tool: Discord
+---
+#THC #work-tools #Discord 
  
 This guide explains how ComBot can be set and used.
 

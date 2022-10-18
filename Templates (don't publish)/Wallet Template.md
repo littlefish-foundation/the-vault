@@ -1,5 +1,5 @@
+Add wallet logo here
 
-![[walletlogo.svg]]
 # Wallet Name
 
 ## Availability

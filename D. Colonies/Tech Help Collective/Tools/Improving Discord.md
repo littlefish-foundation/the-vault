@@ -1,3 +1,8 @@
+---
+tool: Discord
+---
+#work-tools #Discord 
+
 ## Managing a Server
 [[Building Bridges Between Communities]]
 [[Discord Server Analytics]]

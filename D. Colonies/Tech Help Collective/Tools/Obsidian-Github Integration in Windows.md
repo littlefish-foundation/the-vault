@@ -1,4 +1,7 @@
-#THC #LFF-tools
+---
+tool: Obsidian
+---
+#THC #LFF-tools #work-tools #Obsidian 
 
 As you know you control Obsidian from your GitHub repository. Both of these platforms have Windows Programs you can use from the comfort of your desk(top).
 

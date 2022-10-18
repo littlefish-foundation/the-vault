@@ -1,4 +1,7 @@
-#THC #work-tools #how-to #tutorials #transcribe #meeting
+---
+tool: Otter.ai
+---
+#THC #work-tools #how-to #tutorials #transcribe #meeting #otterAI
 
 
 

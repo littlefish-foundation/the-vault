@@ -1,4 +1,7 @@
-#THC #Discord
+---
+tool: Discord
+---
+#THC #Discord #work-tools 
 
 ## Short video on setting up your Discord Notifications
 https://www.youtube.com/watch?v=vjKdpU80hDs

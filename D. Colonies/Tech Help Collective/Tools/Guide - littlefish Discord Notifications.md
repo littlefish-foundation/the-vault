@@ -1,3 +1,8 @@
+---
+tool: Discord
+---
+#work-tools #Discord 
+
 ## Notification Settings for Littlefish 
 
 ### _Note:_ 

@@ -1,3 +1,9 @@
+---
+tool: Miro
+---
+
+#work-tools #miro
+
 This video by Tevo Saks will give you a great overview of the basics: https://www.youtube.com/watch?v=o872SSuT2so
 
 Miro is digital whiteboard that can help you collaborate with others. With the help of Miro you can create live projects that you and your team can work on it simultaneously. This guide will explain the basics of Miro, from creating an account to navigating on Miro.

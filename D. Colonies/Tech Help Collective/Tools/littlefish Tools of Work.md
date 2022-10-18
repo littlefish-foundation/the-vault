@@ -1,8 +1,15 @@
+---
+tool: Multiple
+---
+#work-tools 
+
 Here's a list of the tools we use at littlefish Foundation. As of September 12th 2022, this is not a comprehensive list of all tools but an MVP document to guide littlefish contributors.
 
 If you're in need of guidance on any of these or other tools we use at littlefish, make a request using this form: https://forms.gle/h4WapuLSNg6aZVM88
 
 ## Discord
+[[Improving Discord]]
+
 ### Set your Discord Notifications for littlefish Foundation
 [[Guide - littlefish Discord Notifications]]
 

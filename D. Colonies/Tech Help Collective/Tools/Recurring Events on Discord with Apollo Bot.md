@@ -1,4 +1,7 @@
-#THC #Discord
+---
+tool: Discord
+---
+#THC #Discord #work-tools 
 
 **Recommended Bots:**
 

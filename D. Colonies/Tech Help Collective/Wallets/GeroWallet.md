@@ -1,4 +1,4 @@
-#THC #Gero #Wallets #Guides #how-to #cardano #Staking 
+#THC #Gero #wallet #Guides #how-to #cardano #Staking 
 
 
 

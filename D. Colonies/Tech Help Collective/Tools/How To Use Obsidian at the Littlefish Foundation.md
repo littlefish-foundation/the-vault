@@ -1,3 +1,6 @@
+---
+tool: Obsidian
+---
 #THC #work-tools #how-to #tutorials #Obsidian #GitHub
 
 
