@@ -1,6 +1,7 @@
 # to exclude workspace cache
 .obsidian/workspace/*
 .obsidian/workspace
+.obsidian/workspace.json
 
 .obsidian/graph.json
 .obsidian/hotkeys.json
