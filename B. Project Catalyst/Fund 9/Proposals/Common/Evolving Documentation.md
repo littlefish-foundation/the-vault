@@ -8,4 +8,8 @@ Second is a feature of Obsidian. Obsidian’s graph view shows all files as node
 
 ![[june14thobsidian.png]]
 
+As of October 18th
+![[evolving-docs-2.png]]
+
 Note: If you want to try this out on your own, download [Obsidian](https://obsidian.md/), and clone our [git repo](https://github.com/littlefish-foundation/the-vault).
+

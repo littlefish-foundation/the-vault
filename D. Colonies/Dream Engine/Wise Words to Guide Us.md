@@ -26,3 +26,5 @@ In a decaying society, art, if it is truthful, must also reflect decay. And unle
 Action without vision is only passing time. Vision without action is merely daydreaming. But vision with action can change the world. – _Nelson Mandela_
 
 Those who build the house are built by the house -- Maori proverb
+
+Think like a man of action, act like a man of thought. -- Henri Bergson

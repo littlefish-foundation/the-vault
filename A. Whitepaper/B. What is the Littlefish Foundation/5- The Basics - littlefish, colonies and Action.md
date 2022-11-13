@@ -1,5 +1,7 @@
 #whitepaper
 
+Previous: [[4- The Big Picture]]
+
 **Littlefish** are the actors of the system. They are individuals who want to enable and enact change in the world. They come together on the Littlefish Platform to form colonies.
 
 **Colonies** are groups of littlefish. A group of friends, a digital community, a DAO, a business, a charity organization, … They have common goals to work towards. 
@@ -17,3 +19,4 @@ Actions are the [[13- The Attributes of Action#Proof of Activity PoA|**Proof of 
 
 The rewards from the sale of Actions are shared between the colony and littlefish. **Everyone earns.**
 
+Next: [[6- Littlefish Action Model]]

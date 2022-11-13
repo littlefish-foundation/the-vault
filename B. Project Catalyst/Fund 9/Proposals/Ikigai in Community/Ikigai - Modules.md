@@ -1,6 +1,6 @@
 #module #fund9  
 
-**Module 1: Internal Use** 
+## Module 1: Internal Use
 
 Stakeholders: LFF
 Primary Work Group: [[Organization Labs]]
@@ -25,7 +25,7 @@ Key milestones
 
   
 
-**Module 2: Educate, Share, and Collect Information**
+## Module 2: Educate, Share, and Collect Information
 Stakeholders: LFF, Pilot Communities (c4c, Sustainable Ada, and others) 
 Primary Work Group: [[Organization Labs]]
 Duration: July - December
@@ -48,7 +48,7 @@ Key milestones:
 
   
 
-**Module 3: Design UI/UX, Technical Specification**
+## Module 3: Design UI/UX, Technical Specification
 
 Stakeholders: LFF, Pilot communities
 Primary Work Group: [[The Forge]]
@@ -78,7 +78,7 @@ Key milestones:
 
   
 
-**Module 4: Development**
+## Module 4: Development
 
 Stakeholders: LFF, Pilot communities, Catalyst/Cardano community
 Primary Work Group: [[The Forge]]
@@ -105,7 +105,7 @@ Key milestones:
 
   
 
-**Module 5: Marketing Ikigai**
+## Module 5: Marketing Ikigai
 
 Stakeholders: LFF, Catalyst and Cardano community
 

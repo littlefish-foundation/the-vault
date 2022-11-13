@@ -19,5 +19,3 @@
 | [[D. Colonies/Tech Help Collective/Wallets/Flint Wallet.md\|Flint Wallet]] | September 07, 2022 | September 07, 2022 |
 | [[D. Colonies/Tech Help Collective/Wallets/Eternl.md\|Eternl]]             | September 07, 2022 | September 07, 2022 |
 
-
-

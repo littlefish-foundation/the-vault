@@ -1,5 +1,7 @@
 #whitepaper
 
+Previous: [[10- Why Blockchain]]
+
 Cardano’s Project Catalyst is central to the Cardano vision. It is a global innovation funding machine focusing on funding the community and increasing the number of projects working on Cardano. It funds millions of dollars worth of innovation.
 
 > Project Catalyst is a series of experiments which seeks to generate the highest levels of community innovation… It also lets participants deploy funding to proposals which tackle challenges and capitalize on opportunities … [1]
@@ -17,3 +19,5 @@ At Littlefish Foundation, experimentation is what we are all about. Each Littlef
 Each team has a leader. The leader has primary responsibility for the success of the proposal but is not the boss. The team is a self-managing unit, free to select any method of management to fit its needs. Team members share work and responsibilities to accomplish goals, and each owns the proposal and their role within it.
 
 The leader’s wallet address will be used to manage funds. The team is free to decide how to use funds. Team members can share responsibilities in however way they see fit. They are encouraged to ask for advice from team members and others. These can be members from other teams, advisors, contributors, community members, contractors etc. The team can reward/pay these participants in any way they choose.
+
+Next: [[12- The Littlefish Way]]

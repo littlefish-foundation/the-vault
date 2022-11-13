@@ -1,5 +1,7 @@
 #whitepaper 
 
+Previous: [[5- The Basics - littlefish, colonies and Action]]
+
 Littlefish Action Model describes how individual Actions are aligned towards common goals with littlefish, colonies and Actions. 
 
 ![[littlefishactionmodel.png]]
@@ -23,3 +25,5 @@ littlefish gets rewarded → littlefish’s desire for further rewards is increa
 This is a reinforcing feedback loop steps 2 through 4. The more an Action is rewarded, the more it will be incentivized. The less it is rewarded, the less of it will exist. 
 
 It is up to each littlefish to decide what that means.
+
+Next: [[7- Why Purchase Actions]]

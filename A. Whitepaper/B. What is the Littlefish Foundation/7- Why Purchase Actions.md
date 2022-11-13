@@ -1,5 +1,7 @@
 #whitepaper
 
+Previous: [[6- Littlefish Action Model]]
+
 What Actions will be valuable will be determined by the behavior of littlefish, determined through the mechanism of the free market and the values of littlefish. 
 
 There are multiple reasons to purchase Actions:
@@ -21,3 +23,5 @@ There are multiple reasons to purchase Actions:
 	This is a brand [new asset class](https://docs.google.com/document/d/1U_RIQxkM4DW2_J8mF8_spJzs8HbJH1PusJNK4b_ix8k/edit#heading=h.61d7m1n65ziv) for investors: The records of Action that affect the world, the efforts of individuals to achieve common goals.
 
 	A whitepaper can be an Action. Can it also be a long term investment? Imagine the Bitcoin whitepaper. What would it be worth today as an Action?
+
+Next: [[8- The First Colony]]

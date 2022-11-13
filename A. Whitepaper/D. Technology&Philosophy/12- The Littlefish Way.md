@@ -1,5 +1,7 @@
 #whitepaper
 
+Previous: [[11- Why Cardano]]
+
 ## Towards Decentralized Civilization
 ![[oannes.jpg]]
 
@@ -74,3 +76,5 @@ We believe art must play a foundational role in human society. Not as a second t
 > In a decaying society, art, if it is truthful, must also reflect decay. And unless it wants to break faith with its social function, art must show the world as changeable. And **help to change it.** <div style="text-align: right">Ernst Fischer</div>
 
 All Actions can be made beautiful with art. Colonies can employ the services of artists from all over the globe to make their Actions appealing to broader audiences, allowing them further reach and greater support.
+
+Next: [[13- The Attributes of Action]]
