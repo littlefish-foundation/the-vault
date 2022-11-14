@@ -1,5 +1,7 @@
 #whitepaper
 
+Previous: [[8- The First Colony]]
+
 This section is heavily sourced from: [https://reinventingorganizationswiki.com/theory/organizational-structure/](https://reinventingorganizationswiki.com/theory/organizational-structure/)
 
 Littlefish Foundation takes inspiration from Teal Organization principles:
@@ -43,3 +45,5 @@ This is why it’s absolutely critical to develop an organizational learning cul
 -   Accepted practices are standardized.
 
 Modern organizations must take organizational knowledge as a core business function. This includes lowering the barriers of entry for technology, building support processes to communicate and collaborate more effectively, researching emerging technologies, tools, and new methods of governance. Organizations have to keep learning from the collective of human intelligence. They must evolve.
+
+Next: [[10- Why Blockchain]]
