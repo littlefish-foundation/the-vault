@@ -3,5 +3,5 @@ This is the index page for our funded proposals. Bookmark this page, then come b
 ## Fund 9
 littlefish - Tools of DAO Work: [[DAOWork - Tracking]]
 littlefish - Ikigai in Community: [[Ikigai - Tracking]]
-littlefish - Ocean Technologies: Coming soon
-littlefish - Law and the New Order: Coming soon
+littlefish - Ocean Technologies: [[OceanTech - Tracking]]
+littlefish - Law and the New Order: [[NewOrder - Tracking]]

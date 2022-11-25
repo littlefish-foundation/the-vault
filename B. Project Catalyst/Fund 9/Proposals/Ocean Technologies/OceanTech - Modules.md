@@ -1,4 +1,4 @@
-**Proposal-wide milestones and expected deliveries**
+## Proposal-wide milestones and expected deliveries
 
   
 
@@ -18,7 +18,7 @@ Original docs may be any research, report, or study we conduct at LFF. Curated r
 
   
 
-**Module 1: Ocenfaring Technology (Cross-Chain on Cardano)**
+## **Module 1: Ocenfaring Technology (Cross-Chain on Cardano)**
 
 Stakeholders: LFF, Catalyst and Cardano community, Blockchain communities
 Primary Work Group: [[Tech Help Collective]]
@@ -55,7 +55,7 @@ Key milestones and expected deliveries:
 
   
 
-**Module 2: Technology of the Ocean**
+## **Module 2: Technology of the Ocean**
 
 Stakeholders: LFF, Catalyst and Cardano community, Blockchain communities
 Primary Work Group: [[Tech Help Collective]]
@@ -97,7 +97,7 @@ Key milestones and expected deliveries:
 
   
 
-**Module 3: Marketing**
+## **Module 3: Marketing**
 
 Stakeholders: LFF, Catalyst and Cardano community
 Primary Work Group: [[Love House]]

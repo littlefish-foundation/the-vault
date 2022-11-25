@@ -37,3 +37,26 @@ By the end of workshop 2
 In workshops 3 and 4 we went through a more methodical process, where we analyzed each role and matched responsibilities, to refine and finalize. 
 ![[c4c-ikigai-3.png]]
 
+
+
+### Ikigai Survey
+We took October to work on a different approach to get the idea of Ikigai out there in time for the Summit. For this we co-created a survey with community members using the concept. Here’s a high level look at the Miro board where we worked together to brainstorm it all.
+
+![[ikigai-survey1.png]]
+
+It took us several sessions to work on the survey. Our first goal was identifying the objectives of the survey. We brainstormed, then finalized on these three objectives through a vote:
+
+1.  To start collecting Ikigais of people, and to learn from the process
+2.  To prime people to think about personal agency and work in a Decentralized Organization
+3.  To hype people to come build littlefish Foundation with us
+
+We decided to kick off the survey with 3 yes/no questions from Simon Sinek:
+1.  Do you feel excited about going to work?
+2.  Do you feel safe being at work?
+3.  Do you feel fulfilled with the work you do?
+
+Then we filled the rest of the survey with questions that served the first two objectives. See them color coded below:
+
+![[ikigai-survey2.png]]
+
+You can find the survey and fill it out [here](https://lcxlobunsre.typeform.com/to/YWPq70FD).
