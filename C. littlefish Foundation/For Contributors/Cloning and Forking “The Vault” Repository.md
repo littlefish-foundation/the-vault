@@ -74,7 +74,7 @@ Now you are just a few clicks away from proposing your changes to the owner of t
 3. Go on and click on the "Compare & Pull request". The next page would be: 
 ![](https://hackmd.io/_uploads/BJZorACUo.png)
 
-3. Click on the "Create pull request" button. And you are done. Congratulations !
+3.
 
 
 
