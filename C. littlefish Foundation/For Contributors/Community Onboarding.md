@@ -24,6 +24,6 @@ You can find these groups on Discord. Jump into those chats and meet your folk.
 Woah, woah, woah, slow down there. This is a big rabbit hole you fell into. You need sometime to orient and adjust. Take your time. 
 
 Start with the [[Contributor Guideline]].
-
+Thanks for reading.
 
 
