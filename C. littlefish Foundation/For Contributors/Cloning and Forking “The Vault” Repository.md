@@ -66,15 +66,6 @@ Don worry nothing has been lost. You can fix it in a few steps. First if you kno
 
 *If the console asks for a password after this step, go to the following link https://github.com/settings/tokens, click on "Generate new token (classic)", fill out a simple form, copy the generated token and paste it as password in terminal*
 
-## Making a Pull Request
-Now you are just a few clicks away from proposing your changes to the owner of the original repository.
-1. Go to "the-vault" repository in your Github profile. What you will see should look something like the image below.
- ![](https://hackmd.io/_uploads/H1MUSRCUo.png)
-
-3. Go on and click on the "Compare & Pull request". The next page would be: 
-![](https://hackmd.io/_uploads/BJZorACUo.png)
-
-3.
 
 
 
