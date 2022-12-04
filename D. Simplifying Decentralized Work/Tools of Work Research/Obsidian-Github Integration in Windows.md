@@ -15,8 +15,7 @@ In this document [[Install Git for Windows]], you may find a detailed step by st
 You can download Obsidian from the following link; [https://obsidian.md/download](https://obsidian.md/download)
 
 After finishing installing the app, you need to create a new vault. The process is illustrated in the images below:
-![](../../images/obsidian-integration/create-vault-1.png)
-![](../../images/obsidian-integration/create-vault-2.png)
+![](../../images/obsidian-integration/create-vault.png)
 
 Next, click on the settings icon in bottom left corner and from there select Community Plugins and then Turn on community plugins.
 ![](../../images/obsidian-integration/git-plugin.png)
