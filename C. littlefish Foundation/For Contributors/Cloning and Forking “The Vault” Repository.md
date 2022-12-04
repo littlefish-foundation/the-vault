@@ -76,6 +76,7 @@ Now you are just a few clicks away from proposing your changes to the owner of t
 
 3. Click on the "Create pull request" button. And you are done. Congratulations !
 
+---
 ## Github Desktop
 
 You can download the Github Desktop App from the following link: https://desktop.github.com/
