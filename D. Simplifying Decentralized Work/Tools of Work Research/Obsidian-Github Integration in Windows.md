@@ -21,6 +21,8 @@ Before we are done with the GitHub part of the guide, there is one more thing we
 During the installation of this software, you can leave all the options in their default state. Make sure the following option is selected for path environment. Again, it is like this by default, but no harm in being cautious.
 ![[git-setup.png]]
 
+
+
 Now we can go to the next step.
 
 ## 2.      Obsidian Installation
