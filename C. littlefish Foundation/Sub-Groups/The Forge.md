@@ -17,5 +17,10 @@ https://app.littlefish.foundation/actions
 ## Dev Web App
 https://dev.littlefish.foundation
 
+## Cardano Node Setup
+[[Cardano Node Setup]]
+
+## Cardano-CLI Guide
+[[Cardano-CLI Guide]]
 
 
