@@ -30,6 +30,34 @@ In conclusion cloning is used by active developers who constantly contribute to 
 5. On the next step you need to type “git clone + the URL you copied from step 2” (plus should not be typed). And then press Return for mac or Enter for Windows.![](https://i.imgur.com/3SK7ST9.png)After this command the repository starts downloading into the folder that you chose. 
 **Important:** If you get some kind of error message saying that it doesn't recognize the git command, it means that git is not installed in your machine. To learn more for this check out the following link: https://github.com/git-guides/install-git 
 
+
+
+## Cloning Repo Using SSH Method
+To be able to clone the repository using SSH method first you need to generate an SSH key in your computer.
+
+
+1. <u>**For Mac**</u> Open the terninal (command + space, type terminal, press return) and type the following command `ssh-keygen -b 4096 -t rsa` and press return again.
+   
+2. <u>**For Windows**</u> Open CMD *(Press `Windows+R` to open “Run” box. Type “cmd” and then click “OK” to open a regular Command Prompt. Type “cmd” and then press `Ctrl+Shift+Enter` to open an administrator Command Prompt.)* and type the following command `ssh-keygen`. All the remaining steps are the same.
+
+
+3. Write  After pressing return, you will see a message like this `Enter file in which to save the key (/Users/*username*/.ssh/id_rsa):` press return again. If it says that it already exist, do you want to overwrite, type `y` and press return. 
+   
+4. It will ask you to give the ssh key a password `Enter passphrase (empty for no passphrase):` you can leave it empty or give it a password and verify on the next step.
+   
+5. When ssh key is created, you should see something similar to this: 
+![](https://hackmd.io/_uploads/rk78BnJ_s.png =100x100)
+   
+6. Now go to the directory where it is saved by typing: `cd *username*` and after that type `cat .ssh/id_rsa.pub`, the last command will show the contents of the file `.ssh/id_rsa.pub`, which is something like: `ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDhQhUhRpcze4xroC+zNmbQbl2phqVWhOFxnvxapPOKbWCnPIk/5sHsJLT4ZH7K75Mj7k1aj8ijnSGl6xKOkIPM995ANxuAalUbZkXL...` Copy this code.
+   
+7. Open Github from your browser and navigate to settings. This link https://github.com/settings/profile will redirect there.
+   
+8. On the left side click on the ![](https://hackmd.io/_uploads/Hyt4vnkuo.png =150x20), from the page that opens click on ![](https://hackmd.io/_uploads/B1BFw2kds.png =90x20).
+   
+9.  Give your key a title, and in the key part paste the ssh key that you copied from terminal earlier. Click on `Add Key` and you are all set.
+    
+10. Same as in the step 2 in the part above, select `SSH` instead of `HTTPS` and copy the content. Go back to the terminal and type the following command `git clone git@github.com:*username*/the-vault.git`
+
 ***CONGRATULATIONS  YOU HAVE SUCCESSFULLY CLONED THE REPOSITORY ON YOU COMPUTER.***
 
 ## Forking 
