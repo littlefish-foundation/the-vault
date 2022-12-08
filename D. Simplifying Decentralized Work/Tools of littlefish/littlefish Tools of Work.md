@@ -39,7 +39,7 @@ Once you get a good grip on Markdown and want to jump into Obsidian, these docs 
 
 ## Scheduling 
 Bot of these can integrate with your google calendar and make scheduling much easier.
-Group Meetings: https://lettucemeet.com/
+Group Meetings: [[How to Use lettucemeet]]
 One-on-ones: https://calendly.com/
 
 ## Miro

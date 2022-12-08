@@ -8,7 +8,7 @@ Workshop details will be planned in the process as well. Each workshop will cove
 
   
 
-Key Milestones and expected deliveries:
+## Key Milestones and expected deliveries:
 
 -   October
 	-   1 workshop held
@@ -22,7 +22,7 @@ Key Milestones and expected deliveries:
 	-   Final documentation of the research and legal opinions conducted and publication of those to the access of members of the blockchain community.
 
 
-**Module 1: Legal Research** 
+## **Module 1: Legal Research** 
 Stakeholders: LFF, LFF users, Catalyst community members, DAOs
 Primary Work Group: Tevetoglu Legal
 Duration: September - February
@@ -35,7 +35,7 @@ Activities:
 -   Original research on the legal aspects of Action NFTs, earning from Catalyst, DAO frameworks, tokens, smart contracts, blockchain, real world asset backed tokens, data on chain, crowdfunding, taxation, AML/KYC regulations, whitepapers
 -   FAQs, documentation, resources on these topics 
 
-**Module 2: Consultation and Educational Workshops**
+## **Module 2: Consultation and Educational Workshops**
 Stakeholders: LFF 
 Primary Work Group: Tevetoglu Legal
 Duration: September - February
@@ -51,7 +51,7 @@ Activities:
 
   
 
-**Module 3: Marketing The Littlefish Vault**
+## **Module 3: Marketing The Littlefish Vault**
 Stakeholders: LFF, Catalyst and Cardano community
 Primary Work Group: [[Love House]]
 Duration: August - February
