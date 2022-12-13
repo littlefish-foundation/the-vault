@@ -1,5 +1,5 @@
 #THC #wallet
-![[eternl.png|200]]
+![[eternl.png|right|200]]
 # Eternl 
 Formerly known as CCVault, Eternl is a non-custodial*, light wallet with many endpoints and countless (for now) features, which is continuosly developing. We will focus on this particular wallet in detail.
 > https://eternl.io/
@@ -15,6 +15,8 @@ Below options are capable as DApp connector & DApp browser;
 * Opera
 Obvious drawback here is; it is still not available for Firefox.
 ### Mobile
+
+![[anything.png]]
 Mobile applications are only available ass DApp browser;
 * Android
 * iOS
@@ -55,6 +57,8 @@ Mobile applications are only available ass DApp browser;
 ![[eternl_wallet_settings_main.png]]
 
 ## Known Issues
->Please let us know if you encounter any issues.
+>Please let us know if you encounter any issues
+
+* When Eternl is enabled, Miro (https://miro.com) is stuck on loading screen, disabling it from browser extension fixes this issue.
 
 *This means that they **do not** keep a copy of your password or your recovery seed. No one besides you, or anyone you give your password or recovery seed to, will have a copy of these. This means that only you can recover your wallet. If you lose your password and/or your recovery seed then your wallet and funds will be irrecoverable. AFTER COMPLETING THESE STEPS YOU WILL BE WHOLLY, 100% RESPONSIBLE FOR YOUR FUNDS. YOU ASSUME ALL THE RISKS.*

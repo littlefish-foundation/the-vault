@@ -3,4 +3,4 @@
 
 
 
-![[Wallet Comparison.png]]
+![[wallet-comparison-v2.png]]
