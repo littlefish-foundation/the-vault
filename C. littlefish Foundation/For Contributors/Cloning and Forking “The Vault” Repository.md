@@ -76,6 +76,41 @@ Now you are just a few clicks away from proposing your changes to the owner of t
 
 3. Click on the "Create pull request" button. And you are done. Congratulations !
 
+## Github Desktop
+
+You can download the Github Desktop App from the following link: https://desktop.github.com/
+
+After downloading and installing, you need to authenticate it with your github account. Open preferences, click on sign in. This will redirect you to your github account from your default browser. 
+
+![](../../images/github-for-beginners/sign-in-github.png)
+![](../../images/github-for-beginners/sign-in-browser.png)
+
+Assuming that you have forked the repository in your github account (the first two steps of the forking section), you now need to clone it in your computer. 
+
+To achieve this first you need to go to **file** from the menu bar and from there click on **Clone Repository...**. This command will open a modal similar to the one below, which will show all the repositories found in your github profile.
+
+![](../../images/github-for-beginners/clonerepository.png)
+
+From here select the vault (same as the illustration), choose a local path (where do you want this repository to be downloaded), and finally click on clone button.
+
+![](../../images/github-for-beginners/clonning.png)
+
+This indicates that the repository is being downloaded.
+
+When this process is done you are set. Go on and open the repository from vscode, and make some changes. Than return to github desktop which will recognize all changes automatically. Look the image below:
+
+As for the next step, in the bottom left corner write a short summary of your actions and click **commit to main**.
+
+![](../../images/github-for-beginners/commit.png)
+
+Now that you have committed your changes, you need to push them online. Look at the image below:
+
+![](../../images/github-for-beginners/push.png)
+
+Click on **Push Origin** and you are done. The next step is to create a pull request from your github profile. *Described on the previous section*. 
+
+
+
 
 
 
