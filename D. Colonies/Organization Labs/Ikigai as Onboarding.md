@@ -1,3 +1,0 @@
-#ikigai 
-
-On the way...

@@ -1,5 +1,7 @@
 #whitepaper
 
+Previous: [[7- Why Purchase Actions]]
+
 The future of organization is here. The pioneers of this future are crypto-native organizations, digital communities and decentralized projects. Littlefish Foundation is one such organization: a decentralized project with a digital community built on the Cardano blockchain.   
 
 We have been building the Littlefish Foundation, experimenting in digital community building since December 2021. We have seen the difficulties of driving community to action. Coordination is difficult. There is information overload. There is no visibility to action. These are the practical problems of coordination all digital communities face. First, we will solve these problems for ourselves. Then we will provide the solutions to everyone else. 
@@ -24,3 +26,5 @@ For some of these examples, the Action is clear because there is a clear multime
 Not all activities have a clear output. For example, what is the Action that represents: “Planning and running community meetings”? It could be a screenshot of a Zoom meeting, the meeting notes, a video of the meeting, the preparations for the meeting, or a combination of these. 
 
 In most use cases, Actions will be created experimentally, optimizing for specific economic and social goals. Different methods to represent Actions will be tried to achieve different goals. Organizational structure and market forces will determine their values.
+
+Next: [[9- A Radical Method of Organization]]

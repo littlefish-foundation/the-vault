@@ -1,5 +1,7 @@
 #whitepaper 
 
+Previous: [[3- The Bleeding Edge of Organizations and the Big Problem]]
+
 Littlefish Foundation is a decentralized organization, building technologies which align individual actions towards common goals.
 
 We use [[10- Why Blockchain|blockchain technology]] to redefine earning relationships between people, work, and organizations, enabling a new model of operation that grants more freedom to participants, while making sure that freedom results in progress towards the goals of the whole.
@@ -21,3 +23,5 @@ In colonies, littlefish who care about similar ideas, have similar values, and w
 Together, littlefish are strong! They do activities that [[13- The Attributes of Action#Actions Represent Values|represent their values]], impacting the world. They produce Action! 
 
 > **Action** is the foundational key to all success. <div style="text-align: right"> Pablo Picasso</div>
+
+Next: [[5- The Basics - littlefish, colonies and Action]]

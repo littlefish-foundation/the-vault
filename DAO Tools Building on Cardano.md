@@ -7,30 +7,7 @@ One of the biggest shortcomings in the Cardano ecosystem is the diversity of DAO
 
 
 
-# 1. Treasury
-
-
-
-## * Osmium DAO
-
-Osmium DAO is designed to stand in for a professionally run community-owned treasury. Through a variety of tested business concepts that are directly held by the token holders and managed by OsmiumShare NFT holders, it seeks to construct a long-lasting treasury. 
-
-https://osmiumdao.io/
-
-### Stage
-
-They are at the very beginning of the roadmap they have stated. Website and OSM Token available for now.
-
-https://osmiumdao.io/roadmap/
-
-### White Paper
-
-https://osmiumdao.io/white-paper/
-
-
-
-
-# 2. Voting
+# 1. Voting
 
 
 ## * Voteaire
@@ -52,7 +29,7 @@ https://github.com/voteaire/voteaire-onchain-spec/
 
 
 
-# 3. Token Distribution
+# 2. Token Distribution
 
 
 ## * Token Allies
@@ -97,7 +74,7 @@ https://medium.com/@tosidrop/tosidrop-litepaper-aca31158168b
 
 
 
-# 4. Governance
+# 3. Governance
 
 ## * Summon Platform
 
@@ -118,7 +95,7 @@ https://medium.com/@summonplatform
 
 
 
-# 5. Extra
+# 4. Extra
 
 ## Logosphere
 
