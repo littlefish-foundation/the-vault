@@ -26,6 +26,9 @@ If you want to learn about Catalyst, this is a great place to do it.
 https://discord.gg/4Nj37FmeYx
 https://www.youtube.com/channel/UCuXdR8JMH0QriU0uOTVpg3w
 
+Swarm Communities
+https://catalystswarm.com/building-communities/
+
 ### Gimbalabs
 Gimbalabs is a technical focused group learning group. A great place to delve deeper into the smart contracts, Plutus, token engineering and more.
 
