@@ -1,4 +1,7 @@
-#orglabs 
+---
+tool: Obsidian
+---
+#orglabs #work-tools 
 
 ## Table of Contents
 1. [[How To - Writing for the Vault#Give Guidance to the Reader|Give Guidance to the Reader]]

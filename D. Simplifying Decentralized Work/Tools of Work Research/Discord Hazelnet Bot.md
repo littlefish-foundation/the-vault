@@ -1,4 +1,7 @@
-#THC #Discord 
+---
+tool: Discord
+---
+#work-tools #dao-tool #THC #Discord 
 
 ![[Pasted image 20221024171337.png]]
 

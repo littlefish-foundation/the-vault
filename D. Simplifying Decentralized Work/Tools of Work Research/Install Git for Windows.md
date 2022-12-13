@@ -1,5 +1,8 @@
+---
+tool: git
+---
+#work-tools #THC 
 # An Illustrated Step by Step Guide on How to Install Git in Windows
-
 ## Download Git for Windows
 **Step#1.** Browse to the official Git website: https://git-scm.com/downloads.
 

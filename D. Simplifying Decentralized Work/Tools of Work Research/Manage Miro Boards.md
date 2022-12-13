@@ -1,3 +1,7 @@
+---
+tool: Miro
+---
+#work-tools #THC 
 # Managing Miro Boards
 
 On a decentralized workspace, more often than not Miro Boards tend to get a little confusing. How many times have you come across a situation like this: "_Yesterday during the zoom meeting I was able to edit this board, but today I can't._"

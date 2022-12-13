@@ -1,4 +1,8 @@
-#THC #work-tools #Discord 
+---
+tool: Discord
+---
+#work-tools #THC #Discord 
+
 It is a subsidiary of "Parent.gg" project.
 Panel FQDN = https://panel.parent.gg/
 # What is it?

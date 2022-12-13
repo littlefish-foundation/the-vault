@@ -1,3 +1,7 @@
+---
+tool: Multiple
+---
+#work-tools #THC 
 # Obsidian-Github Integration in Windows
 
 Backing up your vault with git and having it set up as a repository on GitHub has two main benefits, first, it allows you to keep all your personal notes, configs and workspace settings in sync with all of your devices. And second, it makes collaboration on shared vaults (multiple contributors) more convenient. With git integration in Obsidian it is easier to contribute and keep track of other members' contributions. 
