@@ -114,8 +114,6 @@ https://www.youtube.com/watch?v=Y_Y2zlso0Os
 
 https://medium.com/iearn/decentralized-payroll-management-for-daos-b2252160c543
 
-https://medium.com/iearn/decentralized-payroll-management-for-daos-b2252160c543
-
 https://www.youtube.com/watch?v=J8oGun8EKDE&t=39s
 
 * Resources are also available on their website.
