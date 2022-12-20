@@ -45,14 +45,14 @@ To be able to clone the repository using SSH method first you need to generate a
    
 4. It will ask you to give the ssh key a password `Enter passphrase (empty for no passphrase):` you can leave it empty or give it a password and verify on the next step.
    
-5. When ssh key is created, you should see something similar to this: 
-![](https://hackmd.io/_uploads/rk78BnJ_s.png =100x100)
+5. When ssh key is created, you should see something similar to this:
+ . ![|100x100](https://hackmd.io/_uploads/rk78BnJ_s.png)
    
 6. Now go to the directory where it is saved by typing: `cd *username*` and after that type `cat .ssh/id_rsa.pub`, the last command will show the contents of the file `.ssh/id_rsa.pub`, which is something like: `ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDhQhUhRpcze4xroC+zNmbQbl2phqVWhOFxnvxapPOKbWCnPIk/5sHsJLT4ZH7K75Mj7k1aj8ijnSGl6xKOkIPM995ANxuAalUbZkXL...` Copy this code.
    
 7. Open Github from your browser and navigate to settings. This link https://github.com/settings/profile will redirect there.
    
-8. On the left side click on the ![](https://hackmd.io/_uploads/Hyt4vnkuo.png =150x20), from the page that opens click on ![](https://hackmd.io/_uploads/B1BFw2kds.png =90x20).
+8. On the left side click on the  ![|150x20](https://hackmd.io/_uploads/Hyt4vnkuo.png ),  from the page that opens click on  ![|90x30](https://hackmd.io/_uploads/B1BFw2kds.png).
    
 9.  Give your key a title, and in the key part paste the ssh key that you copied from terminal earlier. Click on `Add Key` and you are all set.
     
