@@ -60,3 +60,12 @@ Then we filled the rest of the survey with questions that served the first two o
 ![[ikigai-survey2.png]]
 
 You can find the survey and fill it out [here](https://lcxlobunsre.typeform.com/to/YWPq70FD).
+### Gimbalabs
+We had an IKIGAI session at the Gimbalabs playground on Nov 29, 2022: [https://www.youtube.com/watch?v=P6R1C_BET7g](https://www.youtube.com/watch?v=P6R1C_BET7g)
+
+![[Pasted image 20221219205007.png]]
+### KONMA
+Coming soon...
+
+### Our learning
+[[Organizational Ikigai]]

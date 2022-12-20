@@ -27,3 +27,14 @@ It is a self-onboarding platform for littlefish contributors to discover the rol
 A total of 9 Ikigai's completed on this board.
 
 ![[roles-of-fish-2.png]]
+
+### Organizational IKIGAI workshops
+
+#### Catalyst Compass
+![[Pasted image 20221219205343.png]]
+
+#### Hitchhiker's Guide to Network Organizations
+![[Pasted image 20221219205433.png]]
+
+#### IKIGAI of IKIGAI  
+![[Pasted image 20221219205503.png]]

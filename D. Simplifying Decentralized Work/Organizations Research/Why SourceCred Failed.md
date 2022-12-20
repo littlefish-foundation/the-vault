@@ -1,7 +1,7 @@
 ---
 tool: SourceCred
 ---
-#dao-tool #ocean
+#dao-tool #ocean #ocean-tech
 # Why SourceCred Failed
 You are on the right place if, you:
 

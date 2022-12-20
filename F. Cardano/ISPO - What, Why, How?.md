@@ -1,3 +1,4 @@
+#dao-tool 
 ## **What is an ISPO?**
 ISPO is short for **initial stake pool offering**. It is one of the **ways** for a **crypto project** to **raise funds**.
 

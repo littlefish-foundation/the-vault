@@ -1,3 +1,3 @@
-Expected delivery dates of key milestones have been **moved up 1 month** due to the delay in Catalyst funding. The dates here reflect the dates written in the proposal. 
+Expected delivery dates of key milestones have been **moved up 1 month** due to the delay in Catalyst funding. The dates here reflect the updated dates. Expected delivery dates of key milestones have been moved up 1 month due to the delay in Catalyst funding. The dates here reflect the updated dates. 
 
 See [here](https://docs.google.com/spreadsheets/d/11ZxzriaFgjsfc1voutISRD-wF801Nb8e2CAOdBLhkTI/edit?usp=sharing) for all up to date expected delivery dates, including the statement of milestones for [[DAOWork - Index|Tools of Decentralized Work]] and [[NewOrder - Index|Law and the New World Order]] proposals.

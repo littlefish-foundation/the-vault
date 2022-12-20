@@ -10,3 +10,8 @@ littlefish Fund 9 proposals are divided into [[Modules|modules]]. Each module is
 
 ![[OceanTech - Modules#Proposal-wide milestones and expected deliveries]]
 ![[Expected Delivery Dates Disclaimer]]
+
+
+## Monthly Reports
+Report 1 (Oct-Nov) - https://docs.google.com/document/d/1giWG4FMjWcexShwZtiQo1W5OSVcCGl12Fk7Ks3vK790/edit#
+Report 2 (Nov-Dec) - [[OceanTech Monthly Report 2]]

@@ -1,7 +1,7 @@
 ---
 tool: Coordinape
 ---
-#work-tools #dao-tool
+#dao-tool #ocean #ocean-tech
 
 
 ![[coord.png]]
