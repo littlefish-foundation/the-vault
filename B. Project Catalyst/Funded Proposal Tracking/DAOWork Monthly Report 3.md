@@ -34,6 +34,7 @@ We're creating a map of DAO tools building on Cardano. Check the work so far [he
 
 And a document to highlight some of that work here: [[DAO Tools Building on Cardano]]
 
+[[Cogito Protocol]]: A deep dive into Cogito Protocol, an AI driven investment protocol DAOs can use to manage risk.
 [[ISPO - What, Why, How?]]: ISPO is a funding mechanism to be used by DAOs. Here we investigate it and see when and where it's useful.
 [[Mercurychat.io]]: A wallet to wallet chat tool you can integrate to your DAOs software in a few lines of code.
 

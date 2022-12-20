@@ -2,7 +2,7 @@
 | Tool        | File                                                                                                                                                               |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Buttondown  | [[D. Simplifying Decentralized Work/Tools of Work Research/Buttondown Email Newsletters.md\|Buttondown Email Newsletters]]                                         |
-| Coordinape  | [[D. Simplifying Decentralized Work/Tools of Work Research/Coordinape - App for Action Rewarding.md\|Coordinape - App for Action Rewarding]]                       |
+| Coordinape  | [[Coordinape - App for Action Rewarding\|Coordinape - App for Action Rewarding]]                       |
 | Discord     | [[D. Simplifying Decentralized Work/Tools of littlefish/Guide - littlefish Discord Notifications.md\|Guide - littlefish Discord Notifications]]                    |
 | Discord     | [[D. Simplifying Decentralized Work/Tools of littlefish/Guide - Managing Discord Overwhelm.md\|Guide - Managing Discord Overwhelm]]                                |
 | Discord     | [[D. Simplifying Decentralized Work/Tools of Work Research/Syncing Time Zone on Discord.md\|Syncing Time Zone on Discord]]                                         |
