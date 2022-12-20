@@ -40,3 +40,7 @@ And a document to highlight some of that work here: [[DAO Tools Building on Card
 
 ## Discussion
 We're getting some good work done in these modules, though the end of year means we will have about 2 weeks off time. That will slow us down, though we will return next year booming. We will also need to focus on making all this information useful, so marketing will play an important role in the future.
+
+In addition to the research work, we're holding workshops in littlefish Foundation to improve the ability of our community members to use our tools of work. We had 2 published sessions so far:
+1. [Revamping littlefish Discord](https://www.youtube.com/watch?v=uGKNsJd3yLw)
+2. [Github for beginners session](https://www.youtube.com/watch?v=vMmUX2EGcGw)
