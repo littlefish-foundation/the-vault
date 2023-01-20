@@ -36,3 +36,4 @@ Miro itself has very useful YouTube channel. You can see two of them that will b
 + [Navigation]([https://www.youtube.com/watch?v=0olcwCD9-GM](https://www.youtube.com/watch?v=0olcwCD9-GM))
 
 You can also ask us anything you want about Miro from our Discord server.
+
