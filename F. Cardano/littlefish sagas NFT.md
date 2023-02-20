@@ -7,33 +7,33 @@ tags: NFT
 
 ## Table of Contents 
 
-**1.** [**Introduction**](#1-Introduction)
-**2.** [**Initial Considerations**](#2-Initial-Considerations)
-> **2.1.** [A Designated Team With Specific Roles](#21-A-Designated-Team-With-Specific-Roles)
-> **2.2.** [The NFT Metadata and Artwork](#22-The-NFT-Metadata-and-Artwork)
-> **2.3.** [Community](#23-Community)
-> **2.4.** [Cultural Significance](#24-Cultural-Significance)
-> **2.5.** [Roadmap](#25-Roadmap)
-> **2.6.** [Status Indication](#26-Status-Indication)
-> **2.7.** [Partnerships With Other NFT Collections Or Brands](#27-Partnerships-With-Other-NFT-Collections-Or-Brands)
-> **2.8.** [Utility Air Drops](#28-Utility-Air-Drops)
-> **2.9.** [Utility Real World Meetups
+>**1.** [**Introduction**](#1-Introduction)
+>**2.** [**Initial Considerations**](#2-Initial-Considerations)
+>> **2.1.** [A Designated Team With Specific Roles](#21-A-Designated-Team-With-Specific-Roles)
+>> **2.2.** [The NFT Metadata and Artwork](#22-The-NFT-Metadata-and-Artwork)
+>> **2.3.** [Community](#23-Community)
+>> **2.4.** [Cultural Significance](#24-Cultural-Significance)
+>> **2.5.** [Roadmap](#25-Roadmap)
+>> **2.6.** [Status Indication](#26-Status-Indication)
+>> **2.7.** [Partnerships With Other NFT Collections Or Brands](#27-Partnerships-With-Other-NFT-Collections-Or-Brands)
+>> **2.8.** [Utility Air Drops](#28-Utility-Air-Drops)
+>> **2.9.** [Utility Real World Meetups
 ](#29-Utilit-Real-World-Meetups)
 
-**3.** [**Technical Methods**](#3-Technical-Methods)
-**4.** [**Strategies for Minting**](#4-Strategies-for-*Minting)
-> **4.1.** [Dutch Auctions in NFT Market](#41-Dutch-Auctions-in-NFT-Market)
+>**3.** [**Technical Methods**](#3-Technical-Methods)
+>**4.** [**Strategies for Minting**](#4-Strategies-for-*Minting)
+>> **4.1.** [Dutch Auctions in NFT Market](#41-Dutch-Auctions-in-NFT-Market)
 
-**5.** [**What to do with NFT Owners**](#5-What-to-do-with-NFT-Owners)
-> **5.1** [Stakeholders](#51-Stakeholders)
+>**5.** [**What to do with NFT Owners**](#5-What-to-do-with-NFT-Owners)
+>> **5.1** [Stakeholders](#51-Stakeholders)
 
 
 ## 1. Introduction
 
-In 2014, the first NFT called "**Quantum**" was minted in a decentralised name registration database called Namecoin. One year later in October, the NFT project **Etheria** was launched and from it the NFT market emerged. This events established the official definition of **Web3**, which had been around for a while just as a term. [**On way of defining Web3**](https://www.entrepreneur.com/leadership/nfts-are-giving-web3-a-bad-name-heres-what-web3-can/438224) is: the third generation of **Web** that leverages **blockchain technology** to enable direct ownership, portability, accessibility and provenance of everything electronic. In addition, a very significant feature of **Web3** is the ability to **tokenize digital assets** also referred as **"nonfungible tokens" or NFTs**. 
+In 2014, the first NFT called "**Quantum**" was minted in a decentralized name registration database called Namecoin. One year later in October, the NFT project **Etheria** was launched and from it the NFT market emerged. This events established the official definition of **Web3**, which had been around for a while just as a term. [**On way of defining Web3**](https://www.entrepreneur.com/leadership/nfts-are-giving-web3-a-bad-name-heres-what-web3-can/438224) is: the third generation of **Web** that leverages **blockchain technology** to enable direct ownership, portability, accessibility and provenance of everything electronic. In addition, a very significant feature of **Web3** is the ability to **tokenize digital assets** also referred as **"nonfungible tokens" or NFTs**. 
 
 A NFT is a unique digital identifier that cannot be copied, substituted, or subdivided. It is recorded in a blockchain, and that is used to certify authenticity and ownership. This technology has the potential to change the world for better since:
-* It empowers the individual by giving them full access and ownership over their data and finances and in the process it makes Banks and Bankers Irrelavant.
+* It empowers the individual by giving them full access and ownership over their data and finances and in the process it makes Banks and Bankers irrelevant.
 * It replaces the traditional concept  "**In Good Faith**" with **carefully crafted smart contracts** making Business dealings more efficient and significantly more secure.
 * It enables projects to raise money directly from people, like-minded individuals who believe on the same cause and thus increasing the chance for collaboration and success.
 
@@ -45,21 +45,35 @@ In September 2022, [**Maru Entertainment & Technology team conduct a survey**](h
 We at littlefish Foundation may have the solution to this problem. We plan to launch a series of NFT collections that is mainly based on **"Intellectual Property"** of our community members.
 
 ## 2. Initial Considerations 
-There is a general perception that NFTs are an easy way to make some profit. However, when you take a closer look to the data it is can be clearely seen that 10 out of 4500 NFT collecions control nearly 37% of the total market cap.
+There is a general perception that NFTs are an easy way to make some profit. However, when you take a closer look to the data it is can be clearly seen that 10 out of 4500 NFT collections control nearly 37% of the total market cap.
 
 ![](https://i.imgur.com/3so3ZL3.png)
 
 https://nftgo.io/analytics/market-overview
 
-Nothing is random about these collections, the reason they stand apart has to do with the importance they give to some key priniples.
+Nothing is random about these collections, the reason they stand apart has to do with the importance they give to some key principles.
 
 ### 2.1. A Designated Team With Specific Roles
 
-There need to be a core team with specific roles including developers, artists, project menagers and what ever else may be needed. In addition, providing all the relevant information about the team members in the public domain is reassuring for potential buyers as they hold themselves accountable. Social media presence within a team is another critical aspect to look for as they can reach a large audience.  Audience outreach is something to consider as awareness for a project is vital for success. 
+There need to be a core team with specific roles including developers, artists, project managers and what ever else may be needed. In addition, providing all the relevant information about the team members in the public domain is reassuring for potential buyers as they hold themselves accountable. Social media presence within a team is another critical aspect to look for as they can reach a large audience.  Audience outreach is something to consider as awareness for a project is vital for success. 
 
 ### 2.2. The NFT Metadata and Artwork
 
-In our project, the metadata is going to be the most important feture and it needs to be appealling to a vast audience. We need to establish a carfully designed guide on the way the metadata should be arranged and outputed. At the same time, for each NFT we will put an AI Generate Artwork which needs to not only esthetic but also should maintain a the same style all the way. This will serve as a symbol for our collection consistency. 
+In our project, the metadata is going to be the most important fetu## Instructions
+
+Whenever you need to update [[Love House Index]] for Obsidian Publish, paste this code to where the table is, press ALT + R and watch the magic. You need templater and dataview enabled for this.
+
+## The Template
+
+
+| File | Created | Last Modified |
+| ---- | ------- | ------------- |
+
+
+
+
+
+re and it needs to be appealling to a vast audience. We need to establish a carfully designed guide on the way the metadata should be arranged and outputed. At the same time, for each NFT we will put an AI Generate Artwork which needs to not only esthetic but also should maintain a the same style all the way. This will serve as a symbol for our collection consistency. 
 
 ### 2.3. Community
 
