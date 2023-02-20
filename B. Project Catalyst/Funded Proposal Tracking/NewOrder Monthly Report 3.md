@@ -1,9 +1,9 @@
-# NewOrder Monthly Report 2
+# NewOrder Monthly Report 3
 #project-catalyst #monthly-report
 
-[Previous Report](https://docs.google.com/document/d/1ic6AT6MFgDIdYKPNTh6njmv_JapFhQEm6QAVzcbD3ns/edit)
-**Date Written**: 20th December 2022
-**Dates Covered**: November 16th 2022 - December 15th 2022
+**Previous Report**: [[NewOrder Monthly Report 2]]
+**Date Written**: 20th February 2022
+**Dates Covered**: December 16th 2022 - February 20th 2022
 
 ## Background
 
@@ -30,16 +30,16 @@ The work in this proposal is outsourced to the team of attorneys at Tevetoglu Le
 ### Module 1: Legal Research
 Read about this module here: [[NewOrder - Modules#**Module 1: Legal Research**]]
 
-The team concluded the research of the first problem area this month: **2 - Legal status of earning through Project Catalyst**
+The team concluded the research of the second problem area this month: **3 - Legal frameworks for Decentralized Organizations**
 
-You can find that document [here](https://docs.google.com/document/d/1mt8JVmvDaBhPeE04fW4k8l5GiuegQb4W/edit#heading=h.ci2uqeho9a48). The document will soon be put on the Vault as well.
+You can find that document [here](https://docs.google.com/document/d/1XWkk79LRLfhjWcM6VjV97wlQUv9jbnoO/edit?usp=sharing&ouid=105493237723142439851&rtpof=true&sd=true). The document will soon be put on the Vault after the reviews are completed.
+
+Then the team will work on **1 - Legal status of LFF Action NFTs**
 
 ### Module 2: Consultation and Educational Workshops
 Read about this module here: [[NewOrder - Modules#**Module 2: Consultation and Educational Workshops**]]
 
-The legal team joined us at one of our weekly calls to enlighten our community and take our questions regarding the legal status of our earnings from Project Catalyst.
-
-See the workshop on our Youtube Channel [here](https://www.youtube.com/watch?v=Wi-tLcKecik&t=1s)
+We had no workshops after the initial one. We will start back up in late March with a workshop on DAO Legal Frameworks.
 
 ## Discussion
-We're a bit behind on schedule with this work, but no worries. We'll be picking up speed in the next year with our legal team to deliver high quality content in the coming months.
+This work has been slow so far. We're giving it more attention to speed it all up and get the proposal done by June at the latest. 
