@@ -1,9 +1,10 @@
 ---
-title: DJED 
+tool: DJED 
 author: D.
 date: 14 Feb 2023
 ---
 
+#dao-tool 
 
 # DJED Stablecoin
 **Author:** *Donald*

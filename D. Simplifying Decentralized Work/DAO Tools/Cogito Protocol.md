@@ -1,6 +1,6 @@
 ---
 title: An Investigative Research on Cogito Protocol
-tags: Cogito
+tool: Cogito
 description: An Investigative Research on Cogito Protocol
 ---
 #dao-tool #fund-management

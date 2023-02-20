@@ -1,9 +1,9 @@
 ---
-title: Liqwid 
+tool: Liqwid 
 author: Donald
 date: 19 Feb 2023
 ---
-
+#dao-tool 
 
 # Liqwid Finance
 **Author:** Donald

@@ -1,6 +1,6 @@
 ---
 title: Exploring Indigo Protocol
-tags: Indigo
+tool: Indigo
 ---
 
 # Exploring Indigo Protocol 
