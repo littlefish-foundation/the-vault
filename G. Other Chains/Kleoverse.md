@@ -66,7 +66,7 @@ Shows the profiles of the registered contributors, their social media links, the
 Each month the best builders will be awarded with extra recognition in [#BuildersOfTheMonth](https://kleoverse.com/builders-of-the-month) contest. Contributors can register themselves to participate.
 
 ### Leaderboard
-A Leaderboard shows the contributors ranked by there skill tokens and Proof of Talent Badges ind the categories Typescript, Rust, Python, Solidity.
+A Leaderboard shows the contributors ranked by their skill tokens and Proof of Talent Badges ind the categories Typescript, Rust, Python, Solidity.
 
 ### Profile creation
 You can create your own profile page that includes 
@@ -84,7 +84,5 @@ You can create your own profile page that includes
 - When you apply to a bounty you have to give your Discord name and some details why you should be chosen for this bounty and links to your previous work and expertise. 
 
 ---
-
-**-D.**
 
 **Disclaimer:** The content is for informational purposes only, may include the author's personal opinion, and does not necessarily reflect the opinion of littlefish Foundation. Most of the information covered in this article was obtained from [**Kleoverse**](https://wiki.kleoverse.com/) and was analyzed independently.
