@@ -1,6 +1,6 @@
 #THC #Gero #wallet #Guides #how-to #cardano #Staking 
 
-
+**Review on :** 9 March 2023
 
 ## GeroWallet
 
@@ -19,6 +19,7 @@ Only available as a browser extension, compatible with all Chrome based browsers
 
 ## Features
 
+- **USD Value of ADA is visible**
 
 - **Multi-Wallet Support**
 Create and Import multiple wallets (up to 8 ) with web-extension application

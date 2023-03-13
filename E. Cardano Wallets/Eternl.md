@@ -1,4 +1,6 @@
 #THC #wallet
+
+**Review on :** 9 March 2023
 ![[eternl.png|right|200]]
 # Eternl 
 Formerly known as CCVault, Eternl is a non-custodial*, light wallet with many endpoints and countless (for now) features, which is continuosly developing. We will focus on this particular wallet in detail.

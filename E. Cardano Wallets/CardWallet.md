@@ -2,6 +2,7 @@
 
 ## CardWallet
 
+**Review on :** 9 March 2023
 
 ![[Pasted image 20221013121650.png]]
 
@@ -16,7 +17,9 @@ https://cwallet.finance/
 
 ## Features
 
-- **Multichain Support**
+- **Crypto assets' value can be seen in a wide variety of FIAT currencies
+
+- **Multi-chain Support**
 Supports Cardano, ERC-20 tokens, Bitcoin and many other assets
 
 - **Buy and Sell Crypto**
@@ -52,3 +55,5 @@ The biggest feature of CardWallet is that it supports many tokens in the Ethereu
 
 ![[Pasted image 20221013140518.png]]
 ![[Pasted image 20221013140555.png]]
+
+T

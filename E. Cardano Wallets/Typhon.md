@@ -1,5 +1,7 @@
 #THC #wallet
 
+**Review on :** 9 March 2023
+
 ![[typhon.svg|center|200]] 
 # Typhon Wallet
 * It has both web-ui and extensions for several browsers
