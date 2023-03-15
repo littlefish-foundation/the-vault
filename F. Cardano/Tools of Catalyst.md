@@ -1,13 +1,11 @@
+#project-catalyst 
+
 ## The Context
 Catalyst members perform roles.  The roles include; proposer, PA, vPA, Voter, CT member etc.(see a complete list below) There are various tools to help with those roles, built by the community groups or individual members or the IOG Project Catalyst team. 
 
 The tools can take the form of documents or websites or applications.
 
 **This document** seeks to build on the other community resources such as, https://projectcatalyst.org/ and catalystcontributors.org
-
-[DeWork task that initated this work document](https://app.dework.xyz/littlefish-foundatio/sprint-3-65680?taskId=c87fa5da-de51-4017-9acc-7fc3f68b3634)
-
-
 
 ### Phases of Catalyst
 00 - Cooldown

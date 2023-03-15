@@ -4,15 +4,15 @@
 
 Original docs may be any research, report, or study we conduct at LFF. Curated resources are articles, videos, research, reports, etc. done by others, categorized and listed on our knowledge base.
 
-  
+![[Expected Delivery Dates Disclaimer]]
 
--   September
+-   October
 	-   3 original docs 
 	-   25 curated resources 
--   December
+-   January
 	-   10 original docs
 	-   100 curated resources
--   February
+-   March
 	-   25 original docs
 	-   250 curated resources 
 

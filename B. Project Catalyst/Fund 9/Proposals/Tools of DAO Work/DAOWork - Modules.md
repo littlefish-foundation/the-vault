@@ -24,15 +24,15 @@ Currently if you search for this information you’ll only find outdated documen
 
 We’ve already started work on this project. You can see an example [[Typhon|here]].
 
-Key Milestones and expected deliveries:
--   July
-	-   3 wallet deep dives
+### Key Milestones and expected deliveries
 -   August
+	-   3 wallet deep dives
+-   September
 	-   10 wallet deep dives
 	-   Wallet comparison document MVP
--   September
+-   October
 	-   Comprehensive wallet comparison document
--   February
+-   March
 	-   50 docs + updates to all wallet docs
 
 ## **Module 2: Digital Work Tools**
@@ -47,19 +47,19 @@ We prioritize research according to the needs of LFF. LFF is a digital global co
 
 We’ve already started tackling these problems. Discord we feel is a weak communication hub but it’s the place where the Catalyst community is. So we have to make it work the best it can for us. We’re looking into how bots can help with this, starting with creating direct communication channels with other Discord servers from the LFF server. You can find this and some of our other work [[Tech Help Collective|here]].
 
-Key Milestones and expected deliveries:
--   July
-	-   5 digital tool related docs
+### Key Milestones and expected deliveries
 -   August
+	-   5 digital tool related docs
+-   September
 	-   10 digital tool related docs
 	-   LFF Tools of Work MVP: An intro to the complete set of tools we use at LFF. Start work on extensive documentation, how to’s, additional resources to learn.
--   September
+-   October
 	-   25 digital tool related docs
 	-   10 community driven requests for docs
--   December
+-   January
 	-   50 digital tool related docs
 	-   10 community driven docs done
--   February
+-   March
 	-   Map of decentralized work tools 
 	-   LFF Tools of Work: Complete docs on how to onboard to work on LFF. Anything you need is available as docs.
 
@@ -80,12 +80,12 @@ We’re also researching similar tools on ETH and other chains to further our un
 
 Once we have the map, we can start deep dives into the tools. We’ll select which tools to deep dive on by looking at the maturity of the product, the developer activity on the project, and community demand. We’ll prioritize solving problems we face at LFF.
 
-Key Milestones and expected deliveries:
--   October
+### Key Milestones and expected deliveries:
+-   November
 	-   Cardano DAO tools map MVP: Identify main categories, find projects working on each. Evolve in time.
--   December
+-   January
 	-   Deep dives into 10 different DAO tools
--   February 
+-   March 
 	-   The most detailed Cardano DAO tools map available, with deep dives, and links to additional resources. We imagine this as the interface to Cardano DAO tools.
 
 ## **Module 4: Marketing The Littlefish Vault**
@@ -103,10 +103,13 @@ Activities:
 
   
 Key Milestones and expected deliveries:
--   December
+-   January
 	-   2500 unique visitors on The Vault
 	-   10000 Tweet impressions (as of June 15th it is at 718) for [LFF account](https://twitter.com/LittleFishDAO)
--   February
+-   March
 	-   10000 unique visitors on The Vault
 	-   1000 monthly visitors on The Vault
 	-   50000 Tweet impressions
+
+
+![[Expected Delivery Dates Disclaimer]]

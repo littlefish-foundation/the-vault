@@ -13,3 +13,6 @@
 
 ![[Work Tools Index]]
 
+
+## Nov-Dec 
+![[DAOWork Monthly Report 3#Module 2: Digital Work Tools#Progress report]]

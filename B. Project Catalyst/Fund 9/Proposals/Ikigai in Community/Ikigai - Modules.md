@@ -131,5 +131,7 @@ Activities:
 
 Key Milestones and expected deliveries:
 
--   December
+-   February
 -   10 demos/presentations held on the product
+
+![[Expected Delivery Dates Disclaimer]]

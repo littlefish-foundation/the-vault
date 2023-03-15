@@ -1,7 +1,7 @@
 ---
 tool: Coordinape
 ---
-#work-tools #dao-tool
+#dao-tool #ocean #ocean-tech
 
 
 ![[coord.png]]
@@ -111,8 +111,6 @@ https://www.youtube.com/watch?v=Y_Y2zlso0Os
 
 
 ## 6. Articles and Videos about Coordinape
-
-https://medium.com/iearn/decentralized-payroll-management-for-daos-b2252160c543
 
 https://medium.com/iearn/decentralized-payroll-management-for-daos-b2252160c543
 

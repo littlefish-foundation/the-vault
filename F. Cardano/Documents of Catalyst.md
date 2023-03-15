@@ -1,3 +1,5 @@
+#project-catalyst 
+
 ## What is Project Catalyst?
 
 [Project Catalyst](https://iohk.io/en/blog/posts/2021/02/12/our-million-dollar-baby-project-catalyst/) is a series of **experiments** which seeks **to generate** the highest levels of **community innovation**. 

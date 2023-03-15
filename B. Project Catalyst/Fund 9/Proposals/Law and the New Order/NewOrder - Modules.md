@@ -9,14 +9,14 @@ Workshop details will be planned in the process as well. Each workshop will cove
   
 
 ## Key Milestones and expected deliveries:
-
--   October
+![[Expected Delivery Dates Disclaimer]]
+-   November 
 	-   1 workshop held
 	-   1 problem area covered in docs
--   December
+-   January
 	-   3 workshops held
 	-   5 problem areas covered in docs
--   February
+-   March
 	-   6 workshops held
 	-   13 problem areas covered in docs
 	-   Final documentation of the research and legal opinions conducted and publication of those to the access of members of the blockchain community.
