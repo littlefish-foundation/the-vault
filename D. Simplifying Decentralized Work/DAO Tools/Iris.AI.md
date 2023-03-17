@@ -1,10 +1,13 @@
 Author: Harsha Gullapalli
 Date: March 13th, 2023
 
+
 ## Tags
+---
 `#AI` `#Scientific Research` 
 
 ## Table of Contents 
+---
 1. App Summary
 2. Features
 3. Use Cases
@@ -13,9 +16,11 @@ Date: March 13th, 2023
 6. Notes from the Author
 
 ## 1. App Summary
+---
 Iris.Ai is an ai app that utilizes neural network technology to help researchers process and extract insights from a large number of scientific papers and patents. It helps find and organize information, summarize key points, and even automate some tasks.
 
 ## 2. Features
+---
 To understand the features of Iris.Ai, a basic understanding of the scientific research process is necessary. The below process diagram shows the steps involved:
 <br>
 ![](https://i.imgur.com/169KNl3.png)
@@ -32,7 +37,9 @@ With that being said, the following features are offered by iris.ai.
 * **Document-set Analysis:** The Workspace's document set analysis is a tool that provides an overview of the content of a set of documents (up to 20,000 docs). Users can see the literature list's topic groups and the most important and unusual words and their synonyms. This aids in selecting groups for inclusion and exclusion, without the risk of overlooking relevant documents.
 * **Monitoring:** By setting up automated searches at regular intervals, users can receive notifications when new articles fitting their specific inclusion/exclusion criteria, such as clinical data, become available. This tool is particularly useful for fields requiring ongoing reviews of relevant literature.
 
+
 ## Use Cases
+---
 For this section, I’ll be focusing particularly on how DAOs can use the tool. The central use case for DAOs is ‘**Informed Decision Making**’.
 
 **Example 1:**
@@ -45,16 +52,22 @@ Next, they can refine their research by excluding irrelevant studies and incorpo
 Finally, they can distill and summarize the essential factors involved in making informed decisions on tokenomics.
 
 
+
 ## Pricing
+---
 ![](https://i.imgur.com/MyxC2cJ.png)
 
 ## Social Links
+---
 * [Blog](https://iris.ai/blog/)
 * [Facebook](https://www.facebook.com/theIrisAI/)
 * [Twitter](https://twitter.com/theirisai)
 * [Linkedin](https://www.linkedin.com/company/iris-ai/)
 
+
+
 ## Notes from the Author
+---
 Iris is an extremely useful tool that can save long hours of manual work in the field of research. Considering the subscription price, it makes the most sense for academic researchers and legal professionals as opposed to casual science enthusiasts.
 
 
