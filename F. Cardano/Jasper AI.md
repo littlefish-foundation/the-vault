@@ -1,4 +1,3 @@
-# Jasper AI
 
 **Author:** Emir Olgun
 **Date:** 16 March 2023
@@ -7,7 +6,7 @@
 
 Jasper AI is an ai copywriter and it writes content surprisingly well. It can be used to write social media content, articles, e-commerce description, and product features, e-mails, and even simplified text that aims to explain something to a child. Jasper can also improve already written content, get the key points from a provided text, and detect your tone from the text you have written. As can be seen, Jasper AI is an extremely versatile tool.
 
-## Hot to Use
+## How to Use
 
 Jasper AI is a paid service but you can try it for free for five days and cancel the subscription with no fees. If you want to continue using it, the Boss Mode, which is like an individual version, starting price is 59 American dollars for 50,000 words per month and it can go up to 600 American dollars for 700,000 words. If you want even higher words per month, they offer custom pricing. The business version has a custom plan and pricing policy which requires the custormer to contact the Jasper team.
 There is also a chrome extension for Jasper.

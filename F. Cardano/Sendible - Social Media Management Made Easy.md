@@ -1,4 +1,4 @@
-# Sendible - Social Media Management Made Easy
+
 **Author:** Frank Chukwurah 
 **Date:** 15/03/2023
 
@@ -17,7 +17,6 @@ Let's face the fact, people are doing crazy things to get attention on social me
 It might interest you to know that each social media platform have a prime time 
 to post content in order to get more interaction. Additionally, users need to know much about their audience and what social media platform they're most active on – this will give you insights into when to post content they will interact with. You don't expect users to start reading your content during working hours – do you?
 
-
 ## Where can Sendible be used
 
 1. **Social Media Scheduling:**
@@ -29,8 +28,8 @@ Sendible can be used to schedule what time, and date you want a particular conte
 I have a friend named Jose; he works as a UX designer. Additionally, he's finding it difficult to put up with all his social media platforms because of the nature of his job – now, that's where Sendible comes to play. With Sendible, users can manage their social media accounts like Instagram, Facebook, LinkedIn, Twitter, YouTube Shorts, and even local listings like “Google My Business.” With Sendible, users could get insights into their content, so they can build on their success.
 
 3. **Marketing Purposes:**
+4. 
 Social media management tools are so powerful, this tool can help you levitate your social media marketing strategy. Simply put, the tool has given individuals and organizations an affordable, but yet cost-savvy approach to reach their target audience across a wide range of industry.
-
 
 ## How to use Sendible
 
@@ -73,7 +72,6 @@ The sole purpose of having a good social media presence is to build up your targ
 2. DAOs can use Sendible to keep abreast of the latest reports and trends in their organization. For example, DAOs can use this tool to get an overview of the content that perform better among other, to further marketing strategy in the organization .
 
 3. DAOs can seamlessly use this tool to create customized visuals with the built-in image editor – And, they can also add stunning visuals from Canva or even design theirs from scratch to suit their needs. 
-
 
 ## How it can be useful for DAOs
 

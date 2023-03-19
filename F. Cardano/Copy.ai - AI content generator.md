@@ -1,8 +1,6 @@
-# Copy.ai - AI content generator 
 
 **Author:** Frank Chukwurah 
 **Date:** 12/03/2023
-
 
 I am thrilled to write about one of the most prominent and groundbreaking AI tools known as Copy.ai - if this AI tool is completely foreign to you, it's fine! I will give you a lens into what the tool is, and why many people from all walks of life are leveraging it already.
 
@@ -26,6 +24,7 @@ Copy.ai can help webmasters working to generate meta descriptions for a blockcha
 Without breaking the bank, you can use this AI tool to generate an awesome description for your products to grab the attention of potential buyers.
 
 # How To Use It
+
 * To begin with, you'll need to create a Copy.ai account; they have a free 7-day trial, while the paid plan goes for $30/month. You can sign up with your Google Account if you wish. So, once you've successfully created your account, you'll be redirected to the workspace.
 
 * The Toolbar is located at the left side corner, here, you can access a handful of functionalities - browse through the AI toolbar, you can generate blog posts ideas, Instagram hooks, emails, sales copy, and what have you. 
@@ -40,10 +39,10 @@ Without breaking the bank, you can use this AI tool to generate an awesome descr
 
 
 ## How DAOs Can Use It
+
 1. For the greatest benefits, DAOs can use Copy.ai to get insights into individual preferences, whilst offering a better, and more personalized experience. 
 
 2. DAOs can use Copy.ai to make informed and faster business decisions to skyrocket their organization. DAOs can use the tool to reduce operational costs, whilst increasing organizational efficiency. 
-
 
 3. DAOs can use Copy.ai to generate an enormous amount of data for generating leads, and a customer base.
 

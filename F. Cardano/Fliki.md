@@ -1,4 +1,3 @@
-# Fliki
 
 **Author:** Emir Olgun
 **Date:** 13 March 2023

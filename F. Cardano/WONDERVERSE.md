@@ -1,19 +1,16 @@
-# WONDERVERSE
+
 Author: Creed
 Date: 14 March 2023
-## Introduction
 
+## Introduction
 
 If you do not already know what Wonderverse is, here's a glimpse of what the tool brings to Web3 space; Wonderverse is one of the groundbreaking native DAO tool that combines a handful of critical pieces for managing any kind of participation in a DAO. 
 
 Additionally, Wonderverse exists to build a community-led platform that'll nurture collaboration between organizations, and contributors - in the meantime, allowing users to own a share of equity.
 
-
 ### How does it works?
+
 Having known what Wonderverse is, let's dive into how the DAO tool works. So, firstly, when Wonderverse is launched, it will become a place where people can seamlessly manage, and track their DAO activities without any hurdles. With Wonderverse, users and DAOs can integrate Crypto into the project management - that's interesting right?
-
-
-### 
 
 ### Comparison between Wonderverse and other platforms(Dework)
 
@@ -22,10 +19,8 @@ Currently, Wonder tokens are being used to reward contributors on Wonder - while
 Wonderverse is still in its early stage, it cannot integrate with some DAO tools - but, with other DAO tools like Dework, you can integrate easily. You can import projects from Notion, Trello, Github etc. 
 
 ### How to use wonderverse:
-If Wonderverse is completely foreign to you, there's no problem - here's how you can use Wonderverse without any hurdles. Anyone looking to revolutionize the world with his/her idea can launch Web3 project with 
-Wonderverse.
 
-
+If Wonderverse is completely foreign to you, there's no problem - here's how you can use Wonderverse without any hurdles. Anyone looking to revolutionize the world with his/her idea can launch Web3 project with Wonderverse.
 
 1. Input your name and description:
 
@@ -44,19 +39,15 @@ Discord is no longer a new phenomenon; it is one of the tools used by decentrali
 5. Review:
 Take a minute to review all the information you've put down and that's all; pretty simpler than you can ever imagine. Don't worry! You can still edit your workspace once it has been created. 
 
-
 ### What are the possible problems to encounter when using Wonderverse instead of dework?
 
 There is still a problem with the automation and integration of DAO tasks on Wonderverse; For instance, when DAO posts a task, and it is claimed by a contributor - it doesn't integrate with other tools the DAO uses - examples, Discord or Notion.
 
-
-
 ### Conclusion
+
 Wonderverse's mission is to make the world a global village while creating opportunities for many people to have a better life. With Wonderverse, be sure that your project will be a success in the market.
 
-### Additional Information
-
-Relavant Links:
+### Additional Links
 
 * [Website](https://www.wonderverse.xyz/)
 * [Twitter](https://twitter.com/wonderverse_xyz)
@@ -64,4 +55,3 @@ Relavant Links:
 * [ Blog](https://blog.wonderverse.xyz/)
 
 **Disclaimer:** The content is for informational purposes only, may include the author's personal opinion, and does not necessarily reflect the opinion of littlefish Foundation.
-
