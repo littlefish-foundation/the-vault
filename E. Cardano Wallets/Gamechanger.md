@@ -1,5 +1,7 @@
 #THC #GameChanger #wallet #Guides #how-to #cardano #NFT
 
+**Review on :** 9 March 2023
+
 # GameChanger
 
 ![[Pasted image 20221013163240.png]]
@@ -10,33 +12,38 @@
 
 Only available as Web-UI
 
-
-
 ## Features
 
-**- Multi-Asset, Multi-Output Sending**
+- **Multi-Asset, Multi-Output Sending**
 Make single or bulk payments
 
-**- Use and Create dAPPs**
+- **Use and Create dAPPs**
 Built in dAPP code editor is available on Web-UI
 
-**- NFT Minting**
+- **NFT Minting**
 Simple NFT minting with drag and drop
 
 ![[Pasted image 20221013174014.png]]
 
-**- Send and Receive ADA**
+- **Send and Receive ADA**
 Only supports Cardano mainnet and testnet
 
-**-Gamified Interface**
+- **Gamified Interface**
 Main purpose is lowering the barrier of entry adoption
 
-**- Lightweight, Non-Custodial**
+- **Lightweight, Non-Custodial**
 
-**- GameChanger Referral Program**
+- **NFT Display is available in GameChanger
+
+- **GameChanger Referral Program**
 
 ![[Pasted image 20221013165052.png]]
 
+- **Playground**
+Playground allows developers to access a code editor to build Dapps and mint assets.
+
+![[Screenshot 2023-03-10 at 13.26.08.png]]
+User can edit and write metadata of their transactions.
 
 
 ## Compatibility
@@ -44,7 +51,7 @@ Main purpose is lowering the barrier of entry adoption
 
 ### Hardware Wallets
 
-No support
+No support. There are plans for hardware wallet feature.
 
 ### Software Wallets
 
@@ -84,10 +91,3 @@ https://www.youtube.com/watch?v=EszwePT8XfQ
 **Detailed explanation of GameChanger Wallet features**
 
 https://adapulse.io/gamechanger-the-onboarding-wallet/
-
-## Known Issues
-
-### Not available from some regions
-Contrary to the availability check conducted below, this web wallet is not reachable from the regions we have checked (Turkey, the Netherlands).
-
-[Website availability from different regions](https://www.site24x7.com/check-website-availability.html)

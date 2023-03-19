@@ -1,4 +1,6 @@
 #THC #wallet
+
+**Review on :** 9 March 2023
 ![[eternl.png|right|200]]
 # Eternl 
 Formerly known as CCVault, Eternl is a non-custodial*, light wallet with many endpoints and countless (for now) features, which is continuosly developing. We will focus on this particular wallet in detail.
@@ -21,6 +23,7 @@ Mobile applications are only available ass DApp browser;
 * Android
 * iOS
 ## Features
+- ADA value can be viewed as USD at the same time.
 * You can import a wallet from a JSON file format and also with a "public account key" as a read-only wallet.
 ![[eternl_wallet_import_1.png]]
 * Eternl supports up to 24 accounts (with 24-word recovery phrases upon creation) and you can determine the number of wallets you want to create when you are creating your wallet. The account keys are generated from the root wallet key. 

@@ -3,6 +3,7 @@
 
 ## RayWallet
 
+**Review on :** 9 March 2023
 
 
 
@@ -27,6 +28,7 @@ In Chrome, Safari, Brave, or Edge Browser, visit the app page and click install 
 
 ## Features
 
+- **USD Value of assets can be seen**
 
 - **Multi Account Support**
 Ability to generate multiple accounts from same seed phrase
@@ -42,7 +44,6 @@ Built in dApp connector, most features marked as "coming soon"
 
 - **XRAY token**
 Ray network's governance token. It will be used as payment token in their ecosystem when most features-services are released. 
-
 
 ## Compatibility
 
@@ -71,7 +72,9 @@ List of delegable Stake Pools appears in the Pools tab
 
 ![[Pasted image 20220914131413.png]]
 
+## Voting
 
+Voting is not currently supported. 
 
 ## Additional Notes
 
@@ -84,5 +87,6 @@ When the application is examined, the features to be added can be seen and most 
 
 RayWallet has It's ecosystem such as RayStake, RaySwap, RayPad but RayWallet dApp integrations is not available at this moment.
 
+RayWallet is open-source and its Github can be found [here](https://github.com/ray-network/raywallet-app).
 
 

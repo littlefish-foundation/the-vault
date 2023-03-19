@@ -1,4 +1,7 @@
 #THC #wallet
+
+**Review on :** 9 March 2023
+
 ![[nami.svg|center|200]]
 # Nami Wallet
 Nami is an open-source browser based multi-functional, non-custodial* wallet extension.

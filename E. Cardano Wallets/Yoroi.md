@@ -1,4 +1,7 @@
 #THC #wallet
+
+**Review on :** 9 March 2023
+
 ![[yoroi.svg|center|200]]
 # Yoroi
 Yoroi is an open-source, multi-functional, platform-rich, hierarchical deterministic (HD) and light-wallet extension and mobile app developed by Emurgo (IOG).
