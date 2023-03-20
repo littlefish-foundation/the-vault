@@ -1,10 +1,7 @@
 
 ---
-
-title: Exploring Murf.ai
-
-tags: text-to-speech voice-generation voice-cloning voice-over-video work-tools
-
+tool: Murf.ai
+author: Uli
 ---
 
 # Exploring Murf.ai

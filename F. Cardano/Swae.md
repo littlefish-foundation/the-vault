@@ -1,7 +1,6 @@
 ---
-title: Swae 
-author: D.
-date: 14 Mar 2023
+tool: Swae
+author: Donald
 ---
 
 # Swae an Organizational Tool

@@ -1,3 +1,7 @@
+---
+tool: Sproutsocial
+author: Newman
+---
 
 **Author:** Newman S. Lanier  https://twitter.com/newman5
 **Date:** 2023-03-18
