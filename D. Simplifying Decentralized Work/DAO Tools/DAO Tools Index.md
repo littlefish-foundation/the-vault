@@ -14,3 +14,5 @@
 | Miro        | [[D. Simplifying Decentralized Work/Tools of Work Research/Ready to use Metaverses for Community Gatherings.md\|Ready to use Metaverses for Community Gatherings]] |
 | SourceCred  | [[D. Simplifying Decentralized Work/DAO Tools/Why SourceCred Failed.md\|Why SourceCred Failed]]                                                                    |
 
+
+

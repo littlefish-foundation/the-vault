@@ -1,3 +1,8 @@
+---
+tool: WriteSonic
+author: Emir
+---
+
 # WriteSonic
 
 **Author:** Emir Olgun
