@@ -3,7 +3,7 @@ tool: Clarity
 author: Emir Olgun
 ---
 
-#dao-tool #cardano
+#dao-tool #cardano #deep-dive 
 
 **Author:** *Emir Olgun*
 **Date:** *18 February 2023*

@@ -2,7 +2,7 @@
 tool: Mercurychat
 author: Harsha
 ---
-#dao-tool 
+#dao-tool #deep-dive 
 
 # Mercurychat.io - Deep Dive
 

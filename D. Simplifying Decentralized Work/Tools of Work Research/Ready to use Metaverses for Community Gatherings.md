@@ -1,7 +1,7 @@
 ---
 tool: Miro
 ---
-#work-tools #THC #dao-tool 
+#work-tools #THC
 
 [***GATHERTOWN:*** ](https://www.gather.town/)
 * 2D Metaverse

@@ -3,7 +3,7 @@ tool: Liqwid
 author: Donald
 date: 19 Feb 2023
 ---
-#dao-tool 
+#dao-tool #deep-dive 
 
 # Liqwid Finance
 **Author:** Donald

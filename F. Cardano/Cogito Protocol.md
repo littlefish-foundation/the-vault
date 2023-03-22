@@ -3,7 +3,7 @@ title: An Investigative Research on Cogito Protocol
 tool: Cogito
 description: An Investigative Research on Cogito Protocol
 ---
-#dao-tool #fund-management
+#dao-tool #fund-management #deep-dive 
 # An Investigative Research on Cogito Protocol 
 
 ## Table of Contents

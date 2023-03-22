@@ -6,7 +6,7 @@ Whenever you need to update [[D. Simplifying Decentralized Work/DAO Tools/DAO To
 
 <%*
 const headers = ["Tool", "File"];
-const tableValues = DataviewAPI.pages('#dao-tools')
+const tableValues = DataviewAPI.pages('#dao-tool')
 .sort(p => p.tool, 'asc')
 .map(p =>[ p.tool, p.file.link]);
 const myTable = DataviewAPI.markdownTable(headers, tableValues);
@@ -14,3 +14,14 @@ const myTable = DataviewAPI.markdownTable(headers, tableValues);
 
 <% myTable %>
 
+Deep Dive
+
+<%*
+const headers = ["Tool", "File"];
+const tableValues = DataviewAPI.pages('#deep-dive')
+.sort(p => p.tool, 'asc')
+.map(p =>[ p.tool, p.file.link]);
+const myTable = DataviewAPI.markdownTable(headers, tableValues);
+-%>
+
+<% myTable %>
