@@ -13,7 +13,7 @@
   "smartIndentList": true,
   "strictLineBreaks": false,
   "pdfExportSettings": {
-    "pageSize": "Letter",
+    "pageSize": "A4",
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100
