@@ -2,7 +2,7 @@
 tool: Noty.AI
 author: Creed
 ---
-
+#work-tools
 Author: Creed
 Date:  15th March 2023
 

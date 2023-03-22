@@ -3,7 +3,7 @@ tool: Agora
 author: Emir
 ---
 
-#dao-tool #cardano 
+#dao-tool #cardano #deep-dive 
 
 **Author:** *Emir Olgun*
 **Date:** 19 February 2023

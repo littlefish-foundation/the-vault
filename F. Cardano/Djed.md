@@ -4,7 +4,7 @@ author: D.
 date: 14 Feb 2023
 ---
 
-#dao-tool 
+#dao-tool #deep-dive 
 
 # DJED Stablecoin
 **Author:** *Donald*

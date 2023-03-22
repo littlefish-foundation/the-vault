@@ -1,8 +1,8 @@
 ---
 title: Round Table
-tags: roundtable
+tool: roundtable
 ---
-
+#dao-tool #deep-dive
 # Round Table V2
 ### Features
 

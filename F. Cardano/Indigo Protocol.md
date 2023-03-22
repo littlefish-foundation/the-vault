@@ -2,7 +2,7 @@
 title: Exploring Indigo Protocol
 tool: Indigo
 ---
-
+#dao-tool #deep-dive 
 # Exploring Indigo Protocol 
 
 ### What is Indigo Protocol and What does it do?

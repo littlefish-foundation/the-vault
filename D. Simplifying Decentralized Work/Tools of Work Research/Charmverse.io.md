@@ -1,8 +1,7 @@
 ---
 tool: Charmverse
-author: Newman
 ---
-
+#work-tools #ocean-tech 
 Charmverse.io Web3 community tool
 
 
