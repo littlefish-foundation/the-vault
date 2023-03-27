@@ -1,6 +1,8 @@
 
 
 **51 Work Tools**
+
+
 | Tool                            | File                                                                                                                                                                          |
 | ------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | AgoraPulse                      | [[D. Simplifying Decentralized Work/Tools of Work Research/Social Media Tools/AgoraPulse- a social media management tool..md\|AgoraPulse- a social media management tool.]]   |
