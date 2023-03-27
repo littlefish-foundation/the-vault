@@ -14,7 +14,7 @@
 
 ## Availability
 
-Only available as a browser extension, compatible with all Chrome based browsers. There is no Web-UI for now.
+GeroWallet available as a browser extension, compatible with all Chrome based browsers. There is no Web-UI for now. They recently released iOS and Android apps.
 
 
 ## Features
@@ -43,6 +43,11 @@ Connect GeroWallet to supported web sites
 - **Gero Token**
 Swap ADA with $GERO token, available on SundaeSwap, Minswap and MuesliSwap.
 
+- **NFT Display**
+GeroWallet supports NFT display.
+![[GeroWalletNFT.png]]
+
+- GeroWallet is not open-source
 
 
 ## Compatibility
@@ -79,6 +84,8 @@ Users will use this token for
 **Staking** to the proper tiers to receive discounted prices for the wallet's services.
 
 Vote with your tokens on the wallet's future direction and usage restrictions, including the fee and reward schedules.
+
+GeroWallet is very 
 
 
   

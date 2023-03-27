@@ -45,6 +45,9 @@ Built in dApp connector, most features marked as "coming soon"
 - **XRAY token**
 Ray network's governance token. It will be used as payment token in their ecosystem when most features-services are released. 
 
+- **NFT Display**
+RayWallet only shows native assets as a list. Name, quantity and fingerprint of the asset can be seen and every asset has a link for Cardanoscan website to inspect the asset further. No image display is available for NFTs.
+
 ## Compatibility
 
 ### Hardware Wallets
@@ -81,6 +84,8 @@ Voting is not currently supported.
 RayWallet is currently in a very basic stage, It supports basic send-receive and staking functions for now.
 
 When the application is examined, the features to be added can be seen and most of them marked as "coming soon"
+
+RayWallet Github has not received any commit for more than two years. Although Ray Network twitter account is very active on twitter, RayWallet account is not active as last post on Twitter is from July 2022.
 
 ![[Pasted image 20220914132431.png]]
 
