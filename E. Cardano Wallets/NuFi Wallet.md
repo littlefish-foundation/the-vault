@@ -32,7 +32,9 @@ Supports Cardano and Solana ( Ethereum coming soon)
 - **Staking**
 Supports Cardano and Solana
 - **NFT Gallery**
-Store NFT's, send NFT's from Hot and Cold Wallets. ( Supports Cardano and Solana )
+Store NFT's, send NFT's from Hot and Cold Wallets. ( Supports Cardano, Ethereum and Solana )
+NFTs can be seen in gallery.
+![[NuFiNFT.png]]
 - **Cross-chain Trading**
 Integrated exchange
 - **Buy and Sell Crypto**
@@ -42,6 +44,8 @@ Available on extension application.
 - **Wing Riders**
 Decentralized Exchange Tool( Swap Request) (Liquidity Request) (Yield Farming)
 - **Non-Custodial Wallet**
+
+- NuFi Wallet is not open-source
 
 
 ![[Pasted image 20220912134944.png]]
@@ -86,6 +90,8 @@ Voting mechanism is not ready for use at the moment. It will be available for us
 
 
 ## Additional Notes
+
+NuFi community is very active and seems like they are on track of their roadmap.
 
 **NuFi’s exchange feature uses Changelly to allow users to exchange between cryptocurrencies**
 

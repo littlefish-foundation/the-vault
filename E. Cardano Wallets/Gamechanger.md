@@ -28,6 +28,8 @@ Simple NFT minting with drag and drop
 - **Send and Receive ADA**
 Only supports Cardano mainnet and testnet
 
+- **GameChanger is not open-source.**
+
 - **Gamified Interface**
 Main purpose is lowering the barrier of entry adoption
 
@@ -73,6 +75,9 @@ Incompatible with Yoroi and Daedalus
 
 ## Additional Notes
 
+As of March 2023, GameChanger Wallet is not functional because Dandelion API, which is used by GameChanger, is down. There is currently no information about the fix yet.
+
+GameChanger community is active and planning to migrate to GameChanger V2.
 
 These are the important warnings made by developers of GameChanger Wallet.
 

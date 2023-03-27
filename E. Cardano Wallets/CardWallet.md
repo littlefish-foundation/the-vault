@@ -10,7 +10,7 @@
 
 ## Availability
 
-Chrome extension, Web UI and Mobile Application.
+Chrome extension, Web UI, iOS and Android apps..
 
 https://cwallet.finance/
 
@@ -28,6 +28,12 @@ Supports Mastercard, Visa and Applepay ( transaction fees will be applied )
 - **Non-Custodial**
 
 - **Liquidity Mining**
+
+- This wallet is not open-source.
+
+- NFTs and Tokens are not visible on the wallet.
+
+- There is no address book support.
  
  Short article about liquidity mining
 https://medium.com/cardwallet/cardwallets-liquidity-mining-launched-a-step-by-step-tutorial-ae30a4a75f88
@@ -56,4 +62,4 @@ The biggest feature of CardWallet is that it supports many tokens in the Ethereu
 ![[Pasted image 20221013140518.png]]
 ![[Pasted image 20221013140555.png]]
 
-T
+- CardWallet social media activity stopped in May 2022.
