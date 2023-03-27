@@ -1,5 +1,5 @@
 
-Here are the 10 deep dives we did for the Tool of DAO work milestone. We will be adding more deep dives on tools/tech that enable DAOs on Cardano.
+
 | Tool        | File                                                             |
 | ----------- | ---------------------------------------------------------------- |
 | \-          | [[F. Cardano/Roundtable v2.md\|Roundtable v2]]                   |
@@ -12,3 +12,5 @@ Here are the 10 deep dives we did for the Tool of DAO work milestone. We will be
 | Indigo      | [[F. Cardano/Indigo Protocol.md\|Indigo Protocol]]               |
 | Liqwid      | [[F. Cardano/liqwid.md\|liqwid]]                                 |
 | Mercurychat | [[F. Cardano/Mercurychat.io.md\|Mercurychat.io]]                 |
+
+Here are the 10 deep dives we did for the Tool of DAO work milestone. We will be adding more deep dives on tools/tech that enable DAOs on Cardano.
