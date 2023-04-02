@@ -1,7 +1,12 @@
 ---
+author: Donald
 title: An Investigative Research on Cogito Protocol
 tool: Cogito
 description: An Investigative Research on Cogito Protocol
+date: February 2023
+deepDive: True
+chain: Cardano
+
 ---
 #dao-tool #fund-management #deep-dive 
 # An Investigative Research on Cogito Protocol 

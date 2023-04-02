@@ -1,5 +1,9 @@
 ---
 tool: Coordinape
+chain: Ethereum
+author: Unknown
+date: Unknown
+deepDive: False
 ---
 #dao-tool #ocean #ocean-tech
 

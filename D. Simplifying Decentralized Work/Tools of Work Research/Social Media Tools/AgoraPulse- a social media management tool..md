@@ -2,8 +2,10 @@
 ---
 tool: AgoraPulse
 author: Creed
+category: social media
+date: 16 March 2023
 ---
-#work-tools
+#work-tools #social-media-tools
 Author: Creed
 Date:16/03/2023
 

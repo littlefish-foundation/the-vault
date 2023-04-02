@@ -1,6 +1,10 @@
 ---
 title: Exploring Indigo Protocol
 tool: Indigo
+chain: Cardano
+author: Donald
+date: February 2023
+deepDive: True
 ---
 #dao-tool #deep-dive 
 # Exploring Indigo Protocol 

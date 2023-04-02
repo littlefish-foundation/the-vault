@@ -2,6 +2,8 @@
 tool: Liqwid 
 author: Donald
 date: 19 Feb 2023
+chain: Cardano
+deepDive: True
 ---
 #dao-tool #deep-dive 
 

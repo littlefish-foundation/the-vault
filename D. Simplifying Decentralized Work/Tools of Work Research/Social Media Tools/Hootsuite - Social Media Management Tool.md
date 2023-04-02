@@ -2,8 +2,10 @@
 ---
 tool: Hootsuite
 author: Franck Chukwurah
+category: social media
+date: 17 March 2023
 ---
-#work-tools
+#work-tools #social-media-tools
 **Author:** Frank Chukwurah 
 **Date:** 17/03/2023
 

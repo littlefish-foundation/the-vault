@@ -1,6 +1,10 @@
 ---
 title: Round Table
 tool: roundtable
+chain: Cardano
+deepDive: True
+author: Unknown
+date: Unknown
 ---
 #dao-tool #deep-dive
 # Round Table V2

@@ -1,8 +1,10 @@
 ---
 tool: Sendible
 author: Frank Chukwurah
+category: social media
+date: 15 March 2023
 ---
-#work-tools
+#work-tools #social-media-tools
 **Author:** Frank Chukwurah 
 **Date:** 15/03/2023
 
