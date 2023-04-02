@@ -1,5 +1,9 @@
 ---
 tool: SourceCred
+author: Unknown
+date: Unknown
+deepDive: False
+
 ---
 #dao-tool #ocean #ocean-tech
 # Why SourceCred Failed

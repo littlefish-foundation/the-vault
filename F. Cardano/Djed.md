@@ -1,7 +1,9 @@
 ---
 tool: DJED 
-author: D.
+author: Donald
 date: 14 Feb 2023
+chain: Cardano
+deepDive: True
 ---
 
 #dao-tool #deep-dive 

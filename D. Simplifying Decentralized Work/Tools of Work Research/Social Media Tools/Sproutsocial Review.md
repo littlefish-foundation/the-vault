@@ -1,8 +1,10 @@
 ---
 tool: Sproutsocial
 author: Newman
+category: social media
+date: 18 March 2023
 ---
-#work-tools
+#work-tools #social-media-tools
 **Author:** Newman S. Lanier  https://twitter.com/newman5
 **Date:** 2023-03-18
 

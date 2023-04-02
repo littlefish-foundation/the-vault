@@ -1,11 +1,15 @@
 
 ---
-
+tool: Kleoverse
 title: Exploring Kleoverse
-
+author: Uli
 tags: kleoverse project-management web3 dao contributor proof-of-work proof-of-talent
-
+date: 07 March 2023
+deepDive: False
+chain: Ethereum
 ---
+
+#dao-tool 
 
 # Exploring Kleoverse
 Author: Uli

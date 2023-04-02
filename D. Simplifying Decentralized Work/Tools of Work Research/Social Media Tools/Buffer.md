@@ -1,8 +1,10 @@
 ---
 tool: Buffer
 author: Harsha Gullapalli
+category: social media
+date: 19 March 2023
 ---
-#work-tools
+#work-tools #social-media-tools
 
 Author: Harsha Gullapalli
 Date: March 19th, 2023

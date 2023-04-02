@@ -5,10 +5,10 @@ Whenever you need to update [[D. Simplifying Decentralized Work/DAO Tools/DAO To
 ## The Template
 
 <%*
-const headers = ["Tool", "File"];
+const headers = ["Tool", "File", "Chain", "Deep Dive", "Author", "Date"];
 const tableValues = DataviewAPI.pages('#dao-tool')
 .sort(p => p.tool, 'asc')
-.map(p =>[ p.tool, p.file.link]);
+.map(p =>[ p.tool, p.file.link, p.chain, p.deepDive, ]);
 const myTable = DataviewAPI.markdownTable(headers, tableValues);
 -%>
 

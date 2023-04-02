@@ -1,6 +1,10 @@
 ---
 tool: Agora
-author: Emir
+author: Emir Olgun
+deepDive: True
+chain: Cardano
+author: Emir Olgun
+date: 19 February 2023
 ---
 
 #dao-tool #cardano #deep-dive 

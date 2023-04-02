@@ -1,4 +1,13 @@
+---
+deepDive: False
+date: Unknown
+author: Unknown
+chain: Cardano
+---
 #dao-tool 
+---
+
+
 
 ![[Cardano DAO Tools.png]]
 

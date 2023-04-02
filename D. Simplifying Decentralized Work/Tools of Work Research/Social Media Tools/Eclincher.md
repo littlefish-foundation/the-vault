@@ -1,8 +1,10 @@
 ---
 tool: Eclincher
 author: Creed
+category: social media
+date: 19 March 2023
 ---
-#work-tools
+#work-tools #social-media-tools
 Author: Creed
 Date:  19th March 2023
 

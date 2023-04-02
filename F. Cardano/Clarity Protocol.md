@@ -1,6 +1,9 @@
 ---
 tool: Clarity
 author: Emir Olgun
+deepDive: True
+chain: Cardano
+date: 18 February 2023
 ---
 
 #dao-tool #cardano #deep-dive 

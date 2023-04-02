@@ -1,8 +1,10 @@
 ---
 tool: SocialPilot
-author: Emir
+author: Emir Olgun
+category: social media
+date: 20 March 2023
 ---
-#work-tools
+#work-tools #social-media-tools
 **Author:** Emir Olgun
 **Date:** 20 March 2023
 
