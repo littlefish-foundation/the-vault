@@ -2,8 +2,6 @@
 tool: Discord
 category: organization
 deepDive: False
-author: Unknown
-date: Unknown
 chain: Cardano
 ---
 #work-tools #dao-tool #THC #Discord  #org-tools

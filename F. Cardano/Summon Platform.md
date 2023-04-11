@@ -4,10 +4,8 @@ title: Summon Platform
 tags: summon platform
 chain: Cardano
 deepDive: True
-author: Unknown
-date: Unknown
 ---
-#dao-tool #deep-dive 
+#dao-tool #deep-dive #daotool-deepdive
 # Summon Platform
 
 ### What is Summon Platform ?

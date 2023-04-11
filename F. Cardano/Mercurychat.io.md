@@ -2,10 +2,9 @@
 tool: Mercurychat
 author: Harsha
 deepDive: True
-date: Unknown
 chain: Cardano
 ---
-#dao-tool #deep-dive 
+#dao-tool #deep-dive #daotool-deepdive
 
 # Mercurychat.io - Deep Dive
 

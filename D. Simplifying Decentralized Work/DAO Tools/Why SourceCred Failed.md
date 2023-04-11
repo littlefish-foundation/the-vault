@@ -1,8 +1,8 @@
 ---
 tool: SourceCred
-author: Unknown
-date: Unknown
 deepDive: False
+chain: Ethereum
+bridge: false
 
 ---
 #dao-tool #ocean #ocean-tech

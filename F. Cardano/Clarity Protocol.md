@@ -6,7 +6,7 @@ chain: Cardano
 date: 18 February 2023
 ---
 
-#dao-tool #cardano #deep-dive 
+#dao-tool #cardano #deep-dive #daotool-deepdive
 
 **Author:** *Emir Olgun*
 **Date:** *18 February 2023*

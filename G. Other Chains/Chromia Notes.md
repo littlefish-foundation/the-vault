@@ -1,6 +1,9 @@
 ---
 title: Chromia Notes
-tags: Chromia
+tool: Chromia
+date: January 2023
+chain: Ethereum
+bridge: false
 ---
 
 

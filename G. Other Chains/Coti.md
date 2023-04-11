@@ -1,8 +1,13 @@
 ---
+title: COTI
 tool: COTI
-tags: COTI
+author: Donald
+date: 18 February 2023
+chain: COTI
+bridge: false
 ---
 
+#ocean-tech 
 
 # Exploring COTI
 **Author:** *Donald*

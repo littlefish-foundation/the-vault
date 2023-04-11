@@ -1,7 +1,5 @@
 ---
 deepDive: False
-date: Unknown
-author: Unknown
 chain: Cardano
 ---
 #dao-tool 

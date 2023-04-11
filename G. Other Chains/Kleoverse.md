@@ -6,10 +6,11 @@ author: Uli
 tags: kleoverse project-management web3 dao contributor proof-of-work proof-of-talent
 date: 07 March 2023
 deepDive: False
-chain: Ethereum
+chain: Ethereum, Binance Smart Chain, Solana
+bridge: false
 ---
 
-#dao-tool 
+#dao-tool #ocean-tech 
 
 # Exploring Kleoverse
 Author: Uli

@@ -3,6 +3,8 @@ tool: Charmverse
 author: Newman
 category: project management
 date: 1 March 2023
+chain: Ethereum
+bridge: false
 ---
 #work-tools #ocean-tech #project-management 
 Charmverse.io Web3 community tool
