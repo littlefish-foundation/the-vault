@@ -3,8 +3,6 @@
 tool: ISPO
 chain: Cardano
 deepDive: True
-author: Unknown
-date: Unknown
 ---
 #dao-tool #deep-dive 
 ## **What is an ISPO?**

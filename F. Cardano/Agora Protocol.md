@@ -7,7 +7,7 @@ author: Emir Olgun
 date: 19 February 2023
 ---
 
-#dao-tool #cardano #deep-dive 
+#dao-tool #cardano #deep-dive #daotool-deepdive
 
 **Author:** *Emir Olgun*
 **Date:** 19 February 2023
