@@ -1,9 +1,9 @@
-# NewOrder Monthly Report 3
+# NewOrder Monthly Report 5
 #project-catalyst #monthly-report
 
-**Previous Report**: [[NewOrder Monthly Report 2]]
-**Date Written**: 20th February 2023
-**Dates Covered**: December 16th 2022 - February 20th 2023
+**Previous Report**: [[NewOrder Monthly Report 4]]
+**Date Written**: 20th April 2023
+**Dates Covered**: 20th March 2023 - 20th April 2023
 
 ## Background
 
@@ -30,16 +30,9 @@ The work in this proposal is outsourced to the team of attorneys at Tevetoglu Le
 ### Module 1: Legal Research
 Read about this module here: [[NewOrder - Modules#**Module 1: Legal Research**]]
 
-The team concluded the research of the second problem area this month: **3 - Legal frameworks for Decentralized Organizations**
-
-You can find that document [here](https://docs.google.com/document/d/1XWkk79LRLfhjWcM6VjV97wlQUv9jbnoO/edit?usp=sharing&ouid=105493237723142439851&rtpof=true&sd=true). The document will soon be put on the Vault after the reviews are completed.
-
-Then the team will work on **1 - Legal status of LFF Action NFTs**
+The legal team is working on **1 - Legal status of LFF Action NFTs**. The status is pre-draft. We think it will be completed by the next report. 
 
 ### Module 2: Consultation and Educational Workshops
 Read about this module here: [[NewOrder - Modules#**Module 2: Consultation and Educational Workshops**]]
 
-We had no workshops after the initial one. We will start back up in late March with a workshop on DAO Legal Frameworks.
-
-## Discussion
-This work has been slow so far. We're giving it more attention to speed it all up and get the proposal done by June at the latest. 
+We had the second workshop on DAO Legal Frameworks at a Catalyst After Town Hall Breakout Room. You can watch it [here](https://www.youtube.com/watch?v=-YezMQsMbZo).
