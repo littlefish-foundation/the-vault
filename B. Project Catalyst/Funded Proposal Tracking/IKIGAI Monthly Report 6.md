@@ -18,3 +18,6 @@ We plan to deliver the proposal in the next 2 months.
 #### Progress report
 Development has continued this month. You can see our progress on the [repository](https://github.com/littlefish-foundation/ikigai). 
 
+The demo version of the app can be found here: https://ikigai-zeta.vercel.app/
+
+This demo version only means to give the functionality of the app. We're in the process of figuring out the data models and the functionalities of the app. We will update the design once we are fairly certain of all the details. With this demo version you can create your own character, view its profile, search and view other's profiles. 
