@@ -32,6 +32,8 @@ Read about this module here: [[NewOrder - Modules#**Module 1: Legal Research**]]
 
 The legal team is working on **1 - Legal status of LFF Action NFTs**. The status is pre-draft. We think it will be completed by the next report. 
 
+Here's the Medium article we published on the previous research topic: https://medium.com/@littlefishfoundation/a-new-dawn-for-corporations-in-the-age-of-digitalization-daos-3917bd0608c0
+
 ### Module 2: Consultation and Educational Workshops
 Read about this module here: [[NewOrder - Modules#**Module 2: Consultation and Educational Workshops**]]
 
