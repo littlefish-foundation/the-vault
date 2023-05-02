@@ -3,5 +3,5 @@
 
 
 
-![[WalletComparison-V3.png]]
+![[Wallet-Comparison-V4.png]]
 **Note:** GameChanger Wallet was inactive while doing the review. It will be updated as soon as it is back online.
