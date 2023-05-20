@@ -10,6 +10,25 @@ We've launched our landing page at https://littlefish.foundation. We have decide
 
 
 ## Progress this month
+### Module 3: Design UI/UX, Technical Specification
+![[Ikigai - Modules#Module 3: Design UI/UX, Technical Specification]]
+
+We've decided to go with a 3d field for our UI. We're now experimenting with ideas on how to implement an IKIGAI field. Here are some mockups from Miro.
+
+![[Pasted image 20230520181333.png]]
+
+And oh yeah, we're considering using the ADA symbol. We'll see if we can make something out of the combination of ADA and IKIGAI.
+
+Here are some mechanics we're considering: 
+
+The Hand of God to move around pieces of your IKIGAI
+   ![[Pasted image 20230520181947.png]]
+   
+Alternatively, we could have the field be populated automatically: 
+![[Pasted image 20230520182610.png]]
+
+We could implement an axis with things on the center being more and more important to the user.
+![[Pasted image 20230520182640.png]]
 
 ### Module 4: Development
 ![[Ikigai - Modules#Module 4: Development]]
