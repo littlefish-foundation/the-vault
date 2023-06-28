@@ -33,7 +33,7 @@ After the feedback about the quality of our docs, we improved the quality of the
 We decided to cancel our deep dive of **MintMatrix** because the tools is so primitive, we could not found any documentation and we could not use it to understand what it does.
 After these, we have 11 DAO Tools deep dives in total.
 We have also moved all our DAO tools docs from Obsidian to Gitbook this month.
-Gitbook link is [here](https://tools.littlefish.foundation)
+Gitbook link is [here](https://tools.littlefish.foundation/littlefish-research/cardano-ecosystem/cardano-dao-tools)
 TosiDrop: [link](https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/dao-tools/decentralized-finance/tosidrop)
 Round Table: [link](https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/dao-tools/decentralized-finance/round-table)
 Bro Clan: [link](https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/dao-tools/decentralized-finance/bro-clan)
