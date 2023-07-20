@@ -28,7 +28,7 @@ Our Digital Work Tools were rearranged last month and some tools had to be remov
 - [Notion](https://tools.littlefish.foundation/littlefish-research/all-docs/remote-work-tools/notion)
 - [Mirror](https://tools.littlefish.foundation/littlefish-research/all-docs/remote-work-tools/mirror)
 
-DAO tools map work is done and can be seen HERE.
+DAO tools map work is done and can be seen [here](https://map.littlefish.foundation).
 
 
 ### Module 3: Cardano DAO Tools
@@ -36,7 +36,7 @@ DAO tools map work is done and can be seen HERE.
 
 #### Progress report
 
-We have created a DAO Tools map HERE. It includes our DAO Tools documents, Digital Work Tools documents, Wallets, DeFi Tools and DAO Tools on other blockchains.
+We have created a DAO Tools map [**here**](https://map.littlefish.foundation). It includes our DAO Tools documents, Digital Work Tools documents, Wallets, DeFi Tools and DAO Tools on other blockchains.
 
 
 ## Discussion
