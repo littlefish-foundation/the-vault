@@ -1,7 +1,7 @@
 # DAOWork Monthly Report 10
 #project-catalyst #monthly-report
 
-**Previous Report**: [[DAOWork Monthly Report 10]]
+**Previous Report**: [[DAOWork Monthly Report 9]]
 **Date Written**: 20th July 2023
 **Dates Covered**: June 20th 2022 - July 20th 2023
 
