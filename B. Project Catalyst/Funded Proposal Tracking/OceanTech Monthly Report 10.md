@@ -1,7 +1,7 @@
 # OceanTech Monthly Report 10
 #project-catalyst #monthly-report
 
-**Previous Report**: [[OceanTech Monthly Report 8]]
+**Previous Report**: [[OceanTech Monthly Report 9]]
 **Date Written**: 20th August 2023
 **Dates Covered**: July 20th 2022 - August 20th 2023
 **Ocean**: The realm of all blockchains, their communities, where all the fish swim.
